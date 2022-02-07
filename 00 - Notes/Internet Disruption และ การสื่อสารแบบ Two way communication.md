@@ -1,0 +1,2 @@
+- internet disruption
+- two way communication
