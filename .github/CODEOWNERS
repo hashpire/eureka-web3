@@ -1,2 +1,3 @@
 .github/CODEOWNERS @anakornk
 .github/workflows/ @anakornk
+/00\ -\ Notes/ @hashpire/reviewers
