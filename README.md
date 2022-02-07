@@ -1,9 +1,11 @@
-# Eureka Module
+# Web3 Eureka Module
 
-This repo is an example of a Eureka Module. A Eureka Module is simply a Git Submodule containing Markdown files with extended support for the Obsidian Wikilinks Syntax.
+A [Eureka](https://github.com/TongHuaLabs/eureka) Module containing information, thoughts, and insights about Web3.
 
-Each module should have atleast a `README.md` explaining about its dependencies.
+## Getting Started
+
+`git submodule add https://github.com/hashpire/eureka-web3.git <folder-name>`
 
 ## Dependencies
 
-If a Eureka Module has links to other Eureka Modules, list them here.
+This module has no dependencies.
