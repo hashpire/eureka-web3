@@ -3,7 +3,7 @@ version: "0.0.0"
 ---
 # Digital Garden คืออะไร?
 
-![[Attachments/blog-vs-digital-garden.png]]
+![[Attachments/streams-campfires-gardens.png]]
 
 การเขียนเพื่อแบ่งปันข้อมูลในพื้นที่สาธารณะมักถูกสร้างขึ้นในรูปแบบของ โพสต์ หรือ บล็อก ที่เน้นการอธิบายข้อมูลเป็นบทความยาว ๆ และใช้เวลาในการสร้างค่อนข้างนาน แต่ในขณะเดียวกัน เนื้อหาเหล่านี้ก็มักจะเก่าทันทีเมื่อมีการเผยแพร่ลงสื่อต่าง ๆ เนื่องจากบทความถูกยึดติดกับวันที่และเวลาในการสร้าง ทำให้การแสดงเนื้อหาทั้งหมดนั้นยากต่อการเข้าถึง
 
@@ -20,5 +20,6 @@ Digital Garden หรือ สวนดิจิทัล คือฐานค
 
 ## References
 https://maggieappleton.com/garden-history
+https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/
 
 #type/article
