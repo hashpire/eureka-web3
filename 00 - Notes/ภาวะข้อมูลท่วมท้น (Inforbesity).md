@@ -4,7 +4,7 @@ version: "0.0.0"
 # ภาวะข้อมูลท่วมท้น (Inforbesity)
 ภาวะข้อมูลท่วมท้น (Infobesity) หรือ Information Overload คือภาวะของการรับข้อมูลที่เยอะหรือล้นเกินไปจนทำให้ไม่สามารถจัดระเบียบและควบคุมข้อมูลความรู้ต่าง ๆ ได้ทันการณ์
 
-[David Lavenda](https://www.linkedin.com/in/dlavenda/)  นักกลยุทธ์เทคโนโลยี อธิบายภาวะข้อมูลท่วมท้นนี้ด้วย 3 ประโยคสั้นๆ
+[David Lavenda](https://www.linkedin.com/in/dlavenda/)  นักกลยุทธ์เทคโนโลยีที่มีความสนใจในเรื่องของ Information Overload ได้อธิบายภาวะข้อมูลท่วมท้นนี้ด้วย 3 ประโยคสั้นๆ
 
 >Information overload comes in three flavors:
 >==Too much information, Not enough time, Poor Quality of Information== 
