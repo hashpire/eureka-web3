@@ -1,13 +1,17 @@
 ---
 version: "0.0.0"
+published: true
+cover_image: stream-campfire-garden.png
 ---
+
+
 # Digital Garden คืออะไร?
 
-![[Attachments/streams-campfires-gardens.png]]
+![[Attachments/stream-campfire-garden.png]]
 
 การเขียนเพื่อแบ่งปันข้อมูลในพื้นที่สาธารณะมักถูกสร้างขึ้นในรูปแบบของ โพสต์ หรือ บล็อก ที่เน้นการอธิบายข้อมูลเป็นบทความยาว ๆ และใช้เวลาในการสร้างค่อนข้างนาน แต่ในขณะเดียวกัน เนื้อหาเหล่านี้ก็มักจะเก่าทันทีเมื่อมีการเผยแพร่ลงสื่อต่าง ๆ เนื่องจากบทความถูกยึดติดกับวันที่และเวลาในการสร้าง ทำให้การแสดงเนื้อหาทั้งหมดนั้นยากต่อการเข้าถึง
 
-การเขียนโน๊ตแบบ Digital Garden มีความแตกต่างจากการเขียนในรูปแบบของ โพสต์ หรือ บล็อก โดยสิ้นเชิง เพราะสวนดิจิทัลเน้นการสร้างข้อมูลเป็นเป็นบทความสั้นๆ ไม่ซับซ้อน ให้อิสระกับผู้เขียนในการคิด สร้าง และเชื่อมต่อสิ่งต่าง ๆ ได้มากกว่า
+การเขียนโน๊ตแบบ Digital Garden มีความแตกต่างจากการเขียนในรูปแบบของ โพสต์ หรือ บล็อก โดยสิ้นเชิง เพราะโพสต์อย่าง social media คือตัวอย่างของ Digital Stream ที่ข้อมูลมาไวไปไวทำให้ยากต่อการเก็บข้อมูลที่สำคัญ ส่วนบล็อกโพสต์คือตัวอย่างของ Digital Campfire ที่ข้อมูต่าง ๆ จางหายไปตามกาลเวลาอย่างรวดเร็ว การสร้างโน๊ตแบบ Digital Garden เน้นการสร้างข้อมูลที่สามารถนำไปใช้ซ้ำได้ เป็นบทความสั้น ๆ ไม่ซับซ้อน ให้อิสระกับผู้เขียนในการคิด สร้าง และเชื่อมต่อไอเดียต่าง ๆ เข้าด้วยกัน
 
 Digital Garden หรือ สวนดิจิทัล คือฐานความรู้ในรูปแบบของโน๊ตที่สร้างความสัมพันธ์ระหว่างกันโดยเน้นการเชื่อมโยงกันที่เนื้อหา ไม่เน้นวันที่และเวลาในการเผยแพร่ สวนดิจิทัลคือกราฟความรู้ หรือ Knowledge Graph ที่โน๊ตต่าง ๆ สามารถลิงก์กันเพื่อนำไปใช้ประโยชน์และต่อยอดความคิดได้อย่างไม่สิ้นสุด
 
@@ -19,7 +23,7 @@ Digital Garden หรือ สวนดิจิทัล คือฐานค
 [https://hashpire.io/](https://l.facebook.com/l.php?u=https%3A%2F%2Fhashpire.io%2F%3Ffbclid%3DIwAR2M0PMyO2ejqMKDaYcAQpgqPrlCAGjb_CYc2w9h6WMITr4U5DUeDpJDSRk&h=AT33J-54H53uZuXKvVEcLSm4N1ZtIHw6EwHthRnnGNXa3HDI3F_Rc9WglWp0KRwWlVeDshkp5ssJEn-Mi-6QB96Ms_dpSXre0__8wcLhtIdsoOvRuESnBJlnIlRJOP6XPf1rdh1usQ&__tn__=-UK-R&c[0]=AT1-YJUc8JY9yt8ov3c-XBfHqhF2ZbZxANNxIPYniKxDlRP3K7c2ST0bJPfNBnesYBzsw-cidZHI5uwgJTSLCIa6EUQZLjpdhWuPtH5mpIcmNOZCNPqSnHw-W_gW-0dE-x_BKzlDKNncEInSwwjZundD6bngf2gG22q23XMntpS39tmZ7A3NBwqqd3GAXYx_GDqi)
 
 ## References
-https://maggieappleton.com/garden-history
-https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/
+[maggieappleton.com](https://maggieappleton.com/garden-history)
+[tomcritchlow.com](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
 
 #type/article
