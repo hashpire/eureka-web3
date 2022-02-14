@@ -3,6 +3,8 @@ version: "0.0.0"
 published: true
 cover_image: stream-campfire-garden.png
 ---
+uplinks:: [[Genesis]]
+tags:: #lang/th #type/article
 # Digital Garden คืออะไร?
 ![[Attachments/stream-campfire-garden.png]]
 
@@ -19,5 +21,3 @@ Digital Garden หรือ สวนดิจิทัล คือฐานค
 ## References
 [maggieappleton.com](https://maggieappleton.com/garden-history)
 [tomcritchlow.com](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
-
-#type/article
