@@ -7,8 +7,5 @@
 
 เว็บไซต์ในสมัยนั้นมีจุดเด่น คือสามารถเชื่อมโยงเว็บไซต์แต่ละหน้าเข้าหากัน เพื่อให้ผู้ใช้งานสามารถเข้าสู่หน้าเว็บไซต์หน้าอื่นๆ ได้อย่างง่ายดาย โดยเรียกว่าการทำ Hyperlink
 
-## ตัวอย่าง Web 1.0
-[Yahoo (1996)](https://web.archive.org/web/19961220154510/https://www.yahoo.com/)
-[Nasa (1996)](https://web.archive.org/web/19961231235847/https://www.nasa.gov/)
-[Geocities (1997)](https://web.archive.org/web/19970222174751/https://www1.geocities.com/)
-
+Reference
+- **[[Web 1.0 คืออะไร|Web 1.0]]**
