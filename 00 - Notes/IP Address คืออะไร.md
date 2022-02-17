@@ -1,3 +1,6 @@
+---
+version: "0.0.0"
+---
 uplinks:: [[Genesis]]
 tags:: #type/note #lang/th 
 # IP Address คืออะไร

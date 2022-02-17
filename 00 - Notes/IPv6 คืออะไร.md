@@ -1,3 +1,6 @@
+---
+version: "0.0.0"
+---
 uplinks:: [[IP Address คืออะไร]]
 tags:: #type/note #lang/th 
 # IPv6 คืออะไร
