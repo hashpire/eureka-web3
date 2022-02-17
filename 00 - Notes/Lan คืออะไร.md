@@ -1,6 +1,9 @@
+---
+version: "0.0.0"
+---
 uplinks:: [[Genesis]]
 tags:: #type/note #lang/th
-# Local Area Network (LAN) คืออะไร ?
+# Local Area Network (LAN) คืออะไร
 **Local Area Network** คือระบบเครือข่ายคอมพิวเตอร์ขนาดเล็ก เช่น บ้านเรือน อาคารสำนักงาน
 - คอมพิวเตอร์ในระบบถูกเชื่อมต่อกันผ่านอุปกรณ์เครือข่าย เช่น
 	- Router
