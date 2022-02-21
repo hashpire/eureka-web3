@@ -1,5 +1,7 @@
 ---
 version: "0.0.0"
+published: true
+contributors: ["Tong Hua Labs", "Anakorn Kyavatanakij"]
 ---
 uplinks:: [[Filecoin]]
 tags:: #lang/en #type/source
