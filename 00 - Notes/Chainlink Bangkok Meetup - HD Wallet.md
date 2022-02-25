@@ -2,7 +2,7 @@
 version: "0.0.0"
 ---
 uplinks:: [[Genesis]]
-tags:: #type/note #lang/th #wallet
+tags:: #type/note #lang/th #wallet #people/parinyar
 # Chainlink Bangkok Meetup - HD Wallet
 - Blockchain Wallets
 	- แท้จริงแล้ว Blockchain Wallet ไม่ได้ถูกใช้ในการเก็บเหรียญดิจิทัล แต่ใช้เก็บอย่างเดียวคือ Private key
