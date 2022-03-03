@@ -2,7 +2,7 @@
 version: "0.0.0"
 ---
 uplinks:: [[IP Address คืออะไร]]
-tags:: #type/note #lang/th 
+tags:: #type/note #lang/th #people/parinyar 
 # IPv6 คืออะไร
 **IPv6** คือชุดตัวเลขขนาด 128 bit ที่ถูกแบ่งออกเป็น 8 ชุดย่อย โดยแต่ละชุดจะมีขนาด 16 bit และมีสัญลักษณ์ทวิภาคคั่นกลางระหว่างชุด ประกอบไปด้วยเลขฐาน 16 คือ 0 - 9 และ A - F
 
@@ -10,3 +10,5 @@ tags:: #type/note #lang/th
 
 ## Reference
 - [saixiii.com](https://saixiii.com/what-is-ipv6/)
+
+## See Also

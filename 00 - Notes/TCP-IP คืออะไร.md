@@ -2,7 +2,7 @@
 version: "0.0.0"
 ---
 uplinks:: [[Genesis]]
-tags:: #type/note #lang/th 
+tags:: #type/note #lang/th #people/parinyar 
 # TCP/IP คืออะไร
  **TCP/IP** คือชุดของโปรโตคอลที่ถูกใช้ในการสื่อสารผ่านระบบเครือข่ายอินเทอร์เน็ต โดยมีวัตถุประสงค์เพื่อใช้ในการติดต่อสื่อสารข้ามเครือข่าย
 - **TCP** ย่อมาจากคำว่า **Transmission Control Protocal**
@@ -14,3 +14,5 @@ tags:: #type/note #lang/th
 
 ## Reference
 - [mindphp.com](https://www.mindphp.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/73-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/2042-tcp-ip-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.html)
+
+## See Also

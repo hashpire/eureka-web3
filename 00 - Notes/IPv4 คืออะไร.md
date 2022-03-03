@@ -2,7 +2,7 @@
 version: "0.0.0"
 ---
 uplinks:: [[IP Address คืออะไร]]
-tags:: #type/note #lang/th 
+tags:: #type/note #lang/th #people/parinyar 
 # IPv4 คืออะไร
 **IPv4** คือชุดตัวเลขขนาด 32 bit ที่ถูกแบ่งออกเป็น 4 ชุดย่อย โดยแต่ละชุดมีขนาด 8 bit และมีสัญลักษณ์จุดทศนิยมคั่นกลางระหว่างชุด มีตัวเลขตั้งแต่ 0 - 255 ดังนั้น IPv4 จะมีตั้งแต่ **0.0.0.0** - **255.255.255.255**
 
@@ -16,3 +16,5 @@ tags:: #type/note #lang/th
 ## Reference
 - [ais.th](https://www.ais.th/fibre/support_infoNet.html?slide=1#:~:text=IPv4%20%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%82%2032,%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%82%20IP)
 - [hostinglotus.com](https://www.hostinglotus.com/blog/2019/12/16/ip-address-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/)
+
+## See Also
