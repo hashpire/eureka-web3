@@ -12,6 +12,5 @@ The pioneers behind Web3
 - [[Juan Benet]]
 - [[Gregory Maxwell]]
 
-## References
-
 ## See Also
+1. [[People behind Web2]]
