@@ -1,7 +1,7 @@
 ---
 version: "0.0.0"
 ---
-uplinks:: [[Genesis]]
+uplinks:: [[ประวัติความเป็นมาของเว็บไซต์]]
 tags:: #type/note #lang/th #people/parinyar
 # Web 1.0 คืออะไร ?
 **Web 1.0** คือยุคเริ่มแรกของเว็บไซต์ เกิดขึ้นเมื่อราวๆ ปี 1990 - 2000
@@ -15,3 +15,5 @@ tags:: #type/note #lang/th #people/parinyar
 ## References
 
 ## See Also
+- [[Web 2.0 คืออะไร]]
+- [[Web 3.0 คืออะไร]]

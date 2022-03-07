@@ -1,7 +1,7 @@
 ---
 version: "0.0.0"
 ---
-uplinks:: [[Genesis]]
+uplinks:: [[ประวัติความเป็นมาของเว็บไซต์]]
 tags:: #type/note #lang/th #people/parinyar
 # Web 2.0 คืออะไร
 **Web 2.0** คือยุคที่ 2 ของเว็บไซต์ เกิดขึ้นเมื่อต้นปี 2000
@@ -14,3 +14,5 @@ tags:: #type/note #lang/th #people/parinyar
 ## References
 
 ## See Also
+- [[Web 1.0 คืออะไร]]
+- [[Web 3.0 คืออะไร]]
