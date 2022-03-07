@@ -1,5 +1,6 @@
 ---
 version: "0.0.0"
+published: true
 ---
 uplinks:: [[Genesis]]
 tags:: #lang/en #type/term 
