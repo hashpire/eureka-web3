@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "fbbf1595ac0f81d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfcd5fa94c0eb741",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Internet 1.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dc917057aa58d1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c7760f7c9a07967",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0a241c493e86e7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "41f02e5791c5bfb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "979933f066889229",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb6d9609627e2192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0644bab509514d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Internet 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bfcd5fa94c0eb741",
+  "lastOpenFiles": [
+    "Internet 1.md",
+    "00 - Notes/5G คืออะไร.md"
+  ]
+}
