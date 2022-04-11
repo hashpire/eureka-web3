@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "dc8e4d32466393eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5f14bb3e4bfd38a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "อินเทอร์เน็ตกำเนิดขึ้นครั้งแรก.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9bbea2e453f3aec",
+    "type": "split",
+    "children": [
+      {
+        "id": "b886d50daf81ee4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e7149e37ed40d54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f3a99bc909c6ec0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3a1a0ad949c2328",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd24912df71ad23f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ee54f2211664cf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "อินเทอร์เน็ตกำเนิดขึ้นครั้งแรก.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e5f14bb3e4bfd38a",
+  "lastOpenFiles": [
+    "อินเทอร์เน็ตกำเนิดขึ้นครั้งแรก.md",
+    "00 - Notes/5G คืออะไร.md"
+  ]
+}
