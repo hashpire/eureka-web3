@@ -26,4 +26,3 @@ tags:: #type/article #lang/th #people/sutida
 - [ต้นกำเนิด HTTP และผู้พัฒนาระบบเวิลด์ไวด์เว็บ "เซอร์ทิโมที จอห์น เบอร์เนิร์ส-ลี"](https://www.altv.tv/content/altv-news/610cb2aedee28f12e6eb2f55)
 
 ## See Also
-test
