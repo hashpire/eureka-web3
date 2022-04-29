@@ -1,7 +1,7 @@
 ---
 version: "0.0.0"
 ---
-uplinks:: [[Internet คืออะไร]]
+uplinks:: [[WEB 3.0]]
 tags:: #type/article #lang/th #people/sutida 
 # web 3.0 Technology stack
 ![[web3 tech stack.jpg]]
@@ -32,3 +32,6 @@ tags:: #type/article #lang/th #people/sutida
 - [WEB 3.0 คืออะไร?](https://www.finnomena.com/zipmex/what-is-web-3-0/)
 
 ## See Also
+- [[Blockchain คืออะไร]]
+- [[On-Chain Scaling]]
+- [[Off-Chain Scaling]]
