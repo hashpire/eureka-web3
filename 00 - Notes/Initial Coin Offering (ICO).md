@@ -1,5 +1,5 @@
 ## version: "0.0.0"
-uplinks:: 
+uplinks:: [[Token vs Coin]]
 tags:: [#type/note](app://obsidian.md/index.html#type/note) [#lang/th](app://obsidian.md/index.html#lang/th) [#people/Sutida](app://obsidian.md/index.html#people/Sutida)
 # Initial Coin Offering (ICO)
 - คือ การระดมทุนในรูปแบบดิจิทัลด้วยการเสนอขาย ดิจิทัลโทเคน (digital token) ผ่านระบบบล็อกเชนต่อสาธารณชน 
