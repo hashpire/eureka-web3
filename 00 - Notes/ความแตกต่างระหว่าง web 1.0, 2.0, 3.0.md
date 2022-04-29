@@ -1,7 +1,7 @@
 ---
 version: "0.0.0"
 ---
-uplinks:: [[Internet คืออะไร]]
+uplinks:: [[จุดเริ่มต้นของ WWW]]
 tags:: #type/article #lang/th #people/sutida 
 # ความแตกต่างระหว่าง web 1.0, 2.0, 3.0
  
@@ -27,3 +27,6 @@ tags:: #type/article #lang/th #people/sutida
 - [ความแตกต่างของ web1.0 2.0 3.0 ](http://tanatthakan.blogspot.com/2015/01/web10-20-30-40.html)
 
 ## See Also
+- [[ WEB 1.0 ]]
+- [[ WEB 2.0]]
+- [[ WEB 3.0 ]]
