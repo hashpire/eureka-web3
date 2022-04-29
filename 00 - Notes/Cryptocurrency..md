@@ -32,7 +32,7 @@ tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/
 - [คริปโตเคอร์เรนซี (Cryptocurrency)](https://zipmex.com/th/learn/what-is-cryptocurrency/)
 
 ## See Also
-- [[Cryptocurrency]]
+- [[Cryptocurrency  มีประเภทเหรียญแบบไหนบ้าง]]
 
 
 
