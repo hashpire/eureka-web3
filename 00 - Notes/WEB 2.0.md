@@ -1,7 +1,7 @@
 ---
 version: "0.0.0"
 ---
-uplinks:: [[Internet คืออะไร]]
+uplinks:: [[จุดเริ่มต้นของ WWW ]]
 tags:: #type/article #lang/th #people/sutida
 # WEB 2.0 
 ![[WEB 2.0 1.png]]
@@ -25,3 +25,5 @@ tags:: #type/article #lang/th #people/sutida
 - [วิวัฒนาการเว็บไซต์ Web 1.0, Web 2.0](https://sites.google.com/a/bumail.net/technoloyi-websit/wiwathnakar-websit-web-1-0-web-2-0-web-3-0-web-4-0)
 
 ## See Also
+- [[ WEB 1.0 ]]
+- [[ WEB 2.0 ]]
