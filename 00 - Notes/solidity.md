@@ -1,5 +1,5 @@
 ## version: "0.0.0"
-uplinks:: [Genesis](app://obsidian.md/Genesis)  
+uplinks:: [[ Smart Contract]]
 tags:: [#type/note](app://obsidian.md/index.html#type/note) [#lang/th](app://obsidian.md/index.html#lang/th) [#people/Sutida](app://obsidian.md/index.html#people/Sutida)
 
 # solidity
