@@ -1,7 +1,7 @@
 ---
 version: "0.0.0"
 ---
-uplinks:: [[Internet คืออะไร]]
+uplinks:: [[จุดเริ่มต้นของ WWW]]
 tags:: #type/article #lang/th #people/sutida 
 # WEB 3.0
 ![[WEB 3.0.png]]
@@ -68,3 +68,5 @@ Web 3.0 พยายามให้ผู้คนสามารถเลือ
 - [พาไปรู้จักกับ ‘Web 3.0’ แล้วคนธรรมดาอย่างเรา ๆ ต้องรู้อะไรบ้าง](https://www.beartai.com/article/tech-article/914953)
 
 ## See Also
+- [[ WEB 1.0 ]]
+- [[ WEB 2.0 ]]
