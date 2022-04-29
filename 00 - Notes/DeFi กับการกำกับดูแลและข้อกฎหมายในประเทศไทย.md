@@ -1,5 +1,5 @@
 ## version: "0.0.0"
-uplinks:: [Genesis](app://obsidian.md/Genesis)  
+uplinks:: [[Decentralized Finance (DeFi)]]
 tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
 
 # DeFi กับการกำกับดูแลและข้อกฎหมายในประเทศไทย
@@ -36,5 +36,4 @@ DeFi และการกำกับดูแล พระราชกำห�
 - [Decentralized Finance (DeFi) และการกำกับดูแล](https://www.sec.or.th/TH/Template3/Articles/2564/070664.pdf)
 
 ## See Also
-- [[Decentralized Finance (DeFi)]]
 - [[ความเสี่ยงของ DeFi]]
