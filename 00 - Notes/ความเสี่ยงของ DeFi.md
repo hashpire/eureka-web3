@@ -1,5 +1,5 @@
 ## version: "0.0.0"
-uplinks:: [Genesis](app://obsidian.md/Genesis)  
+uplinks::[[Decentralized Finance (DeFi)]]
 tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
 
 # ความเสี่ยงของ DeFi
@@ -15,5 +15,4 @@ tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/
 - [DeFi คืออะไร? ทำความรู้จักกับโลกการเงิน ที่ไม่ต้องพึ่งธนาคาร](https://www.finnomena.com/bitcoinaddict/what-is-defi/)
 
 ## See Also
-- [[Decentralized Finance (DeFi)]]
 - [[DeFi กับการกำกับดูแลและข้อกฎหมายในประเทศไทย]]
