@@ -1,7 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Ethereum]]
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
-
+tags:: #type/note #lang/th #people/Sutida
 # Ethereum Layer 2
 จุดเริ่มต้นของ Ethereum layer 2
  - Blockchian ที่เราใช้งานกันในปัจจุบัน ไม่ว่าจะเป็น Bitcoin Ethereum หรือเหรียญต่าง ๆ เราจะเรียกมันว่าเป็น *Blockchain Layer 1* คือ โครงสร้างพื้นฐานหลักๆที่แต่ละ Blockchain ใช้ในการบันทึกธุรกรรมลงบนบล็อคและตรวจสอบธุรกรรมต่างๆ มันเปรียบเสมือนเป็น*ถนนเส้นหลักที่ทุกคนใช้งานกัน*
