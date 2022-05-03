@@ -1,7 +1,9 @@
-## version: "0.0.0"
-uplinks:: [Genesis](app://obsidian.md/Genesis)  
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
-
+---
+version: "0.0.0"
+published: true
+---
+uplinks:: [[Genesis]]
+tags:: #type/note #lang/th #people/Sutida
 # Decentralization
 - เป็นการกระจายข้อมูลด้วยเทคโนโลยีบล็อกเชนที่มีความปลอดภัยสูง 
 - ไม่มีใครสามารถเป็นเจ้าของข้อมูลทั้งหมด 
