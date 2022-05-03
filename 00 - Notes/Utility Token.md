@@ -1,7 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Token vs Coin]]
-tags:: [#type/note](app://obsidian.md/index.html#type/note) [#lang/th](app://obsidian.md/index.html#lang/th) [#people/Sutida](app://obsidian.md/index.html#people/Sutida)
-
+tags:: #type/note #lang/th #people/Sutida
 # Utility Token
 - Utility Token หรือ โทเคนดิจิทัลเพื่อการใช้ประโยชน์ 
 - เป็นข้อมูลอิเล็กทรอนิกส์ซึ่งถูกสร้างขึ้นบนระบบหรือเครือข่ายอิเล็กทรอนิกส์ เปรียบเสมือนแต้มหรือคะแนนที่ให้แก่ผู้ถือในการรับสินค้า บริการ หรือสิทธิ์อื่นใดที่เฉพาะเจาะจง
