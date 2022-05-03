@@ -1,6 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Bitcoin คืออะไร]]
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags:: #type/note #lang/th #people/Sutida
 
 # The P2P Movement
 - *Peer-to-peer (P2P)* เป็นแพลตฟอร์มแบบกระจายอำนาจโดยที่บุคคลสองคนโต้ตอบกันโดยตรงโดยไม่มีการไกล่เกลี่ยโดยบุคคลที่สาม หรือไม่มีตัวกลางนั่นเอง ผู้ซื้อและผู้ขายทำธุรกรรมโดยตรงระหว่างกันผ่านบริการ P2P 
@@ -16,4 +19,4 @@ tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/
 
 ## See Also
 - [[The cypherpunk Movement]]
--  [[The Open Source Movement]]
+- [[The Open Source Movement]]
