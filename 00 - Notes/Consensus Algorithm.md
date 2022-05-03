@@ -1,9 +1,11 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Decentralization.]]  
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags:: #type/note #lang/th #people/Sutida 
 
 # Consensus คืออะไร
-
 - คำว่า Consensus นั้นแปลตรงตัวว่า "ฉันทามติ"  ในระบบ[[Decentralization.]] คือ การที่ทุกคนมีกฎตั้งไว้ร่วมกันตั้งแต่เริ่มต้น และทุกคนในระบบจะยึดถือกฎนี้ร่วมกันอย่างเคร่งครัด หากใครทำไม่ตรงตามกฎ การกระทำนั้น ๆ จะถูกเตะทิ้งทันที
 - Consensus Algorithm เปรียบเสมือนกับ “หัวใจ” ของเครือข่ายบล็อกเชน
 - เป็นมาตรการที่เครือข่ายบล็อกเชนใช้ในการยืนยันความน่าเชื่อถือของธุรกรรม โดยผู้ที่จะมายืนยันความน่าเชื่อถือของธุรกรรมต้องมีการ “เดิมพัน” หรือ Stake ด้วยอะไรบางอย่าง เครือข่ายถึงจะสามารถยอมรับการตัดสินนั้นๆได้ 
