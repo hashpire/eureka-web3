@@ -1,8 +1,9 @@
-## version: "0.0.0"
-
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Blockchain คืออะไร]]
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
-
+tags::#type/note #lang/th #people/Sutida
 # Blockchain
 - *Blockchain* คือระบบฐานข้อมูลที่มีความปลอดภัยและน่าเชื่อถือ โดยมีคุณสมบัติหลัก 2 อย่าง คือ 
 	1. จัดเก็บข้อมูลเเบบถาวร เราสามารถบันทึกข้อมูลเพิ่มขึ้นได้แต่ไม่สามารถลบได้รวมถึงการเเก้ไขก็ทำได้ยากมากเช่นกัน
