@@ -1,6 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Ethereum]]
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags:: #type/note #lang/th #people/Sutida
 
 # Ethereum 2.0 คืออะไร ?
 - **Ethereum 2.0** หรือที่ตอนนี้ต้องเรียกว่า Ethereum เฉย ๆแล้ว เป็นการอัพเกรดในส่วนสุดท้ายหลังจาก Frontier, Homestead และ Metropolis โดยในเวอร์ชันนี้มีจุดมุ่งหมายเพื่อเพิ่มความเร็ว ประสิทธิภาพ และความสามารถในการปรับขนาดของเครือข่าย Ethereum
