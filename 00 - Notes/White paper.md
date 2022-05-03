@@ -1,6 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [Genesis](app://obsidian.md/Genesis)  
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags:: #type/note #lang/th #people/Sutida
 
 # White paper
 - คือ เอกสารที่ใช้ในการนำเสนอข้อมูล รายละเอียดต่าง ๆ จากเจ้าของโปรเจค เจ้าของเทคโนโลยีหรือจากบริษัทไปยังผู้ใช้งาน 
