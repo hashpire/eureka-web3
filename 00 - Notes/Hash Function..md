@@ -1,6 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Cryptographic primitives in blockchains]]
-tags:: [#type/note](app://obsidian.md/index.html#type/note) [#lang/th](app://obsidian.md/index.html#lang/th) [#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags:: #type/note #lang/th #people/Sutida
 
 # Hash Function
 - คือวิธีการที่ทำให้ข้อมูลต้นฉบับส่วนหนึ่งหรือทั้งหมดถูกย่อย ๆ ให้มีขนาดเล็ก ๆที่เรียกว่า Digest หรือ ข้อมูลย่อย 
