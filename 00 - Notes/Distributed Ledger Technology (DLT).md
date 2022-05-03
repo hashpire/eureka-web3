@@ -1,7 +1,9 @@
-## version: "0.0.0"
-uplinks:: [Genesis](app://obsidian.md/Genesis)  
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
-
+---
+version: "0.0.0"
+published: true
+---
+uplinks:: [[Genesis]]
+tags:: #type/note #lang/th #people/Sutida
 # Distributed Ledger Technology (DLT)
 - ระบบฐานข้อมูลที่เผยแพร่ในรูปแบบ อิเล็กทรอนิกส์ ผ่าน node ,Website, platfrom ต่าง ๆ 
 - เทคโนโลยีจัดเก็บข้อมูลเเบบกระจายศูนย์เอื้อให้สมาชิกเครือข่ายสามารถเเลกเปลี่ยนข้อมูล ประสานงานและทำธุรกรรมร่วมกันโดยไม่ต้องผ่านตัวกลาง
@@ -18,10 +20,3 @@ tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/
 ## See Also
 - [[Centralized]]
 - [[Decentralization]]
-
-
-
-
-
-
-
