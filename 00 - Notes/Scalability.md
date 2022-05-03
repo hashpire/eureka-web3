@@ -1,6 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Blockchain Trilemma คือ]]
-tags:: [#type/note](app://obsidian.md/index.html#type/note) [#lang/th](app://obsidian.md/index.html#lang/th) [#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags::#type/note #lang/th #people/Sutida
 
 # Scalability
 ความสามารถขยายเครือข่าย หมายถึง เครือ Blockchain สามารถรองรับจำนวนผู้ใช้หรือธุรกรรมที่เพิ่มสูงขึ้นได้อย่างมีประสิทธิภาพ โดยไม่เกิด*ปัญหาคอขวด*เมื่อมีจำนวนผู้ใช้งานในเครือข่ายสูง
