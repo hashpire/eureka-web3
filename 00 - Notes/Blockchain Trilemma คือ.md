@@ -1,11 +1,12 @@
-## version: "0.0.0"
-
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Blockchain]]
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
-
+tags:: #type/note #lang/th #people/Sutida
 
 # Blockchain Trilemma คือ
-''กำแพง 3 ชั้นของ Blockchain ที่เข้ากันไม่ได้"
+"กำแพง 3 ชั้นของ Blockchain ที่เข้ากันไม่ได้"
 เทคโนโลยี Blockchain เป็นเทคโนโลยีที่ทำให้การส่งต่อมูลค่าผ่านทางอินเทอร์เน็ตเกิดขึ้นได้โดยที่ไม่ต้องผ่านตัวกลาง และเป็นพื้นฐานที่สำคัญของ [[Cryptocurrency]] 
 
 **“Blockchain Trilemma”** คือแนวคิดที่ Vitalik Buterin ผู้สร้าง Ethereum ได้ระบุไว้ว่า การที่เครือข่ายบล็อกเชนจะสามารถก้าวสู่การ Mass Adoption หรือการใช้งานเป็นวงกว้างตั้งแต่บุคคลทั่วไปไปจนถึงนักลงทุน หรือเด็กตัวเล็ก ๆ ไปจนถึงผู้สูงอายุ บล็อกเชนจะต้องมีคุณสมบัติสำคัญ 3 อย่าง นั่นคือกำแพงสำคัญที่ผู้พัฒนาเครือข่าย Blockchain ต้องพิจารณาเสมอในการสร้างเครือข่าย เป็นกำแพงที่ขัดขวางไม่ให้ Blockchain สามารถบรรลุทั้งการกระจายศูนย์ [[Decentralization]] ความปลอดภัย [[Security]] และความสามารถในการขยายเครือข่าย [[Scalability]] ได้พร้อม ๆกัน
