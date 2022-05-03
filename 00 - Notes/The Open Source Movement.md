@@ -1,5 +1,9 @@
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Bitcoin คืออะไร]]
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags:: #type/note #lang/th #people/Sutida
 
 # The Open Source Movement
 - The Open Source Movement คือ การเคลื่อนไหวทางสังคมซึ่งเริ่มต้นโดยโปรแกรมเมอร์คอมพิวเตอร์ที่ปฏิเสธความลับและการควบคุมจากส่วนกลาง เพื่อสนับสนุนการกระจายอำนาจ ความโปร่งใสและการแบ่งปันข้อมูลอย่างไม่จำกัด
