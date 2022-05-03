@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [Genesis](app://obsidian.md/Genesis)  
+uplinks:: [[Genesis]] 
 tags:: #type/note #lang/th #people/Sutida
 
 # White paper
