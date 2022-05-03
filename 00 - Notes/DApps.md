@@ -1,6 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[ Blockchain คืออะไร]]
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags:: #type/note #lang/th #people/Sutida
 
 # Decentralized App (DApps)
 - DApps คือ แอพพลิเคชันหรือโปรแกรมดิจิทัลที่ทำงานบนเครือข่ายบล็อกเชนและทำงานแบบ Peer-to-peer (P2P) แบบกระจายศูนย์ที่ไม่ถูกควบคุมโดยฝ่ายใดฝ่ายหนึ่ง แม้แต่ตัวผู้พัฒนาเอง แต่สามารถดำเนินการได้ด้วยตัวเองผ่าน [[Smart Contract]] ที่เขียนขึ้นโดยใช้ภาษาคอมพิวเตอร์ชื่อ [[solidity]]
