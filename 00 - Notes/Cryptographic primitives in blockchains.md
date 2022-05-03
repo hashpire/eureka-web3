@@ -1,6 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Cryptography]]
-tags:: [#type/note](app://obsidian.md/index.html#type/note) [#lang/th](app://obsidian.md/index.html#lang/th) [#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags:: #type/note #lang/th #people/Sutida
 
 # Cryptographic primitives in blockchains
 Cryptographic primimtives  คือ กระบวนการการเข้ารหัสระดับต่ำที่ใช้ในการสร้างระบบการเข้ารหัสลับ 
