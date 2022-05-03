@@ -1,5 +1,9 @@
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[web 3.0 Tech stack]] 
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags:: #type/note #lang/th #people/Sutida
 
 # Metamask
 - MetaMask คือ กระเป๋าเงินออนไลน์ที่ใช้สำหรับเก็บ Token ที่อยู่บน [[Ethereum]] ทุกชนิดในรูปแบบ ERC-20 
