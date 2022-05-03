@@ -1,6 +1,10 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Token vs Coin]]
-tags:: [#type/note](app://obsidian.md/index.html#type/note) [#lang/th](app://obsidian.md/index.html#lang/th) [#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags:: #type/note #lang/th #people/Sutida
+
 # Initial Coin Offering (ICO)
 - คือ การระดมทุนในรูปแบบดิจิทัลด้วยการเสนอขาย ดิจิทัลโทเคน (digital token) ผ่านระบบบล็อกเชนต่อสาธารณชน 
 - โดยผู้ระดมทุนจะเป็นผู้ออก digital token มาแลกกับเงินดิจิทัล (cryptocurrency) สกุลหลัก เช่น Bitcoin หรือ Ether เป็นช่องทางการเข้าถึงเงินทุนที่สะดวก รวดเร็ว และมีค่าใช้จ่ายไม่สูงนักทำให้ได้รับความนิยมจากกลุ่มเทคสตาร์ทอัพ เป้นอย่างมาก
