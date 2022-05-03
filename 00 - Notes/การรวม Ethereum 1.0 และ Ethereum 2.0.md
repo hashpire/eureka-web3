@@ -1,6 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Ethereum]]
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags:: #type/note #lang/th #people/Sutida
 
 # การรวม Ethereum 1.0 และ Ethereum 2.0
 - Ethereum Foundation ประกาศ "รีแบรนด์" ให้*รวมร่าง Ethereum 1.0 และ Ethereum 2.0* ทั้งคู่โดยจะรวมกันเป็น Ethereum เฉย ๆ 
