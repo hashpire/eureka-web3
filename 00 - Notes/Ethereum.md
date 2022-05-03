@@ -1,6 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Ethereum]]
-tags:: [#type/note](app://obsidian.md/index.html#type/note) [#lang/th](app://obsidian.md/index.html#lang/th) [#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags::#type/note #lang/th #people/Sutida
 
 # Ethereum
 - Ethereum คือ แพลตฟอร์มบนเครือข่ายบล็อกเชนที่ทำงานด้วย [[Smart Contract]] มีลักษณะแพลตฟอร์มเน้นกระจายศูนย์หรือ [[DApps]] (Decentralized Application)
