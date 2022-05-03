@@ -1,7 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Ethereum Layer 2]] 
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
-
+tags:: #type/note #lang/th #people/Sutida
 > **Scaling Solution คือ?**
 > คือวิธีการเเก้ปัญหาที่เกิดจากจำนวนผู้ใช้งานที่เพิ่มมากขึ้นของ Bitcoin & Ethereum ที่ทำให้ความสามารถในการรองรับการทำธุรกรรมไม่เพียงพอกับผู้ใช้งานจึงเกิดความล่าช้าและค่าธรรมเนียม (Gas) แพงขึ้น
 > โดยประเภทของ Scaling Solution นั้นสามารถแบ่งออกได้เป็น 2 ประเภทคือ **On-chain scaling** และ  **Off-chain scaling**
