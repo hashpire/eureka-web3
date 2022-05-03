@@ -1,6 +1,10 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Ethereum Layer 2]] 
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags::#type/note #lang/th #people/Sutida
+
 # ZK-Rollup
 - ZK-Rollup หรือ Zero Knowledge Rollup คือ Layer 2 ประเภทหนึ่งที่ Blockchain ของมันทำงานร่วมกันกับ Ethereum Chain หลัก *(On-chain)*
 - ภายใน ZK-Rollup จะไม่สามารถนำแพลตฟอร์มหรือ DApps ที่รันอยู่บน Ethereum Chain มาใช้งานภายใน Blockchain นี้ได้ *(ใช้ EVM ไม่ได้)*
