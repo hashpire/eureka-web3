@@ -1,9 +1,11 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Bitcoin คืออะไร]]
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags::#type/note #lang/th #people/Sutida
 
  # The cypherpunk Movement
- 
  *Cypherpunk* คือกลุ่มบุคคลที่สนับสนุนเรื่องความปลอดภัยผ่านการเข้ารหัสลับเเละเทคโนโลยีเพื่อความเป็นส่วนตัวมีจุดมุ่งหมายเพื่อสร้างเส้นทางไปสู่การเปลี่ยนเเปลงทางสังคมและการเมือง โดยเริ่มมีการเคลื่อนไหวตั้งเเต่ปลายทศวรรษ 1980 เป็นอย่างน้อย
  
  -  พื้นฐานเเนวคิดของกลุ่ม Cypherpunk เริ่มต้นมาจาก ปี 1985 David Chaum นักเข้ารหัสและผู้เขียนบทความต่าง ๆเกี่ยวกับ ระบบเงินดิจิทัลเเบบไม่ระบุตัวตน ระบบการใช้นามแฝง ได้ปล่อยบทความที่มีชื่อว่า ความปลอดภัยโดยไม่ระบุตัวตน *''Security without identification: Transaction Systems to Make Big Brother Obsolete''* เป็นบทความที่เกี่ยวกับการเเนะนำเทคนิคต่าง ๆในการสร้างระบบเงินดิจิทัล แบบไม่ต้องระบุตัวตนของผู้ใช้งาน ซึ่งเป็นก้าวเเรกสู่สกุลเงินดิจิทัลที่เราเห็นอยู่ในปัจุบัน
@@ -20,13 +22,7 @@ tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/
 ## References
 - [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk)
 - [the cypherpunk movement](https://academy.horizen.io/history/the-cypherpunk-movement/)
+
 ## See Also
 - [[The Open Source Movement]]
--  [[The P2P Movement]]
- 
- 
- 
- 
- 
- 
- 
+- [[The P2P Movement]]
