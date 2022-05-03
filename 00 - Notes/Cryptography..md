@@ -1,7 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Cryptographic primitives in blockchains]]
-tags:: [#type/note](app://obsidian.md/index.html#type/note) [#lang/th](app://obsidian.md/index.html#lang/th) [#people/Sutida](app://obsidian.md/index.html#people/Sutida)
-
+tags:: #type/note #lang/th #people/Sutida
 #  Cryptography
 - วิทยาการเข้ารหัสลับเกี่ยวกับการเข้ารหัสลับคือการแปลงข้อความปกติให้กลายเป็นข้อความลับ 
 - ข้อความลับคือข้อความที่ผู้อื่น นอกเหนือจากคู่สนทนาที่ต้องการ ไม่สามารถเข้าใจได้เป็นกระบวนการสำหรับการแปรรูปข้อมูลอิเล็กทรอนิกส์ธรรมดาให้อยู่ในรูปที่บุคคลทั่วไปไม่สามารถอ่านเข้าใจได้ 
