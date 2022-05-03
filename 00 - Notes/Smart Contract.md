@@ -1,7 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Blockchain คืออะไร ]]
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
-
+tags:: #type/note #lang/th #people/Sutida
 # Smart Contract คืออะไร
  - Smart Contract หรือ สัญญาอัจฉริยะ หมายถึงเงื่อนไขหรือข้อตกลงของสัญญาที่ถูกจัดเก็บไว้ในรูปแบบ Code computer ที่ถูกเก็บไว้ที่ Blockchain  เมื่อมีคำสั่งใดที่ตรงตามเงื่อนไขหรือข้อตกลงระบบ Smart Contract จะดำเนินการธุรกรรมตามข้อตกลงโดยอัตโนมัติ 
  -  ระบบ Smart Contract ได้ถูกคิดค้นโดย Nick Szabo ซึ่งนับว่าเป็นการเพิ่มความรวดเร็ว ลดขั้นตอน ลดบุคลากรไม่ต้องผ่านตัวกลางใดๆ สามารถป้องกันการทุจริตได้
