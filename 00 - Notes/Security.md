@@ -1,6 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Blockchain Trilemma คือ]]
-tags:: [#type/note](app://obsidian.md/index.html#type/note) [#lang/th](app://obsidian.md/index.html#lang/th) [#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags::#type/note #lang/th #people/Sutida
 
 # Security
 ความปลอดภัย หมายถึง ความสามารถในการป้องกันภัยคุกคามต่าง ๆ ที่อาจเกิดขึ้นกับเครือข่าย Blockchain  ตั้งแต่การโจมตีแบบ 51% ไปจนถึงบัค (Bug) ต่าง ๆ
