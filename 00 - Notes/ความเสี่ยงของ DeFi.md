@@ -1,6 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks::[[Decentralized Finance (DeFi)]]
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
+tags:: #type/note #lang/th #people/Sutida
 
 # ความเสี่ยงของ DeFi
 - เทคโนโลยี DeFi ยังใหม่ทำให้คนทั่วไปยังทำความเข้าใจได้ยากและมีความซับซ้อนอยู่มาก
