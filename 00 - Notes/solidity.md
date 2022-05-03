@@ -1,7 +1,9 @@
-## version: "0.0.0"
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[ Smart Contract]]
-tags:: [#type/note](app://obsidian.md/index.html#type/note) [#lang/th](app://obsidian.md/index.html#lang/th) [#people/Sutida](app://obsidian.md/index.html#people/Sutida)
-
+tags:: #type/note #lang/th #people/Sutida
 # solidity
 - เป็นภาษาระดับสูงที่นำมาใช้ในการสร้าง [[Smart Contract]] บนหลายเเพลตฟอร์มใน Blockchain โดยส่วนใหญ่เป็น Ethereum
 - เป็นภาษาวงเล็บปีกกาที่ออกแบบมาเพื่อกำหนดเป้าหมาย Ethereum Virtual Machine (EVM)
