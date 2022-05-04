@@ -2,8 +2,10 @@
 version: "0.0.0"
 published: true
 cover_image: Bitcoin-is-not-the-first-crypto.png
-tag : #lang/th #type/article
+
 ---
+tag : #lang/th #type/article
+
 ![[Bitcoin-is-not-the-first-crypto.png]]
 
 # Bitcoin ไม่ใช่ first cryptocurrency ?
