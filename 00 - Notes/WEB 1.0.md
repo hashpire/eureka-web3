@@ -5,7 +5,7 @@ published: true
 uplinks:: [[จุดเริ่มต้นของ WWW]]
 tags:: #type/article #lang/th #people/sutida
 
-# WEB 1.0 
+# Web 1.0 
 ![[WEB 1.0.png|700]]
 **ยุคข่าวสาร ช่วง พ.ศ. 2530 – พ.ศ. 2550**  
 - web 1.0 เป็นเว็บในยุคเริ่มต้น มีรูปแบบของไฟล์เป็นนามสกุลเป็น .htm และ .html 
@@ -34,5 +34,5 @@ tags:: #type/article #lang/th #people/sutida
 - [เว็บ 1.0-4.0](https://sites.google.com/site/saiphanb23/khwam-mankhng-khxng-rabb-sarsnthes/web-1-0-4-0)
 
 ## See Also
-- [[WEB 2.0 ]]
-- [[WEB 3.0 ]]
+- [[Web 2.0 ]]
+- [[Web 3.0 ]]
