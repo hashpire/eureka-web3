@@ -1,0 +1,24 @@
+---
+version: "0.0.0"
+published: true
+---
+uplinks:: [[Genesis]]
+tags:: #type/article #lang/th #people/sutida
+# Distributed Ledger Technology (DLT)
+- ระบบฐานข้อมูลที่เผยแพร่ในรูปแบบ อิเล็กทรอนิกส์ ผ่าน Node ,Website, Platfrom ต่าง ๆ 
+- เทคโนโลยีจัดเก็บข้อมูลเเบบ Distributed Ledger Technology เอื้อให้สมาชิกเครือข่ายสามารถเเลกเปลี่ยนข้อมูล ประสานงานและทำธุรกรรมร่วมกันโดยไม่ต้องผ่านตัวกลาง
+- ระบบบันทึกรายการธุรกรรมดิจิทัลบนคอมพิวเตอร์หลายเครื่องในเวลาเดียวกัน
+- วัตถุประสงค์เพื่อให้ธุรกรรมต่าง ๆ สามารถรับรู้และตรวจสอบได้อย่างเป็นสาธารณะ
+- การปรับปรุงและเปลี่ยนแปลงใด ๆ ก็จะสามารถรับรู้และรับทราบโดยทั่วกันในเครือข่ายนั้น ๆ ได้ทันที
+- Blockchain เป็นเพียงประเภทหนึ่งของ DLT
+- DLT นี้ถูกนำมาใช้ใน Bitcoin ซึ่งเป็นเพียงสกุลเงิน Cryptocurrency หนึ่งเท่านั้น
+
+
+
+## References
+- [ปอกเปลือกระบบนิเวศ Blockchain และ Distributed Ledger ในเอเชียตะวันออกเฉียง](ใต้https://blog.getlinks.com/%E0%B8%9B%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%A8-blockchain-%E0%B9%81%E0%B8%A5/)
+-  [Distributed Ledger](https://www.ceochannels.com/dictionary-d/distributed-ledger/)
+
+## See Also
+- [[Centralized Network]]
+- [[Decentralization]]
