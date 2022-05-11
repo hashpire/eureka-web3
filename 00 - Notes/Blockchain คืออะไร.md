@@ -3,7 +3,7 @@ version: "0.0.0"
 published: true
 ---
 uplinks:: [[Blockchain คืออะไร]]
-tags:: #type/note #lang/th #people/Sutida
+tags:: #type/article #lang/th #people/Sutida
 # Blockchain
 - *Blockchain* คือระบบฐานข้อมูลที่มีความปลอดภัยและน่าเชื่อถือ โดยมีคุณสมบัติหลัก 2 อย่าง คือ 
 	1. จัดเก็บข้อมูลเเบบถาวร เราสามารถบันทึกข้อมูลเพิ่มขึ้นได้แต่ไม่สามารถลบได้รวมถึงการเเก้ไขก็ทำได้ยากมากเช่นกัน
