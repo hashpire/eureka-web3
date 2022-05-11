@@ -3,7 +3,7 @@ version: "0.0.0"
 published: true
 ---
 uplinks:: [[Token vs Coin]]
-tags:: #type/note #lang/th #people/Sutida
+tags:: #type/article #lang/th #people/Sutida
 
 # Initial Coin Offering (ICO)
 -  Initial Coin Offering (ICO) คือ การระดมทุนในรูปแบบดิจิทัลด้วยการเสนอขาย ดิจิทัลโทเคน (digital token) ผ่านระบบบล็อกเชนต่อสาธารณชน 
