@@ -3,7 +3,7 @@ version: "0.0.0"
 published: true
 ---
 uplinks:: [[Ethereum]]
-tags:: #type/note #lang/th #people/Sutida
+tags:: #type/article #lang/th #people/Sutida
 # Ethereum Layer 2
 จุดเริ่มต้นของ Ethereum layer 2
  - Blockchian ที่เราใช้งานกันในปัจจุบัน ไม่ว่าจะเป็น Bitcoin, Ethereum หรือเหรียญต่าง ๆ เราจะเรียกมันว่าเป็น *Blockchain Layer 1* คือ โครงสร้างพื้นฐานหลักๆ ที่แต่ละ Blockchain ใช้ในการบันทึกธุรกรรมลงบนบล็อคและตรวจสอบธุรกรรมต่างๆ  มันเปรียบเสมือนเป็น*ถนนเส้นหลักที่ทุกคนใช้งานกัน*
