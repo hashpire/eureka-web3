@@ -1,5 +1,7 @@
 ---
 version: "0.0.0"
+published: true
+
 ---
 uplinks:: [[Internet คืออะไร]]
 tags:: #type/article #lang/th #people/sutida
