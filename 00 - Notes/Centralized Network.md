@@ -3,8 +3,7 @@ version: "0.0.0"
 published: true
 ---
 uplinks::  [[Genesis]]
-tags:: [](app://obsidian.md/index.html#type/note)[#type/note](app://obsidian.md/index.html#type/note) [](app://obsidian.md/index.html#lang/th)[#lang/th](app://obsidian.md/index.html#lang/th) [](app://obsidian.md/index.html#people/Sutida)[#people/Sutida](app://obsidian.md/index.html#people/Sutida)
-
+tags:: #type/note #lang/th #people/Sutida
 # Centralized Network
 *Centralized Network* คือ ระบบรวมศูนย์ เป็นระบบที่มีตัวกลางและตัวกลางมีอำนาจในการตัดสินใจรวมถึงการรักษาระบบทั้งหมด 
 *ตัวอย่าง* ของระบบ Centralized Network ในปัจจุบันก็อย่างเช่น ธนาคาร ถ้าหากเราต้องการที่จะโอนเงินไปให้เพื่อนเราจะต้องดำเนินการผ่านตัวกลางซึ่งคืออาจจะเป็นธนาคาร ตู้เอทีเอ็ม หรือ Mobile Banking ซึ่งธนาคารจะมาตรวจสอบว่าเรามีเงินจริงไหมหลังจากนั้นธนาคารก็จะส่งเงินไปให้เพื่อนเรา
