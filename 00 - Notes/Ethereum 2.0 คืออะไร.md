@@ -3,7 +3,7 @@ version: "0.0.0"
 published: true
 ---
 uplinks:: [[Ethereum]]
-tags:: #type/note #lang/th #people/Sutida
+tags:: #type/article #lang/th #people/Sutida
 
 # Ethereum 2.0 คืออะไร ?
 - **Ethereum 2.0** หรือที่ตอนนี้ต้องเรียกว่า Ethereum เฉย ๆ แล้วเป็นการอัพเกรดในส่วนสุดท้ายหลังจาก Frontier, Homestead และ Metropolis โดยในเวอร์ชันนี้มีจุดมุ่งหมายเพื่อเพิ่มความเร็ว ประสิทธิภาพ และความสามารถในการปรับขนาดของเครือข่าย Ethereum
