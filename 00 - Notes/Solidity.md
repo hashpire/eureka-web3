@@ -8,8 +8,8 @@ tags:: #type/note #lang/th #people/Sutida
 - เป็นภาษาระดับสูงที่นำมาใช้ในการสร้าง [[Smart Contract]] บนหลายเเพลตฟอร์มใน Blockchain โดยส่วนใหญ่เป็น Ethereum
 - เป็นภาษาวงเล็บปีกกาที่ออกแบบมาเพื่อกำหนดเป้าหมาย Ethereum Virtual Machine (EVM)
 - ได้รับอิทธิพลจาก C++, Python และ JavaScript 
-- รองรับ inheritance, libraries และ  complex user-defined types among รวมถึงฟีเจอร์อื่น ๆ
-- สามารถสร้างสัญญาสำหรับการใช้งานต่างๆ เช่น การลงคะแนน การระดมทุน blind auctions, multi-signature wallets. 
+- รองรับ Inheritance, Libraries และ  Complex User-Defined Types Among รวมถึงฟีเจอร์อื่น ๆ
+- สามารถสร้างสัญญาสำหรับการใช้งานต่างๆ เช่น การลงคะแนน การระดมทุน Blind Auctions, Multi-Signature Wallets. 
 
 ## References
 - [Solidity](https://docs.soliditylang.org/en/v0.8.13/)
