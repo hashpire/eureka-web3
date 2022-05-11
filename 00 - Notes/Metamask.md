@@ -14,6 +14,7 @@ tags:: #type/note #lang/th #people/Sutida
 - โดย Metamask Wallet จะช่วยให้ผู้ใช้งานจัดการเหรียญคริปโตของคุณอย่างปลอดภัย
 - มีความน่าเชื่อถือสูง เพราะมีแค่เจ้าของบัญชีเท่านั้นที่จะรู้ Private Key โดย Private Key จะอยู่ในรูปของคำศัพท์ภาษาอังกฤษ 12 คำ เรียกว่า *Seed Phrase*
 -  การใช้งานที่ได้รับความนิยมอย่างสูงของ Metamask คือ ใช้เป็นกระเป๋าที่เชื่อมทั้งเกมส์และการใช้สมัครหรือเชื่อมกับกระเป๋าสำหรับจ่ายเงิน ซื้อ หรือ ขาย Cryptoart 
+
 ## References
 - [Matemask](https://www.forexduck.com/metamask-is/)
 - [matamask-wallet](https://sputnikth.com/index.php/2021/07/25/how-to-use-metamask-wallet/)
