@@ -3,7 +3,7 @@ version: "0.0.0"
 published: true
 ---
 uplinks:: [[Decentralized Finance (DeFi)]]
-tags:: #type/note #lang/th #people/Sutida
+tags:: #type/article #lang/th #people/Sutida
 
 # DeFi กับการกำกับดูแลและข้อกฎหมายในประเทศไทย
 DeFi และการกำกับดูแลตามพระราชกำหนดการประกอบธุรกิจสินทรัพย์ดิจิทัล 
