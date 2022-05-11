@@ -3,7 +3,7 @@ version: "0.0.0"
 published: true
 ---
 uplinks:: [[Cryptocurrency คืออะไร]]
-tags:: #type/note #lang/th #people/Sutida
+tags:: #type/article #lang/th #people/Sutida
 
 # Cryptocurrency
 **สกุลเงินดิจิทัล** หรือ **คริปโตเคอร์เรนซี (Cryptocurrency)** 
