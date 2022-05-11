@@ -3,7 +3,7 @@ version: "0.0.0"
 published: true
 ---
 uplinks:: [[Cryptographic primitives in blockchains]]
-tags:: #type/note #lang/th #people/Sutida
+tags:: #type/article #lang/th #people/Sutida
 
 # Hash Function
 - คือวิธีการที่ทำให้ข้อมูลต้นฉบับส่วนหนึ่งหรือทั้งหมดถูกย่อย ๆ ให้มีขนาดเล็ก ๆที่เรียกว่า Digest หรือข้อมูลย่อย 
