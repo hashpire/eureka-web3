@@ -3,10 +3,10 @@ version: "0.0.0"
 published: true
 cover_image:
 ---
-uplinks:: [[Transposition cipher]]
+uplinks:: [[Transposition Cipher]]
 tags:: #type/note #lang/th #people/Sutida 
 # Columnar Transposition
-จากใน [[Transposition cipher]] ได้มีการอธิบายถึงเรื่องของการเข้ารหัสเเบบ Columnar Transposition ไปบ้างเเล้วในเบื้องต้น ในพาร์ทนี้จะมาอธิบายเเละยกตัวอย่างเพิ่มเติมรวมถึงวิธีการเข้ารหัสและถอดรหัสอย่างละเอียด
+จากใน [[Transposition Cipher]] ได้มีการอธิบายถึงเรื่องของการเข้ารหัสเเบบ Columnar Transposition ไปบ้างเเล้วในเบื้องต้น ในพาร์ทนี้จะมาอธิบายเเละยกตัวอย่างเพิ่มเติมรวมถึงวิธีการเข้ารหัสและถอดรหัสอย่างละเอียด
 
 ---
 - *Columnar Transposition* คือ การเข้ารหัสโดยนำเอาข้อความต้นฉบับมาจัดเรียงใหม่เป็นตาราง
