@@ -13,7 +13,7 @@ tags:: #lang/th #type/statement
 ---
 ## References
 - ["รู้จัก Blockchain Trilemma กำแพง 3 ชั้นสู่ Mass Adoption,"2564.](https://www.finnomena.com/bitkub/blockchain-trilemma/)
-- [''Lightning Network อาจเป็นทางออกในการ Scalability ของ Bitcoin,"2564.](https://www.blockdit.com/posts/61964330e8655f0d7e1cbc47)
+- ["Lightning Network อาจเป็นทางออกในการ Scalability ของ Bitcoin,"2564.](https://www.blockdit.com/posts/61964330e8655f0d7e1cbc47)
 ## See also
 - [[ปัญหา Scalability ของ Bitcoin]]
 
