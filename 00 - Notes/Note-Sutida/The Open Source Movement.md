@@ -18,8 +18,8 @@ tags:: #lang/th #type/concept
 
 ---
 ## References
-- [Dave Neary,''pivotal moments history open source,''2018.](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
-- [Wikipedia,''Open-source-software movement,''2022.](https://en.wikipedia.org/wiki/Open-source-software_movement)
+- [Dave Neary,"pivotal moments history open source,"2018.](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
+- [Wikipedia,"Open-source-software movement,"2022.](https://en.wikipedia.org/wiki/Open-source-software_movement)
 - ["Why Free Software is better than Open Source"](https://www.gnu.org/philosophy/free-software-for-freedom.h)
 
 ## See also
