@@ -15,7 +15,7 @@ tags:: #lang/th #type/concept
 ---
 ## References
 - ["Coin v.s. Token คำว่าเหรียญ มีมากกว่าที่คุณคิด"](https://www.bitkub.com/blog/coin-token-70040ac557d5)
-- [จิรายุส ทรัพย์ศรีโสภา,''Token กับ Coin ต่างกันอย่างไร? ในอุตสาหกรรม bitcoin,"2563.](https://www.marketingoops.com/exclusive/insider-exclusive/token-coin-bitcoin/)
+- [จิรายุส ทรัพย์ศรีโสภา,"Token กับ Coin ต่างกันอย่างไร? ในอุตสาหกรรม bitcoin,"2563.](https://www.marketingoops.com/exclusive/insider-exclusive/token-coin-bitcoin/)
 - ["โทเค็นคืออะไร"](https://www.coinbase.com/th/learn/crypto-basics/what-is-a-token)
 ## See also
 - [[ความเเตกต่างของ Cryptocurrency(Coin) VS Token]]
