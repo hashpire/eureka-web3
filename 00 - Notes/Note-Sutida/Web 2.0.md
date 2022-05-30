@@ -18,7 +18,7 @@ tags:: #lang/th #type/concept
 ---
 ## References
 - [Jittipong Loespradit,"Web 3.0 คืออะไร มีโอกาสทางธุรกิจอย่างไรบ้าง,"2564.](https://www.martechthai.com/technology/what-is-web-3-and-marketing/)
-- [''วิวัฒนาการเว็บไซต์ Web 1.0, Web 2.0''](https://sites.google.com/a/bumail.net/technoloyi-websit/wiwathnakar-websit-web-1-0-web-2-0-web-3-0-web-4-0)
+- ["วิวัฒนาการเว็บไซต์ Web 1.0, Web 2.0"](https://sites.google.com/a/bumail.net/technoloyi-websit/wiwathnakar-websit-web-1-0-web-2-0-web-3-0-web-4-0)
 ## See also
 - [[Web 1.0]]
 - [[ปัญหาของ Web 2.0]]
