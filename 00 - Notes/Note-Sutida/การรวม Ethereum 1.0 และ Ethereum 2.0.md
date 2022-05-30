@@ -14,7 +14,7 @@ tags:: #lang/th #type/statement
 ---
 ## References
 - [กิตติธัช วนิชผล,"Ethereum 2.0 จะรวมร่างกับเวอร์ชันแรก ให้เหลือแค่ชื่อ Ethereum เท่านั้น,"2565](https://www.beartai.com/news/itnews/928372)
-- [''THE ETHEREUM UPGRADES"](https://ethereum.org/th/upgrades/) 
+- ["THE ETHEREUM UPGRADES"](https://ethereum.org/th/upgrades/) 
 ## See also
 - [[Ethereum 2.0]]
 - [[Ethereum]]
