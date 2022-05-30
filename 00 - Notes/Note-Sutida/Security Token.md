@@ -16,7 +16,7 @@ tags:: #lang/th #type/statement
 - การเสนอขาย Security Token จะทำผ่านระบบ [[Security Token Offering (STO)]]
 ---
 ## References
-- [''Security Token กระบวนการแปลงหลักทรัพย์เป็นดิจิทัลโทเคน,"2563."](https://riccowealth.co/2020/02/16/security-token-sto/)
+- ["Security Token กระบวนการแปลงหลักทรัพย์เป็นดิจิทัลโทเคน,"2563.](https://riccowealth.co/2020/02/16/security-token-sto/)
 - ["What is a security token offering (STO)?"](https://hedera.com/learning/what-is-a-security-token-offering-sto?utm_term=security%20token&utm_campaign=Learning+Center:+STO&utm_source=adwords&utm_medium=ppc&hsa_acc=1782665900&hsa_cam=12507473199&hsa_grp=119821255435&hsa_ad=504580676835&hsa_src=g&hsa_tgt=kwd-27998676&hsa_kw=security%20token&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw3v6SBhCsARIsACyrRAkUnfVOn_2EJsM55m4KaoPRTM4Ro-qaHl5YZ2xHx52-IO19e7PzC3UaAgX3EALw_wcB)
 
 ## See also
