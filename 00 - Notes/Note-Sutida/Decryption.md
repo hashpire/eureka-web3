@@ -16,4 +16,4 @@ tags:: #lang/th #type/concept
 - ["บทนำเกี่ยวกับเทคโนโลยีความปลอดภัยของข้อมูล,"2560.](https://www.nrca.go.th/content/02-1.html)
 ## See also
 - [[Public Key Cryptography]]
-- [[Secrete Key Cryptography]]
+- [[Secret Key Cryptography]]
