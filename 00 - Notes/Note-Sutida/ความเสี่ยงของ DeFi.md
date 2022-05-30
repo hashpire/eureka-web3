@@ -17,7 +17,7 @@ tags:: #lang/th #type/statement
 ---
 ## References
 - ["Decentralized Finance (DeFi) ระบบการเงินดิจิทัลรูปแบบใหม่ของโลก,"2565.](https://zipmex.com/th/learn/decentralized-finance-defi-explained/)
-- [Utah Taneerat,''DeFi คืออะไร และมีความเสี่ยงอย่างไรบ้าง?,''2565.](https://www.bitkub.com/blog/whatisdefi-f6dc6916c9a8)
+- [Utah Taneerat,"DeFi คืออะไร และมีความเสี่ยงอย่างไรบ้าง?,"2565.](https://www.bitkub.com/blog/whatisdefi-f6dc6916c9a8)
 - ["DeFi คืออะไร? ทำความรู้จักกับโลกการเงิน ที่ไม่ต้องพึ่งธนาคาร,"2564.](https://www.finnomena.com/bitcoinaddict/what-is-defi/)
 
 ## See also
