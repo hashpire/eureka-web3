@@ -14,7 +14,7 @@ tags:: #lang/th #type/concept
 ---
 ## References
 - ["UNISWAP คืออะไร?,"2564.](https://academy.bitcoinaddict.org/what-is-uniswap/)
-- [Waranyu Suknantee,"รู้จักกับ UNI เหรียญ DeFi ยอดนิยมอันดับ 1,''2564.](https://medium.com/bitkub/uni-8d580a07449d)
+- [Waranyu Suknantee,"รู้จักกับ UNI เหรียญ DeFi ยอดนิยมอันดับ 1,"2564.](https://medium.com/bitkub/uni-8d580a07449d)
 - ["UNISWAP PROTOCOL"](https://uniswap.org/)
 ## See also
 
