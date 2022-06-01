@@ -16,7 +16,7 @@ tags:: #lang/th #type/concept
 
 ---
 ## References
-- [''ทำความรู้จัก “SiriHub Token” ICO ตัวแรกของไทยที่มีอสังหาริมทรัพย์อ้างอิง''](https://www.beartai.com/feature/799810)
+- ["ทำความรู้จัก “SiriHub Token” ICO ตัวแรกของไทยที่มีอสังหาริมทรัพย์อ้างอิง"](https://www.beartai.com/feature/799810)
 - [ปริย เตชะมวลไววิทย์,"รู้จัก ICO ก่อนคิดลงทุน,"2560.](https://www.sec.or.th/TH/Template3/Articles/2560/ac-post-25601106-ICO.pdf)
 - [Zipmex,"Initial Coin Offering (ICO),"2564](https://zipmex.com/th/glossary/ico/)
 - ["Initial Coin Offering (ICO)"](https://academy.binance.com/en/glossary/initial-coin-offering)
