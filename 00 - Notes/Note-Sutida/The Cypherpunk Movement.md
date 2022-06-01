@@ -21,7 +21,7 @@ tags:: #lang/th #type/concept
 ---
 ## References
 - [Wikipedia,"Cypherpunk,"2022.](https://en.wikipedia.org/wiki/Cypherpunk)
-- [''THE CYPHERPUNK MOVEMENT"](https://academy.horizen.io/history/the-cypherpunk-movement/)
+- ["THE CYPHERPUNK MOVEMENT"](https://academy.horizen.io/history/the-cypherpunk-movement/)
 ## See also
 - [[The Open Source Movement]]
 

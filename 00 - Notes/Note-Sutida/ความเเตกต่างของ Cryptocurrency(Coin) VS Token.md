@@ -13,5 +13,5 @@ tags:: #lang/th #type/statement
 
 ---
 ## References
-https://developers.rsk.co/guides/get-crypto-on-rsk/cryptocurrency-vs-token/
+- ["The Difference between a Cryptocurrency and a Token"](https://developers.rsk.co/guides/get-crypto-on-rsk/cryptocurrency-vs-token/)
 ## See also

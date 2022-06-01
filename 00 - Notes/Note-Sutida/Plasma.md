@@ -15,7 +15,7 @@ tags:: #lang/th #type/statement
 ---
 ## References
 - ["ETHEREUM LAYER 2,"2564.](https://academy.bitcoinaddict.org/what-is-ethereum-layer-2/)
-- [" Ethereum 2.0,"2564.] https://www.efinancethai.com/Fintech/FintechMain.aspx?release=y&name=ft_202108041519
+- ["Ethereum 2.0,"2564.](https://www.efinancethai.com/Fintech/FintechMain.aspx?release=y&name=ft_202108041519)
 - [Finematics,"Ethereum LAYER 2 SCALING Explained (Rollups, Plasma, Channels, Sidechains),"2563.](https://www.youtube.com/watch?v=BgCgauWVTs0&t=455s)
 ## See also
 - [[Validium]]

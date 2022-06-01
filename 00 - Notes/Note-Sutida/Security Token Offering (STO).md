@@ -15,7 +15,7 @@ tags:: #lang/th #type/concept
 ---
 ## References
 - ["Security Token Offering (STO),"](https://www.moneyland.ch/en/security-token-offering-definition)
-- [Levywor.S,''ระดมทุน STO คืออะไร ?,''2562.](https://medium.com/pooldax/%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%A1%E0%B8%97%E0%B8%B8%E0%B8%99-sto-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-d8550f86e42)
+- [Levywor.S,"ระดมทุน STO คืออะไร ?,"2562.](https://medium.com/pooldax/%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%A1%E0%B8%97%E0%B8%B8%E0%B8%99-sto-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-d8550f86e42)
 - [ThaiBMA,"STO อีกหนึ่งทางเลือกในการระดมทุนด้วยเทคโนโลยี Blockchain,"2562.](https://www.thaibma.or.th/EN/Investors/Individual/Blog/2019/03052019.aspx)
 ## See also
 

@@ -16,7 +16,7 @@ tags:: #lang/th #type/concept
 ## References
 - [Zipmax,"Decentralized applications (Dapps),"2564.](https://zipmex.com/th/glossary/dapps/)
 - [Waranyu Suknantee,"ทำความรู้จักกับ DApps ที่น่าสนใจ,"2563.](https://medium.com/bitkub/dapps-35ef97fa2495)
-- [JAKE FRANKENFIELD,"Decentralized Applications (dApps),''2021](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)
+- [JAKE FRANKENFIELD,"Decentralized Applications (dApps),"2021](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)
 ## See also
 - [[Ethereum]]
  

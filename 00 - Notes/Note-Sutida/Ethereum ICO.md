@@ -12,5 +12,5 @@ tags:: #lang/th #type/term
 
 ---
 ## References
-- [''Ethereum: The Greatest ICO in History,"2020.](https://academy.youngplatform.com/en/cryptocurrencies/ethereum-ico/)
+- ["Ethereum: The Greatest ICO in History,"2020.](https://academy.youngplatform.com/en/cryptocurrencies/ethereum-ico/)
 ## See also
