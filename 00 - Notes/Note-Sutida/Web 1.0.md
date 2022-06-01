@@ -1,10 +1,10 @@
 ---
 version: "0.0.1"
 cover_image:
-published: "ture"
+published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[จุดเริ่มต้นของเวิลด์ไวด์เว็บ]]
+uplinks:: [[Web 3]]
 tags:: #lang/th #type/concept
 
 # Web 1.0

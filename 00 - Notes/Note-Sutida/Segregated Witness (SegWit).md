@@ -4,7 +4,7 @@ cover_image:
 published:
 contributors: ["Sutida"]
 ---
-uplinks:: [[On-Chain Scaling]]
+uplinks:: [[Web 3]]
 tags:: #lang/th #type/concept
 
 # Segregated Witness (SegWit)

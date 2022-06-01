@@ -1,10 +1,10 @@
 ---
 version: "0.0.1"
 cover_image:
-published: "ture"
+published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Blockchain]]
+uplinks:: [[Web 3]]
 tags:: #lang/th #type/statement
 
 # ความเเตกต่างของ Cryptocurrency(Coin) VS Token

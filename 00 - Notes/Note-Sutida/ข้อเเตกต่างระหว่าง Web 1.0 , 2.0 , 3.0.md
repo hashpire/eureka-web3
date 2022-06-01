@@ -1,10 +1,10 @@
 ---
 version: "0.0.1"
 cover_image:
-published: "ture"
+published: true
 contributors: ["Sutida"]
 ---
-uplinks::  [[จุดเริ่มต้นของเวิลด์ไวด์เว็บ]]
+uplinks:: [[Web 3]]
 tags:: #lang/th #type/statement
 
 # ข้อเเตกต่างระหว่าง Web 1.0 , 2.0 , 3.0

@@ -1,10 +1,10 @@
 ---
 version: "0.0.1"
 cover_image:
-published: "ture"
+published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Smart Contract]] , [[Web 3.0 Layer 3]]
+uplinks:: [[Web 3]]
 tags:: #lang/th #type/concept
 
 # Rust
