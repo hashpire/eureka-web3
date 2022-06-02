@@ -15,7 +15,7 @@ tags:: #lang/th #type/concept
 ![[Grille transposition.png|500]]
 ---
 ## See also
-- [[ขั้นตอนการถอดรหัส Grille transposition]]
+- [[ขั้นตอนการถอดรหัสแบบ Grille transposition]]
 ## References
 - [artmediagrouppl,"Grille Cipher,"2017.](https://youtu.be/IbmOJEGFlK4)
 - [The Chief,"Grille Transposition,"2022.](https://theblackchamber552383191.wordpress.com/2020/11/18/grille-transposition/)
