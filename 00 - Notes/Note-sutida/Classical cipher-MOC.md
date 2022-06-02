@@ -26,7 +26,7 @@ tags:: #lang/th #type/moc
 ### Substitution ciphers
 - [[Simple substitution cipher]]
 - [[Nomenclator cipher]]
-- [[Homophonic substitution ciphers]]
+- [[Homophonic substitution cipher]]
 - [[Beale  ciphers]]
 - [[Caesar cipher]]
 - [[Monoalphabetic substitution cipher]]
