@@ -8,7 +8,7 @@ uplinks:: [[Web 3]]
 tags:: #lang/th #type/concept
 
 # Segregated Witness (SegWit)
-- *Segregated Witness (SegWit)* คือ การเปลี่ยนแปลงการทำธุรกรรม[[Bitcoin]] ที่แยกธุรกรรมและสคริปต์ (witness data) ออกจากข้อมูลรับเข้าและการส่งออก เพื่อการแก้ปัญหาในการทำธุรกรรมโดยไม่ได้ตั้งใจและเป็นแนวทางสำหรับการปรับขนาด Layer 2 Bitcoin scaling 
+*Segregated Witness (SegWit)* คือ การเปลี่ยนแปลงการทำธุรกรรม[[Bitcoin]] ที่แยกธุรกรรมและสคริปต์ (witness data) ออกจากข้อมูลรับเข้าและการส่งออก เพื่อการแก้ปัญหาในการทำธุรกรรมโดยไม่ได้ตั้งใจและเป็นแนวทางสำหรับการปรับขนาด Layer 2 Bitcoin scaling 
 
 ---
 ## References
