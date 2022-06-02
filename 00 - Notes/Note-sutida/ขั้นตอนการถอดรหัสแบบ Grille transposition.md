@@ -18,4 +18,4 @@ tags:: #lang/th #type/concept
 ## References
 - [artmediagrouppl,"Grille Cipher,"2017.](https://youtu.be/IbmOJEGFlK4)
 - [The Chief,"Grille Transposition,"2022.](https://theblackchamber552383191.wordpress.com/2020/11/18/grille-transposition/)
-- [Wikipedia,"Grille cryptography,"2022.](https://en.wikipedia.org/wiki/Grille_(cryptography)
+- [Wikipedia,"Grille cryptography,"2022.](https://en.wikipedia.org/wiki/Grille_(cryptography))
