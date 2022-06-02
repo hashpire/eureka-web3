@@ -1,7 +1,7 @@
 ---
 version: "0.0.1"
 cover_image:
-published:
+published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Classical cipher-MOC]]
