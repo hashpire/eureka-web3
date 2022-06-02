@@ -22,15 +22,3 @@ tags:: #lang/th #type/term
 
 
 
-
-
-
-
-
-
-
-
-
-**นำมาเรียงต่อกันโดยเรียงจากซ้ายไปขวาตามเเต่ละบรรทัด(ราง) จาก*WE ARE DISCOVERED FLEE AT ONCE*
-
-จะเข้ารหัสได้เป็น *WECRL TEERD SOEEF EAOCA IVDEN *
