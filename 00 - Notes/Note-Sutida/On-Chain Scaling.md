@@ -8,7 +8,7 @@ uplinks:: [[Web 3]]
 tags:: #lang/th #type/concept
 
 # On-Chain Scaling
-- *On-Chain Scaling* คือ การปรับขนาดเพื่อรองรับการทำธุรกรรมโดยเป็นการเปลี่ยนเเปลงบน Layer 1 ใน Peer-to-Peer (P2P) Layer โดยการลดขนาดธุรกรรมและข้อความ เป็นต้น 
+*On-Chain Scaling* คือ การปรับขนาดเพื่อรองรับการทำธุรกรรมโดยเป็นการเปลี่ยนเเปลงบน Layer 1 ใน Peer-to-Peer (P2P) Layer โดยการลดขนาดธุรกรรมและข้อความ เป็นต้น 
 
 ---
 ## References
