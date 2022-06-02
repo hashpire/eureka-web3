@@ -13,7 +13,7 @@ tags:: #lang/th #type/term
 ---
 ## See also
 - [[ขั้นตอนการเข้ารหัสเเบบ Grille transposition]]
-- [[ขั้นตอนการถอดรหัส Grille transposition]]
+- [[ขั้นตอนการถอดรหัสแบบ Grille transposition]]
 ## References
 - [artmediagrouppl,"Grille Cipher,"2017.](https://youtu.be/IbmOJEGFlK4)
 - [The Chief,"Grille Transposition,"2022.](https://theblackchamber552383191.wordpress.com/2020/11/18/grille-transposition/)
