@@ -13,8 +13,5 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
-
 ## References
 - [Wikipedia,"Classical cipher,"2022.](https://en.wikipedia.org/wiki/Classical_cipher)
-
-
