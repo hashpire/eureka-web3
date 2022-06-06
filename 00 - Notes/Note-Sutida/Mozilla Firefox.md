@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/term
 
 # Mozilla Firefox
 -  Web Browser ที่โดดเด่นด้วยไอคอน จิ้งจอกไฟ พัฒนาขึ้นโดยมูลนิธิ Mozilla และอาสาสมัครอีกหลาย 100 คน 
@@ -14,12 +14,9 @@ tags:: #lang/th #type/concept
 - เวอร์ชันล่าสุดรองรับผลการแสดงเว็บไซต์ในรูปแบบ 3 มิติ
 ---
 ## References
-- - [ThaiBussinessSearch,"Web Browser (เว็บเบราว์เซอร์) คืออะไร?,"2564](https://www.thaibusinesssearch.com/marketing/web-browser/) 
+- [ThaiBussinessSearch,"Web Browser (เว็บเบราว์เซอร์) คืออะไร?,"2564](https://www.thaibusinesssearch.com/marketing/web-browser/) 
 ## See also
 - [[Google Chrome]]
 - [[Microsoft Edge]]
 - [[Safari]]
 - [[Internet Explorer]]
-
-
-
