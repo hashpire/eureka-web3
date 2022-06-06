@@ -15,8 +15,8 @@ tags:: #lang/th #type/concept
 5. การตรวจสอบจะทำได้ โดยการเปรียบเทียบค่า Hash ของข้อมูลชุดเดิมกับค่า Hash ที่ต้องการตรวจสอบว่าตรงกันหรือไม่
 
 ---
+## See also
 ## References
 - [Zipmex,"Hash,"2564.](https://zipmex.com/th/glossary/hash/)
 - [Chen Ning-An,"ฟังก์ชันแฮช (Hash function),"2558.](https://blog.inslash.com/%E0%B8%9F%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%AE%E0%B8%8A-hash-function-a985ed40351d)
 - [Wikipedia,"ฟังก์ชันแฮช,"2561.](https://th.wikipedia.org/wiki/%E0%B8%9F%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%AE%E0%B8%8A)
-## See also
