@@ -5,11 +5,12 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/term
 
 # Bitcoin
-- *บิตคอยน์* (Bitcoin) คือ [[Cryptocurrency(Coin)]] ที่ถูกสร้างบน [[Blockchain|Blockchain]] มีจำนวนจำกัดอยู่ที่ 21 ล้านเหรียญ
-- Bitcoin ก่อตั้งขึ้นในปี พ.ศ. 2552 (ค.ศ. 2009) โดยโปรเเกรมเมอร์ (หรืออาจจะเป็นกลุ่มโปรเเกรมเมอร์) ภายใต้นามแฝงว่า "Satoshi Nakamoto"
+- *บิตคอยน์* (Bitcoin) คือ [[Cryptocurrency(Coin)]] ที่ถูกสร้างบนเครือข่าย [[Blockchain]]
+- จำนวนเหรียญจำกัดอยู่ที่ 21 ล้านเหรียญ
+- ก่อตั้งขึ้นในปี พ.ศ. 2552 (ค.ศ. 2009) โดยโปรเเกรมเมอร์ (หรืออาจจะเป็นกลุ่มโปรเเกรมเมอร์) ภายใต้นามแฝงว่า "Satoshi Nakamoto"
 - ผู้พัฒนา Bitcoin ใช้ [[Hash Function]] แบบ SHA-256 ซึ่งเป็นฟังก์ชันแฮชเข้ารหัสในรูปแบบ [[Proof of Work (PoW)]]
 
 ---
