@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/term
 
 # Metaverse
 - *Meta* หรือ เมต้า, เมตะ มีความหมายที่อธิบายถึงความยิ่งใหญ่
