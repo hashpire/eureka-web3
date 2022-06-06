@@ -12,9 +12,9 @@ tags:: #lang/th #type/concept
 - *เปิดโลกทางการเงินให้คนที่เข้าไม่ถึงระบบการเงินแบบเดิม*  มีเเค่เพียงอินเทอร์เน็ตเเละมือถือก็สามารถใช้งานได้
 - *เริ่มธุรกิจได้ง่าย* ทุกคนสามารถแปลงสินทรัพย์ที่ตัวเองมีให้เป็นสินทรัพย์ดิจิทัลเเละสามารถขายได้ทันที รวมถึงการขยายธุรกิจไปต่างประเทศทำได้ง่าย ไม่ต้องมีระบบที่ยุ่งยากเเละเสียค่าธรรมเนียมสูง
 ---
-## References
-- ["Decentralized Finance (DeFi) ระบบการเงินดิจิทัลรูปแบบใหม่ของโลก,"2565.](https://zipmex.com/th/learn/decentralized-finance-defi-explained/)
-- [Utah Taneerat,"DeFi คืออะไร และมีความเสี่ยงอย่างไรบ้าง?,"2565.](https://www.bitkub.com/blog/whatisdefi-f6dc6916c9a8)
 ## See also
 - [[ความเสี่ยงของ DeFi]]
 - [[DeFi กับการกำกับดูแลและข้อกฎหมายในประเทศไทย]]
+## References
+- ["Decentralized Finance (DeFi) ระบบการเงินดิจิทัลรูปแบบใหม่ของโลก,"2565.](https://zipmex.com/th/learn/decentralized-finance-defi-explained/)
+- [Utah Taneerat,"DeFi คืออะไร และมีความเสี่ยงอย่างไรบ้าง?,"2565.](https://www.bitkub.com/blog/whatisdefi-f6dc6916c9a8)
