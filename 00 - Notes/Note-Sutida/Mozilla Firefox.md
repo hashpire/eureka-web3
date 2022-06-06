@@ -13,10 +13,10 @@ tags:: #lang/th #type/term
 - แถบเครื่องมือใช้งานและแถบหน้าต่างอินเทอร์เน็ตเรียบใช้งานง่าย
 - เวอร์ชันล่าสุดรองรับผลการแสดงเว็บไซต์ในรูปแบบ 3 มิติ
 ---
-## References
-- [ThaiBussinessSearch,"Web Browser (เว็บเบราว์เซอร์) คืออะไร?,"2564](https://www.thaibusinesssearch.com/marketing/web-browser/) 
 ## See also
 - [[Google Chrome]]
 - [[Microsoft Edge]]
 - [[Safari]]
 - [[Internet Explorer]]
+## References
+- [ThaiBussinessSearch,"Web Browser (เว็บเบราว์เซอร์) คืออะไร?,"2564](https://www.thaibusinesssearch.com/marketing/web-browser/) 
