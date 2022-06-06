@@ -12,7 +12,7 @@ tags:: #lang/th #type/term
 - *IP* ย่อมาจากคำว่า Internet  Protocol ทำหน้าที่ในการจัดส่งข้อมูล จากเครื่องต้นทางไปยังเครื่องปลายทางโดยอาศัย [[IP Address]]
 
 ---
-## References
-- ["TCP/IP คืออะไร,"2562](https://www.mindphp.com/คู่มือ/73-คืออะไร/2042-tcp-ip-คืออะไร.html)
 ## See also
 - [[Computer Network]]
+## References
+- ["TCP/IP คืออะไร,"2562](https://www.mindphp.com/คู่มือ/73-คืออะไร/2042-tcp-ip-คืออะไร.html)
