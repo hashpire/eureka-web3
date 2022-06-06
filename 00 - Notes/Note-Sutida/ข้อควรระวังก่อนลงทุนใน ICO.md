@@ -14,8 +14,8 @@ tags:: #lang/th #type/statement
 4. ระวังเป็นธุรกิจ *ล้มเหลว* เนื่องจากการลงทุนใน ICO มักเป็นการลงทุนในโพรเจกต์ที่ก่อตั้งใหม่จึงมีความเสี่ยงสูงที่จะล้มเหลว
 5. ระวังสัญญาณอันตรายหรือก็คือคำโฆษณาชวนเชื่อต่าง ๆ
 ---
+## See also
+- [[การเเบ่งประเภทของ Initial Coin Offering]]
 ## References
 - [ปริย เตชะมวลไววิทย์,"รู้จัก ICO ก่อนคิดลงทุน,"2560.](https://www.sec.or.th/TH/Template3/Articles/2560/ac-post-25601106-ICO.pdf)
 - [Zipmex,"Initial Coin Offering (ICO),"2564](https://zipmex.com/th/glossary/ico/)
-## See also
-- [[การเเบ่งประเภทของ Initial Coin Offering]]
