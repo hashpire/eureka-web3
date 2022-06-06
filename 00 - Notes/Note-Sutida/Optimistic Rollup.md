@@ -15,8 +15,8 @@ tags:: #lang/th #type/term
 - *ข้อเสีย* ในการถอนเงินต้องใช้เวลาถึง 7 วันกว่าเงินจะเข้า wallets 
 
 ---
-## References
-- ["ETHEREUM LAYER 2,"2564.](https://academy.bitcoinaddict.org/what-is-ethereum-layer-2/)
 ## See also
 - [[Plasma]]
 - [[Validium]] 
+## References
+- ["ETHEREUM LAYER 2,"2564.](https://academy.bitcoinaddict.org/what-is-ethereum-layer-2/)
