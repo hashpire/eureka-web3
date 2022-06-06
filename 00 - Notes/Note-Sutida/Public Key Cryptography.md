@@ -20,9 +20,9 @@ tags:: #lang/th #type/term
 - *ข้อเสีย* เข้า/ถอดรหัสได้ช้า เมื่อเปรียบเทียบกับแบบ [[Secret Key Cryptography]]
 - *ตัวอย่าง* เช่น RSA ซึ่งเป็นระบบเเรกของ Public Key Cryptography คิดค้นโดย Rivest, Shamir และ Adleman ซึ่งเผยแพร่ในปี 1978 เป็นต้น 
 ---
-## References
-- ["บทนำเกี่ยวกับเทคโนโลยีความปลอดภัยของข้อมูล,"2560.](https://www.nrca.go.th/content/02-1.html)
-- ["Chapter 6: Cryptography"](https://sites.google.com/site/suxkarsxnkarraksakhwamplxdphay/chapter-6-cryptography)
 ## See also
 - [[Encryption]]
 - [[Decryption]]
+## References
+- ["บทนำเกี่ยวกับเทคโนโลยีความปลอดภัยของข้อมูล,"2560.](https://www.nrca.go.th/content/02-1.html)
+- ["Chapter 6: Cryptography"](https://sites.google.com/site/suxkarsxnkarraksakhwamplxdphay/chapter-6-cryptography)
