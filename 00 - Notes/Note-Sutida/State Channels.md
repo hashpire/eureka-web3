@@ -12,7 +12,7 @@ tags:: #lang/th #type/term
 - *ข้อเสีย* การใช้งานยังจำกัดอยู่ในวงเเคบ และผู้ใช้งานต้องรู้ล่วงหน้ารวมทั้งต้องฝากเงินเข้าใน Multisig Contract ซึ่งเครือข่ายต้องได้รับการตรวจสอบอย่างสม่ำเสมอ เพื่อให้แน่ใจได้ว่าเงินที่ฝากเข้ามานั้น ยังมีความปลอดภัยอยู่เสมอ
    
 ---
+## See also
 ## References
 - [Barton Johnston,"Blockchain scaling: on-chain vs off-chain,"2019.](https://bdtechtalks.com/2019/09/16/blockchain-scaling-on-chain-vs-off-chain/)
 - ["Scaling Solution คือ?,"2564.](https://academy.bitcoinaddict.org/blockchain-scaling-solution/)
-## See also
