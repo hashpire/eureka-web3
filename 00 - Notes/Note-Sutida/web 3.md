@@ -13,5 +13,4 @@ tags:: #lang/th #type/moc
 
 ---
 ## References
-
 ## See also
