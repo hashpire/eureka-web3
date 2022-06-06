@@ -16,9 +16,9 @@ tags:: #lang/th #type/concept
 - โครงสร้างพื้นฐานเป็น *Close Platform* ที่เปิดให้ทุกคนสมัครสมาชิกใช้งานได้โดยง่าย แต่คอนเทนต์และข้อมูลต่างๆ ทางคนกลางเป็นเจ้าของเราไม่สามารถดึงมาเก็บไว้ได้เอง 
 - การสร้างคอนเทนต์หรือหน้าร้านผ่าน Facebook Page, Youtube Channel, Instagram แต่รายได้ส่วนใหญ่ต้องผ่านคนกลาง
 ---
-## References
-- [Jittipong Loespradit,"Web 3.0 คืออะไร มีโอกาสทางธุรกิจอย่างไรบ้าง,"2564.](https://www.martechthai.com/technology/what-is-web-3-and-marketing/)
-- ["วิวัฒนาการเว็บไซต์ Web 1.0, Web 2.0"](https://sites.google.com/a/bumail.net/technoloyi-websit/wiwathnakar-websit-web-1-0-web-2-0-web-3-0-web-4-0)
 ## See also
 - [[Web 1.0]]
 - [[ปัญหาของ Web 2.0]]
+## References
+- [Jittipong Loespradit,"Web 3.0 คืออะไร มีโอกาสทางธุรกิจอย่างไรบ้าง,"2564.](https://www.martechthai.com/technology/what-is-web-3-and-marketing/)
+- ["วิวัฒนาการเว็บไซต์ Web 1.0, Web 2.0"](https://sites.google.com/a/bumail.net/technoloyi-websit/wiwathnakar-websit-web-1-0-web-2-0-web-3-0-web-4-0)
