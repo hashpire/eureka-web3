@@ -8,7 +8,7 @@ uplinks:: [[Substitution ciphers-MOC]]
 tags:: #lang/th #type/term 
 
 # Polygraphic substitution cipher
-- *Polygraphic substitution cipher* คือการเข้ารหัสโดยการเเทนที่ข้อความธรรมดาเป็นคู่ตัวอักษรแบบไม่คงที่ เช่น เเทนที่ AN ด้วย QX เป็นต้น 
+- *Polygraphic substitution cipher* คือ การเข้ารหัส โดยการเเทนที่ข้อความธรรมดาเป็นคู่ตัวอักษรแบบไม่คงที่ เช่น เเทนที่ AN ด้วย QX เป็นต้น 
 - การเเทนแบบ Polygraphic substitution cipher จะใช้ตัวอักษรทดแทน 676 (26^2=676) แบบเหมือนกับในหนังสือการเข้ารหัสลับ _De Furtivis Literarum Notis_ เขียนโดย della Porta
 - ตัวอย่างการเเทนที่ เช่น คำว่า *AN ANT AT STATS* 
 	1. จะจัดตัวอักษรให้คู่กัน ได้เป็น *AN AN TA TS TA TS* 
