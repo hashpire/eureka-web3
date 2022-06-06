@@ -13,9 +13,8 @@ tags:: #lang/th #type/term
 - *ข้อดี* การถอนเงินออกจาก Validium นั้นไม่ต้องรอนานหลายวันเหมือนกับ [[Plasma]]
 
 ---
-## References
-- ["ETHEREUM LAYER 2,"2564.](https://academy.bitcoinaddict.org/what-is-ethereum-layer-2/)
-
 ## See also
 - [[Optimistic Rollup]]
 - [[ZK-Rollup]]
+## References
+- ["ETHEREUM LAYER 2,"2564.](https://academy.bitcoinaddict.org/what-is-ethereum-layer-2/)
