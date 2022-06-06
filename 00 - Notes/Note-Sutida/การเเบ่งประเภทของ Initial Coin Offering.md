@@ -15,8 +15,8 @@ tags:: #lang/th #type/concept
 *2. Public Initial Coin Offering* คือ รูปแบบหนึ่งของการระดมทุนที่มุ่งเป้าไปที่*ประชาชนทั่วไป* เป็นรูปแบบการลงทุนที่เป็นประชาธิปไตย เพราะทุกคนสามารถเป็นนักลงทุนได้
 
 ---
+## See also
+- [[ข้อควรระวังก่อนลงทุนใน ICO]]
 ## References
 - [ปริย เตชะมวลไววิทย์,"รู้จัก ICO ก่อนคิดลงทุน,"2560.](https://www.sec.or.th/TH/Template3/Articles/2560/ac-post-25601106-ICO.pdf)
 - [Zipmex,"Initial Coin Offering (ICO),"2564](https://zipmex.com/th/glossary/ico/)
-## See also
-- [[ข้อควรระวังก่อนลงทุนใน ICO]]
