@@ -15,6 +15,5 @@ tags:: #lang/th #type/term
 - จากรูปที่ 1 เราจะเข้ารหัสโดยการเรียงตามลำดับตัวอักษรของคีย์ปกติ จะได้เป็น *WCEEO ERETR IVFCE ODNSE LEADA* 
 ---
 ## See also
-
 ## References
 - [Wikipedia,"Disrupted Transposition,"2022.](https://en.wikipedia.org/wiki/Transposition_cipher#Disrupted_transposition)
