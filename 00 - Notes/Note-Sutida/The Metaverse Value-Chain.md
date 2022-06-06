@@ -8,7 +8,7 @@ uplinks:: [[Web 3]]
 tags:: #lang/th #type/statement
 
 # The Metaverse Value-Chain 
-โดย : Jon Radoff 
+สรุปโดย : Jon Radoff 
 - *Infrastructure* คือ ความเร็ว Internet, ความเร็วของ Cloud computing,    
   ส่วนประมวลผลกราฟิค (GPU)และคุณภาพ Meterial ต่างๆ ในโลก Metaverse
 - *Human Interface* คือ อุปกรณ์ในการทำให้มนุษย์เชื่อมต่อกับโลก Metaverse เช่นอุปกรณ์ Wearable ต่างๆ ไม่ว่าจะเป็น แว่น Oculus, แว่น Smartglass หรืออาจเป็นการเชื่อมต่อกล้ามเนื้อกับ sensor ต่างๆ เพื่อสั่งการในโลก Metaverse
@@ -24,5 +24,3 @@ tags:: #lang/th #type/statement
 - [Jon Radoff,"the-metaverse-value-chain,"2021.](https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7)
 ## See also
 - [[เทคโนโลยีที่เกี่ยวข้องกับ Metaverse]]
-
-  
