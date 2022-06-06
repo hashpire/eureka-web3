@@ -17,7 +17,7 @@ tags:: #lang/th #type/term
 		2. *ลิงก์ชนิดแผนภูมิ (Organization Link)* มีความคล้ายคลึงกับลิงก์ชนิดอ้างถึง จะแตกต่างกันตรงที่เป็นการเชื่อมโยงระหว่างโหนดด้วยกันในลักษณะที่เป็นโครงสร้างเป็นชั้นๆ 
 		3. *ลิงก์ชนิดคีย์เวิร์ด (Keyword Link)* เป็นการนำกลุ่มคำหรือวลีต่างๆ ที่มีความหมายและสัมพันธ์ระหว่างกันมาเชื่อมโยงด้วยวิธีการเดียวกับการลิงก์ชนิดอ้างถึงหรือแผนภูมิ
 ---
+## See also
 ## References
 - [Kittanai,"HYPERTEXT หมายถึงอะไร,"2016](https://sites.google.com/site/cam5910122137020/homework4/cng-khnkhwa-hakhwam-hmay-khxng-kha-tx-pi-ni/hypertext?tmpl=/system/app/templates/print/&showPrintDialog=1)
 - ["ประวัติของบริการเวิลด์ไวด์เว็บ,"](https://sites.google.com/site/knowledgeofinternet/phathnakar-khxng-xinthexrnet/prawati-khxng-brikar-weild-wid-web)
-## See also
