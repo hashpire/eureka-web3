@@ -8,7 +8,7 @@ uplinks:: [[Web 3]]
 tags:: #lang/th #type/term 
 
 # Web 3.0 Layer 3
-**Layer 3** :  Protocol extensible developer APIs & languages เป็นส่วนที่เกี่ยวกับภาษาที่ใช้ในการเขียนโปรแกรม และ Libraries ซึ่งเป็นที่รวบรวมชุดฟังก์ชันต่าง ๆ เพื่อให้นักพัฒนาเข้ามาใช้พัฒนาแอปพลิเคชันต่าง ๆ ได้อย่างเหมาะสม เช่น [[Solidity]], [[Rust]]
+**Layer 3** :  Protocol extensible developer APIs & languages เป็นส่วนที่เกี่ยวกับภาษาที่ใช้ในการเขียนโปรแกรม และ Libraries ซึ่งเป็นที่รวบรวมชุดฟังก์ชันต่าง ๆ เพื่อให้นักพัฒนาเข้ามาใช้พัฒนาแอปพลิเคชันต่างๆ ได้อย่างเหมาะสม เช่น [[Solidity]], [[Rust]]
 
 ---
 ## References
