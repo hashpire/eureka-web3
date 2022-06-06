@@ -12,6 +12,6 @@ tags:: #lang/th #type/term
 - *ข้อเสีย* ของ Lightning Network คือผู้ใช้งานจำเป็นต้องมีสภาพคล่องค่อนข้างสูงในการดำเนินการหรืออาจจะกล่าวได้ว่าจะต้องมีการเก็บ Bitcoin ไว้ใน Lightning Network เพื่อสะดวกในการชำระเงิน อีกข้อที่ถือได้ว่าเป็นข้อเสีย เเต่จะเป็นข้อเสียสำหรับรัฐบาลหรือหน่วยงานกลางเพราะ Lightning Network ให้ความเป็นส่วนตัวแก่ผู้ใช้มากขึ้น เมื่อทำธุรกรรมด้วย Bitcoin ซึ่งเป็นสิ่งที่ดีสำหรับบุคคลทั่วไป
 
 ---
+## See also
 ## References
 - ["Scaling Solution คือ?,"2564.](https://academy.bitcoinaddict.org/blockchain-scaling-solution/)
-## See also
