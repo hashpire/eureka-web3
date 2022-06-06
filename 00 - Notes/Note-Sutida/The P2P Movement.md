@@ -16,8 +16,8 @@ tags:: #lang/th #type/concept
 - **ข้อดีของ P2P** คือ ไม่มีคนกลางควบคุมและไม่ถูก Censorship จากบุคคลหรือองค์กรใด
 - **ข้อเสียของ P2P** คือ การกำกับดูแลทำได้ยาก เนื่องจากเป็นระบบแบบไม่มีตัวกลาง
 ---
-## References
--  [ADAM HAYES,"peer to peer-p2p-service,"2021](https://www.investopedia.com/terms/p/peertopeer-p2p-service.asp)
 ## See also
 - [[The Cypherpunk Movement]]
 - [[The Open Source Movement]]
+## References
+-  [ADAM HAYES,"peer to peer-p2p-service,"2021](https://www.investopedia.com/terms/p/peertopeer-p2p-service.asp)
