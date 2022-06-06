@@ -13,9 +13,9 @@ tags:: #lang/th #type/term
 - *ข้อเสีย* คือ การบริหารจัดการกุญแจทำได้ยาก เนื่องจากผู้ใช้ต้องใช้กุญแจ 1 ดอกสำหรับติดต่อกับบุคคล 1 คน ดังนั้น หากเราติดต่อบุคคลจำนวนมากจะต้องมีกุญแจจำนวนมากตามไปด้วย รวมถึงการส่งกุญแจไปยังบุคคลที่ติดต่ออาจเสี่ยงในการถูกขโมยกุญแจได้
 - *ตัวอย่าง* เช่น AES, Blowfish, DES, Triple DES เป็นต้น
 ---
-## References
-- ["บทนำเกี่ยวกับเทคโนโลยีความปลอดภัยของข้อมูล,"2560.](https://www.nrca.go.th/content/02-1.html)
-- ["Chapter 6: Cryptography"](https://sites.google.com/site/suxkarsxnkarraksakhwamplxdphay/chapter-6-cryptography)
 ## See also
 - [[Encryption]]
 - [[Decryption]]
+## References
+- ["บทนำเกี่ยวกับเทคโนโลยีความปลอดภัยของข้อมูล,"2560.](https://www.nrca.go.th/content/02-1.html)
+- ["Chapter 6: Cryptography"](https://sites.google.com/site/suxkarsxnkarraksakhwamplxdphay/chapter-6-cryptography)
