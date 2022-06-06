@@ -41,5 +41,4 @@ tags:: #lang/th #type/moc
 - [[One Time Pad]]
 ---
 ## References
-
 ## See also
