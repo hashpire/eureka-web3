@@ -19,12 +19,12 @@ tags:: #lang/th #type/concept
 	- Creator สามารถเชื่อมต่อกับ Consumer หรือ Followers ได้โดยตรง ไม่มีคนกลาง
 - Web 3.0 ยังให้ความสำคัญต่อสิทธิมนุษยชนขั้นพื้นฐาน แตกต่างจาก [[ปัญหาของ Web 2.0| Web 2.0]] ที่จำกัดอิสรภาพของผู้ใช้งาน นอกจากนั้น Web 3.0 ยังสามารถควบคุมข้อมูลของตนเองได้ และยังเปิดให้ผู้ใช้งานได้มีส่วนร่วมในการพัฒนาระบบ รวมทั้งไม่มีการปิดกั้นและควบคุมโดยองค์กรใด
 ---
+## See also
+- [[ Web 1.0 ]]
+- [[ Web 2.0 ]]
+- [[Web 3.0 Technology Stack]]
 ## References
 - ["WEB 3.0,"2554.](https://webtthree.wordpress.com/2011/09/13/web-3-0/)
 - [Jittipong Loespradit,"Web 3.0 คืออะไร มีโอกาสทางธุรกิจอย่างไรบ้าง,"2564.](https://www.martechthai.com/technology/what-is-web-3-and-marketing/)
 - ["Web 3.0 คืออะไร? และจะเปลี่ยนโฉมเว็บไซต์ปัจจุบันในด้านไหนบ้าง?,"2565.](https://zipmex.com/th/learn/what-is-web-3-0/)
 - [กิตติธัช วนิชผลพา,"ไปรู้จักกับ ‘Web 3.0’ แล้วคนธรรมดาอย่างเรา ๆ ต้องรู้อะไรบ้าง,"2565.](https://www.beartai.com/article/tech-article/914953)
-## See also
-- [[ Web 1.0 ]]
-- [[ Web 2.0 ]]
-- [[Web 3.0 Technology Stack]]
