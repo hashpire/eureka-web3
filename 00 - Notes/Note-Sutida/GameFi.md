@@ -12,9 +12,9 @@ tags:: #lang/th #type/term
 - *ตัวอย่าง* เช่น Decentraland (MANA), The Sandbox (SAND), Axie Infinity (AXS) และ My Neighbor Alice (ALICE) เป็นต้น
 
 ---
-## References
-- [planet 46,"คริปโตเคอร์เรนซี (Cryptocurrency) คืออะไร? พามือใหม่เข้าใจครบจบในที่เดียว!,"2565.](https://www.finnomena.com/planet46/what-is-cryptocurrency/#h-9)
-- [Zipmex,"คริปโตเคอร์เรนซี (Cryptocurrency) คืออะไร เหรียญคริปโตมีอะไรบ้าง,"2565](https://zipmex.com/th/learn/what-is-cryptocurrency/)
 ## See also
 - [[Stablecoin]]
 - [[Meme Coins]]
+## References
+- [planet 46,"คริปโตเคอร์เรนซี (Cryptocurrency) คืออะไร? พามือใหม่เข้าใจครบจบในที่เดียว!,"2565.](https://www.finnomena.com/planet46/what-is-cryptocurrency/#h-9)
+- [Zipmex,"คริปโตเคอร์เรนซี (Cryptocurrency) คืออะไร เหรียญคริปโตมีอะไรบ้าง,"2565](https://zipmex.com/th/learn/what-is-cryptocurrency/)
