@@ -5,13 +5,13 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/concept 
+tags:: #lang/th #type/term
 
-# Security  of Blockchain
-- การรักษาความปลอดภัยของเทคโนโลยี [[Blockchain]] นั้นเป็นพื้นฐานของระบบด้วยการใช้ [[Cryptography]], [[Decentralized Network]], [[Consensus Algorithm]] และการใช้ [[Distributed Ledger Technology (DLT)]] ทำให้บล็อกเชนนั้นมีความปลอดภัยสูง 
+# Security of Blockchain
+- การรักษาความปลอดภัยของเทคโนโลยี [[Blockchain]] นั้นเป็นพื้นฐานที่สำคัญของระบบ โดยการใช้ [[Cryptography]], [[Decentralized Network]], [[Consensus Algorithm]] และการใช้ [[Distributed Ledger Technology (DLT)]] ทำให้บล็อกเชนนั้นมีความปลอดภัยสูง 
 - ความปลอดภัยตามประเภทบัญชี เเบ่งได้เป็น 2 ประเภท คือ
-	- *Public blockchains* คือ เครือข่ายสาธารณะและทุกคนสามารถเข้าร่วมตรวจสอบธุรกรรมได้
-	- *Private blockchains* คือ เครือข่ายส่วนตัวที่สามารถควบคุมได้อย่างเข้มงวดและเหมาะสมสำหรับการปฏิบัติตามกฎระเบียบ ข้อบังคับและมักจะจำกัดเฉพาะเครือข่ายธุรกิจนิติบุคคลเดียวหรือกลุ่มที่ควบคุมความเป็นสมาชิก
+	- *Public blockchains* คือ เครือข่ายสาธารณะ ทุกคนสามารถเข้าร่วมตรวจสอบธุรกรรมได้
+	- *Private blockchains* คือ เครือข่ายส่วนตัว ที่สามารถควบคุมได้อย่างเข้มงวดและเหมาะสมสำหรับการปฏิบัติตามกฎระเบียบ ข้อบังคับและมักจะจำกัดเฉพาะเครือข่ายธุรกิจนิติบุคคลเดียวหรือกลุ่มที่ควบคุมความเป็นสมาชิก
 
 ---
 ## References
