@@ -13,10 +13,10 @@ tags:: #lang/th #type/term
 	- *Utility Token ไม่พร้อมใช้* คือ สินค้าหรือบริการยังไม่พร้อมให้ใช้ประโยชน์ ต้องนำเงินที่ได้จากการขาย Utility token ไปพัฒนาแพลตฟอร์มหรือโครงการให้ประสบผลสำเร็จก่อน (ต้องได้รับอนุญาตให้ออกเสนอขายจาก ก.ล.ต)
 - การเสนอขาย Utility Token จะทำผ่านระบบ [[Initial Coin Offering (ICO)]]
 ---
+## See also
+- [[Security Token]]
 ## References
 - [วนภนวลพรรณ ภวสันต์,"รู้จักสินทรัพย์ดิจิทัล,"2564.](https://www.efinancethai.com/Fintech/FintechMain.aspx?release=y&name=ft_202102101517)
 - ["โทเค็นคืออะไร"](https://www.coinbase.com/th/learn/crypto-basics/what-is-a-token)
 - [จิรายุส ทรัพย์ศรีโสภา,"Token กับ Coin ต่างกันอย่างไร? ในอุตสาหกรรม bitcoin,"2563.](https://www.marketingoops.com/exclusive/insider-exclusive/token-coin-bitcoin/)
 - ["‘Utility Token’ สินทรัพย์ดิจิทัลที่กำลังได้รับความนิยมขึ้นเรื่อยๆ,"2564](https://www.scb10x.com/blog/utility-token)
-## See also
-- [[Security Token]]
