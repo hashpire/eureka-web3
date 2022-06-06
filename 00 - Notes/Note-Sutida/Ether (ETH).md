@@ -5,11 +5,10 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/term
 
 # Ether (ETH)
-- *Ether (ETH)* หรือ อีเธอร์ คือสกุลเงินดิจิทัลที่ถูกสร้างขึ้นบน[[Ethereum]] เพื่อใช้เป็นตัวขับเคลื่อนระบบ เนื่องจากการจะทำธุรกรรมบน Ethereum จะต้องมีการจ่ายค่าธรรมเนียมซึ่งค่าธรรมเนียมนี้ก็คือรางวัลตอนเเทนที่ผู้ขุดจะได้รับไปจากการขุด[[Proof of Work (PoW)]]
----
+ *Ether (ETH)* หรือ *อีเธอร์* คือ [[Cryptocurrency(Coin)]] ที่ถูกสร้างขึ้นบน [[Ethereum]] ใช้ในการแลกเปลี่ยนสินค้าและบริการ รวมถึงใช้ในการจ่ายค่าธรรมเนียมเพื่อทำธุรกรรมบน Ethereum 
 ## References
 - [Wikipedia,"Ethereum/Ether,"2022.](https://en.wikipedia.org/wiki/Ethereum#Ether)
 - ["WHAT IS ETHER (ETH)?"](https://ethereum.org/en/eth/)
