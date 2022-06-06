@@ -12,5 +12,5 @@ tags:: #lang/th #type/concept
 - [[The Open Source Movement]]
 - [[The P2P Movement]]
 ---
-## References
 ## See also
+## References
