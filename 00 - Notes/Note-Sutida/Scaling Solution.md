@@ -5,10 +5,10 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/statement
+tags:: #lang/th #type/term
 
 # Scaling Solution
-- *Scaling Solution* คือวิธีการเเก้ปัญหาที่เกิดจากจำนวนผู้ใช้งานที่เพิ่มมากขึ้นของ [[Bitcoin]] และ [[Ethereum]] ที่ทำให้ความสามารถในการรองรับการทำธุรกรรมไม่เพียงพอกับผู้ใช้งานจึงเกิดความล่าช้าและค่าธรรมเนียม (Gas) แพงขึ้น
+- *Scaling Solution* คือ วิธีการเเก้ปัญหาที่เกิดจากจำนวนผู้ใช้งานที่เพิ่มมากขึ้นของ [[Bitcoin]] และ [[Ethereum]] ทำให้ความสามารถในการรองรับการทำธุรกรรมไม่เพียงพอกับผู้ใช้งาน จึงเกิดความล่าช้าและค่าธรรมเนียม (Gas) แพงขึ้น
 - ประเภทของ Scaling Solution นั้นสามารถแบ่งออกได้เป็น 2 ประเภทคือ [[Off-Chain Scaling]] และ [[On-Chain Scaling]]
 ---
 ## References
