@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/statement
+tags:: #lang/th #type/term
 
 # Plasma
 - *Plasma*  คือ Layer 2 ประเภทหนึ่งที่ [[Blockchain]] แยกออกมาจาก Ethereum Chain หลัก([[Off-Chain Scaling]]) และสามารถใช้ [[Ethereum Vitual Machine (EVM)]] ได้
@@ -21,9 +21,3 @@ tags:: #lang/th #type/statement
 - [[Validium]]
 - [[ZK-Rollup]]
 - [[Optimistic Rollup]]
-
-
-
-
-
-
