@@ -12,8 +12,8 @@ tags:: #lang/th #type/term
 - *ข้อดี* ผู้ใช้งานสามารถควบคุมข้อมูลทุกอย่างได้เอง ผ่านระบบออนไลน์ทั้งหมด และเนื่องจากไม่มีศูนย์กลางทำให้เมื่อเกิดปัญหาขึ้นที่ระบบจุดใดจุดหนึ่ง ระบบส่วนอื่นยังสามารถทำงานต่อได้ รวมทั้งยังสามารถลดปัญหาการปกปิดข้อมูลและความไม่โปร่งใส
 - *ข้อเสีย* การควบคุมดูแลทำได้ยากเพราะไม่มีศูนย์กลาง
 ---
-## References
-- ["Decentralized,"2564.](https://zipmex.com/th/glossary/decentralized/)
 ## See also
 - [[Centralized Network]]
 - [[Distributed Ledger Technology (DLT)]]
+## References
+- ["Decentralized,"2564.](https://zipmex.com/th/glossary/decentralized/)
