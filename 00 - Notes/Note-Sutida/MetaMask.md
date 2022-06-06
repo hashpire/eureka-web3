@@ -14,8 +14,8 @@ tags:: #lang/th #type/term
 - การใช้งานที่ได้รับความนิยมอย่างสูงของ MetaMask คือ ใช้เป็นกระเป๋าที่เชื่อมเกม และใช้สมัครหรือเชื่อมกับกระเป๋าสำหรับจ่ายเงินซื้อหรือขาย Crypto Art 
 
 ---
+## See also
 ## References
 - ["MetaMask คืออะไร ดีไหม Metamask ปลอดภัยไหม ใช้งานอย่างไร,"2564.](https://www.forexduck.com/metamask-is/)
 - ["เก็บเหรียญคริปโตไว้ที่ไหนดี ? สอนใช้งาน Metamask Wallet แบบ Step By Step,"2564.](https://sputnikth.com/index.php/2021/07/25/how-to-use-metamask-wallet/)
-- [MataMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
-## See also
+- ["MataMask,"](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
