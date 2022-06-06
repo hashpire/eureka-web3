@@ -21,4 +21,3 @@ tags:: #lang/th #type/term
 ## See also
 - [[Blockchain Trilemma]]
 - [[ทำไมถึงชื่อว่า Blockchain]]
-
