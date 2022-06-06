@@ -5,13 +5,14 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/statement
+tags:: #lang/th #type/concept
 
 # การเเบ่งประเภทของ Initial Coin Offering
 เเบ่งเป็น 2 ประเภท
+
 *1. Private Initial Coin Offering*  คือ จำกัดจำนวนนักลงทุนที่สามารถเข้าร่วมในกระบวนการนี้ได้ เช่น เฉพาะ*นักลงทุนที่ได้รับการรับรอง (สถาบันการเงินและบุคคลที่มีรายได้สูง)* เท่านั้นที่สามารถเข้าร่วม Private Initial Coin Offering  และบริษัทสามารถเลือกกำหนดจำนวนเงินลงทุนขั้นต่ำได้ด้วย
 
-*2. Public Initial Coin Offering* คือ รูปแบบหนึ่งของการระดมทุนที่มุ่งเป้าไปที่*ประชาชนทั่วไป* เป็นรูปแบบการลงทุนที่เป็นประชาธิปไตยเพราะทุกคนสามารถเป็นนักลงทุนได้
+*2. Public Initial Coin Offering* คือ รูปแบบหนึ่งของการระดมทุนที่มุ่งเป้าไปที่*ประชาชนทั่วไป* เป็นรูปแบบการลงทุนที่เป็นประชาธิปไตย เพราะทุกคนสามารถเป็นนักลงทุนได้
 
 ---
 ## References
@@ -19,5 +20,3 @@ tags:: #lang/th #type/statement
 - [Zipmex,"Initial Coin Offering (ICO),"2564](https://zipmex.com/th/glossary/ico/)
 ## See also
 - [[ข้อควรระวังก่อนลงทุนใน ICO]]
-
-
