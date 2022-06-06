@@ -16,7 +16,6 @@ tags:: #lang/th #type/concept
 5. ข้อสังเกตจากในรูปที่ 1 ตารางที่ 2 จะพบว่าหากตัวอักษรอยู่ในบรรทัดเดียวกันให้เลือกตัวอักษรที่อยู่ทางขวาของตัวอักษรนั้น ๆ
 ---
 ## See also
-
 ## References
 - [เก่ง จันทร์นวล,"เพลย์แฟร์ไซเฟอร,"](http://blog.bru.ac.th/wp-content/uploads/2020/09/flayfair.pdf)
 - ["Substitution cipher,"](https://cryptography.fandom.com/wiki/Substitution_cipher#Polygraphic_substitution)
