@@ -15,7 +15,7 @@ tags:: #lang/th #type/statement
 - ผู้ใช้งานถูกบังคับให้ต้องเชื่อใจผู้ให้บริการว่าจะดูแลและจัดการข้อมูลของผู้ใช้งานเป็นอย่างดี ไม่นำข้อมูลเพื่อไปหาผลประโยชน์ ซึ่งโดยทั่วไปแล้ว แทบไม่มีแพลตฟอร์มไหนเลยที่ไม่มองผู้ใช้งานเป็นสินค้า
 - Web 2.0 เป็นแบบ [[Centralized Network]] และมีปัญหาเรื่องการ Single point of failure คือ เมื่อมีจุดใดจุดหนึ่งล้มเหลวในระบบ ส่วนอื่น ๆ จะล้มตามไปด้วย
 ---
+## See also
 ## References
 - [Jittipong Loespradit,"Web 3.0 คืออะไร มีโอกาสทางธุรกิจอย่างไรบ้าง,"2564.](https://www.martechthai.com/technology/what-is-web-3-and-marketing/)
 - ["วิวัฒนาการเว็บไซต์ Web 1.0, Web 2.0"](https://sites.google.com/a/bumail.net/technoloyi-websit/wiwathnakar-websit-web-1-0-web-2-0-web-3-0-web-4-0)
-## See also
