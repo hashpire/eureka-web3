@@ -13,8 +13,8 @@ tags:: #lang/th #type/term
 - *ข้อเสีย คือ* สิ้นเปลืองพลังงานและช้ามาก 	
 - *ตัวอย่าง*  เช่น  [[Bitcoin]], [[Ethereum]]  เป็นต้น
 ---
+## See also
+ - [[Proof of Stake (PoS)]]
 ## References
 - ["ทำความรู้จัก Blockchain Consensus Protocol แบบต่าง ๆ,"2560.](https://nuuneoi.com/blog/blog.php?read_id=933)
 - [Waranyu Suknantee,"อะไรคือหัวใจแห่ง Blockchain?,"2563.](https://medium.com/bitkub/consensus-algorithms-2d30ae933a02)
-## See also
- - [[Proof of Stake (PoS)]]
