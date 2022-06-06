@@ -5,16 +5,13 @@ published:
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/term
 
 # Segregated Witness (SegWit)
-*Segregated Witness (SegWit)* คือ การเปลี่ยนแปลงการทำธุรกรรม[[Bitcoin]] ที่แยกธุรกรรมและสคริปต์ (witness data) ออกจากข้อมูลรับเข้าและการส่งออก เพื่อการแก้ปัญหาในการทำธุรกรรมโดยไม่ได้ตั้งใจและเป็นแนวทางสำหรับการปรับขนาด Layer 2 Bitcoin scaling 
+*Segregated Witness (SegWit)* คือ การเปลี่ยนแปลงการทำธุรกรรม [[Bitcoin]] โดยการแยกธุรกรรมและสคริปต์ (witness data) ออกจากข้อมูลรับเข้าและส่งออก เพื่อการแก้ปัญหาในการทำธุรกรรมโดยไม่ได้ตั้งใจและเป็นแนวทางสำหรับการปรับขนาด Layer 2 Bitcoin scaling 
 
 ---
 ## References
 - [Barton Johnston,"Blockchain scaling: on-chain vs off-chain,"2019.](https://bdtechtalks.com/2019/09/16/blockchain-scaling-on-chain-vs-off-chain/)
 - ["Scaling Solution คือ?,"2564.](https://academy.bitcoinaddict.org/blockchain-scaling-solution/)
-
 ## See also
-
-
