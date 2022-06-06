@@ -19,8 +19,3 @@ tags:: #lang/th #type/term
 ## See also
 -   [[Distributed Ledger Technology (DLT)]]
 -   [[Decentralized Network]]
-
-
-
-
-
