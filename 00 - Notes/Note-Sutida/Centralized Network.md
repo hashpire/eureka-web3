@@ -13,9 +13,9 @@ tags:: #lang/th #type/term
 - *ข้อเสีย* ระบบทุกอย่างต้องดำเนินการผ่านตัวกลาง หากตัวกลางมีปัญหาระบบจะเสียหายไปทั้งหมด เช่นระบบธนาคารปิด เราก็จะไม่สามารถโอนเงินได้ทั้งๆ ที่เงินนั้นเป็นของเราเอง
 - *ตัวอย่าง* การโอนเงินผ่านธนาคาร เนื่องจากทรัพย์สินของผู้ใช้งานถูกเก็บไว้ที่ธนาคาร ผู้ใช้งานจึงต้องติดต่อไปยังธนาคารเพื่อให้ธนาคารดำเนินการโอนเงินให้ ซึ่งผู้ใช้งานไม่สามารถโอนเงินของตนเองได้เนื่องจากระบบถูกออกแบบมาให้ต้องทำธุรกรรมผ่านตัวกลาง
 ---
-## References
--  ["Centralized,"2564.](https://zipmex.com/th/glossary/centralized/)
--  ["เทคโนโลยี Blockchain คืออะไร?,"2563.](https://bitcoinaddict.org/2019/12/13/what-is-blockchain-technology/)
 ## See also
 -   [[Distributed Ledger Technology (DLT)]]
 -   [[Decentralized Network]]
+## References
+-  ["Centralized,"2564.](https://zipmex.com/th/glossary/centralized/)
+-  ["เทคโนโลยี Blockchain คืออะไร?,"2563.](https://bitcoinaddict.org/2019/12/13/what-is-blockchain-technology/)
