@@ -8,7 +8,7 @@ uplinks:: [[Substitution ciphers-MOC]]
 tags:: #lang/th #type/term 
 
 # Playfair cipher
- *Playfair cipher* การเข้ารหัสเเบบเเทนที่ข้อความธรรมดาเป็นคู่ตัวอักษรแบบไม่คงที่ เป็น [[Polygraphic substitution cipher]] ที่ใช้งานได้จริง คิดค้นโดย Sir CHarles Wheatstone ในปี 1854
+ *Playfair cipher* คือ การเข้ารหัสเเบบเเทนที่ข้อความธรรมดาเป็นคู่ตัวอักษรแบบไม่คงที่ เป็น [[Polygraphic substitution cipher]] ที่ใช้งานได้จริง คิดค้นโดย Sir CHarles Wheatstone ในปี 1854
 
 ---
 ## See also
