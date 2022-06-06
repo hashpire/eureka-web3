@@ -5,10 +5,10 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/term
 
 # Safari
-พัฒนาโดยบริษัท Apple เพื่อทำงานบนระบบปฏิบัติการ iOS โดยเคยมี Safari ที่ใช้งานบนระบบ Windows ได้แต่ปัจจุบันปิดตัวไปแล้ว
+Safari คือ เว็บเบราว์เซอร์ที่พัฒนาโดยบริษัท Apple เพื่อทำงานบนระบบปฏิบัติการ iOS โดยเคยมี Safari ที่ใช้งานบนระบบ Windows ได้แต่ปัจจุบันปิดตัวไปแล้ว
 
 ---
 ## References
@@ -18,6 +18,3 @@ tags:: #lang/th #type/concept
 - [[Microsoft Edge]]
 - [[Mozilla Firefox]]
 - [[Internet Explorer]]
-
-
-
