@@ -5,11 +5,11 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/statement
+tags:: #lang/th #type/term
 
 # Validium
 - *Validium*  คือ Layer 2 ประเภทหนึ่งที่ [[Blockchain]] แยกออกมาจาก Ethereum Chain หลัก ([[Off-Chain Scaling]]) และไม่สามารถใช้ [[Ethereum Vitual Machine (EVM)]] ได้
-- *จุดเด่น* คือ มันสามารถรองรับธุรกรรมได้มากถึง 10,000 ธุรกรรมต่อวินาที  
+- *จุดเด่น* คือ สามารถรองรับธุรกรรมได้มากถึง 10,000 ธุรกรรมต่อวินาที  
 - *ข้อดี* การถอนเงินออกจาก Validium นั้นไม่ต้องรอนานหลายวันเหมือนกับ [[Plasma]]
 
 ---
@@ -19,4 +19,3 @@ tags:: #lang/th #type/statement
 ## See also
 - [[Optimistic Rollup]]
 - [[ZK-Rollup]]
-
