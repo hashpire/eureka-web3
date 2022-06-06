@@ -12,7 +12,6 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
-
 ## References
 - [Wikipedia,"Double transposition,"2022.](https://en.wikipedia.org/wiki/Transposition_cipher#Double_transposition)
 - ["The Double Transposition Cipher"](https://www.pbs.org/wgbh/nova/decoding/doubtrans.html)
