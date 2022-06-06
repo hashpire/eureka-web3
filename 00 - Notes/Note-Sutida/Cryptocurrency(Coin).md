@@ -12,12 +12,12 @@ tags:: #lang/th #type/term
 - ถูกสร้างขึ้นบน[[Blockchain]]โดยตรงและมีเครือข่ายเป็นของตัวเอง เช่น [[Bitcoin]] (BTC), [[Ethereum]] (ETH)
 - สกุลเงินดิจิทัลเเต่ละตัวจะแตกต่างกันในแง่ของขนาดเครือข่าย ปริมาณ ประสิทธิภาพการทำงานและระบบฉันทามติ [[Consensus Algorithm]] เป็นต้น
 ---
-## References
-- [planet 46,"คริปโตเคอร์เรนซี (Cryptocurrency) คืออะไร? พามือใหม่เข้าใจครบจบในที่เดียว!,"2565.](https://www.finnomena.com/planet46/what-is-cryptocurrency/#h-9)
-- [Zipmex,"คริปโตเคอร์เรนซี (Cryptocurrency) คืออะไร เหรียญคริปโตมีอะไรบ้าง,"2565](https://zipmex.com/th/learn/what-is-cryptocurrency/)
 ## See also
 - [[Meme Coins]]
 - [[GameFi]]
 - [[Stablecoin]]
 - [[ความเเตกต่างของ Cryptocurrency(Coin) VS Token]]
 - [[มูลค่าของ Cryptocurrency เกิดจากอะไร]]
+## References
+- [planet 46,"คริปโตเคอร์เรนซี (Cryptocurrency) คืออะไร? พามือใหม่เข้าใจครบจบในที่เดียว!,"2565.](https://www.finnomena.com/planet46/what-is-cryptocurrency/#h-9)
+- [Zipmex,"คริปโตเคอร์เรนซี (Cryptocurrency) คืออะไร เหรียญคริปโตมีอะไรบ้าง,"2565](https://zipmex.com/th/learn/what-is-cryptocurrency/)
