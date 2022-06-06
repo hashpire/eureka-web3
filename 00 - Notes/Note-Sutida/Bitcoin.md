@@ -21,6 +21,3 @@ tags:: #lang/th #type/term
 
 ## See also
 - [[การเคลื่อนไหวที่ทำให้ Bitcoin เกิดขึ้น]]
-
-
-
