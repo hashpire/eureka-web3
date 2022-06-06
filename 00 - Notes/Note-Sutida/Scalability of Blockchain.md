@@ -5,10 +5,10 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/statement
+tags:: #lang/th #type/term
 
 # Scalability of Blockchain
-*Scalability* คือ ความสามารถขยายเครือข่ายให้สามารถรองรับจำนวนผู้ใช้หรือธุรกรรมที่เพิ่มสูงขึ้นได้อย่างมีประสิทธิภาพโดยไม่เกิด*ปัญหาคอขวด*เมื่อมีจำนวนผู้ใช้งานในเครือข่ายจำนวนมาก
+*Scalability* คือ ความสามารถขยายเครือข่าย ให้สามารถรองรับจำนวนผู้ใช้หรือธุรกรรมที่เพิ่มสูงขึ้นได้อย่างมีประสิทธิภาพ โดยไม่เกิด*ปัญหาคอขวด*เมื่อมีจำนวนผู้ใช้งานในเครือข่ายจำนวนมาก
 
 ---
 ## References
@@ -16,6 +16,3 @@ tags:: #lang/th #type/statement
 - ["Lightning Network อาจเป็นทางออกในการ Scalability ของ Bitcoin,"2564.](https://www.blockdit.com/posts/61964330e8655f0d7e1cbc47)
 ## See also
 - [[ปัญหา Scalability ของ Bitcoin]]
-
-
-
