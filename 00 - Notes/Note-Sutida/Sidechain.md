@@ -5,10 +5,10 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/statement
+tags:: #lang/th #type/term
 
 # Sidechain
-*Sidechain*  คือ [[Blockchain]] อิสระที่สามารถทำงานได้กับ [[Ethereum Vitual Machine (EVM)]] เป็นการทำงานแบบคู่ขนานกับ Mainnet ซึ่งเข้ากันได้ดีกับ [[Ethereum]] ผ่านการ Brigdges ข้ามระหว่าง 2 Chain โดยแต่ละ Sidechain นั้นก็จะมีข้อแตกต่างกันไป
+*Sidechain* คือ [[Blockchain]] อิสระที่สามารถทำงานได้กับ [[Ethereum Vitual Machine (EVM)]] เป็นการทำงานแบบคู่ขนานกับ Mainnet เข้ากันได้ดีกับ [[Ethereum]] ผ่านการ Brigdges ข้ามระหว่าง 2 Chain โดยแต่ละ Sidechain นั้นก็จะมีข้อแตกต่างกันไป
 
 ---
 ## References
