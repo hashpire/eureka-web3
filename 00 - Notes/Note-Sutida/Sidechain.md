@@ -11,7 +11,7 @@ tags:: #lang/th #type/term
 *Sidechain* คือ [[Blockchain]] อิสระที่สามารถทำงานได้กับ [[Ethereum Vitual Machine (EVM)]] เป็นการทำงานแบบคู่ขนานกับ Mainnet เข้ากันได้ดีกับ [[Ethereum]] ผ่านการ Brigdges ข้ามระหว่าง 2 Chain โดยแต่ละ Sidechain นั้นก็จะมีข้อแตกต่างกันไป
 
 ---
+## See also
 ## References
 - [Barton Johnston,"Blockchain scaling: on-chain vs off-chain,"2019.](https://bdtechtalks.com/2019/09/16/blockchain-scaling-on-chain-vs-off-chain/)
 - ["Scaling Solution คือ?,"2564.](https://academy.bitcoinaddict.org/blockchain-scaling-solution/)
-## See also
