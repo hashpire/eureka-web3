@@ -17,10 +17,10 @@ tags:: #lang/th #type/concept
 - เเต่ถึงอย่างไรก็ตาม การเคลื่อนของทั้งสองกลุ่ม ก็เรียกได้ว่าเป็นส่วนหนึ่งในการช่วยให้ผู้คนหันมาสนใจในเรื่องนี้ อย่างในช่วงปีหลังๆ มานี้เครื่องมืออย่าง Github ก็ได้มีส่วนช่วยผลักดันให้ Open Source เติบโตขึ้นอย่างรวดเร็ว
 
 ---
+## See also
+- [[The Cypherpunk Movement]]
+- [[The P2P Movement]]
 ## References
 - [Dave Neary,"pivotal moments history open source,"2018.](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
 - [Wikipedia,"Open-source-software movement,"2022.](https://en.wikipedia.org/wiki/Open-source-software_movement)
 - ["Why Free Software is better than Open Source"](https://www.gnu.org/philosophy/free-software-for-freedom.h)
-## See also
-- [[The Cypherpunk Movement]]
-- [[The P2P Movement]]
