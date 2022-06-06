@@ -13,6 +13,6 @@ tags:: #lang/th #type/term
 - Web Browser ที่ดีนั้น จำเป็นต้องมีการพัฒนาอย่างสม่ำเสมอ มีความเร็วและไม่กินพื้นที่บนคอมพิวเตอร์ ทว่าแต่ละแบบก็มีข้อจำกัดแตกต่างกันไปหรืออาจเหมาะกับระบบปฏิบัติการที่ไม่เหมือนกัน ดังนั้นการเลือกใช้ Web Browser แบบไหนจึงขึ้นอยู่กับรูปแบบการใช้งาน
 -  *ตัวอย่าง Web Browser* ที่นิยมใช้ เช่น [[Google Chrome]], [[Mozilla Firefox]], [[Safari]], [[Internet Explorer]], [[Microsoft Edge]] เป็นต้น
 ---
+## See also
 ## References
 - [ThaiBussinessSearch,"Web Browser (เว็บเบราว์เซอร์) คืออะไร?,"2564](https://www.thaibusinesssearch.com/marketing/web-browser/) 
-## See also
