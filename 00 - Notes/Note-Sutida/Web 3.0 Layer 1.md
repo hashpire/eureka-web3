@@ -15,12 +15,12 @@ tags:: #lang/th #type/term
 - *(6) Transient data pub/sub messaging* เป็นโพรโทคอล ที่อธิบายถึงวิธีการสื่อสารข้อมูล ที่ไม่ต้องการจะจัดเก็บเเบบถาวร เช่น การอัปเดตสถานะและวิธีการที่ทำให้ Node รับรู้การมีอยู่ของข้อมูลที่ต้องสื่อสาร เช่น Whisper, Matrix
 
 ---
-## References
-- [Jittipong Loespradit,"Web 3.0 คืออะไร มีโอกาสทางธุรกิจอย่างไรบ้าง,"2564.](https://www.martechthai.com/technology/what-is-web-3-and-marketing/)
-- [Zipmax,"WEB 3.0 คืออะไร? วิวัฒนาการของการเชื่อมต่อที่ไร้พรมแดนและไร้ตัวกลาง?,"2564.](https://www.finnomena.com/zipmex/what-is-web-3-0/)
-- [MkDocs,"Web 3 Tech Stack,"](https://web3-technology-stack.readthedocs.io/en/latest/)
 ## See also
 - [[Web 3.0 Layer 0]]
 - [[Web 3.0 Layer 2]]
 - [[Web 3.0 Layer 3]]
 - [[Web 3.0 Layer 4]]
+## References
+- [Jittipong Loespradit,"Web 3.0 คืออะไร มีโอกาสทางธุรกิจอย่างไรบ้าง,"2564.](https://www.martechthai.com/technology/what-is-web-3-and-marketing/)
+- [Zipmax,"WEB 3.0 คืออะไร? วิวัฒนาการของการเชื่อมต่อที่ไร้พรมแดนและไร้ตัวกลาง?,"2564.](https://www.finnomena.com/zipmex/what-is-web-3-0/)
+- [MkDocs,"Web 3 Tech Stack,"](https://web3-technology-stack.readthedocs.io/en/latest/)
