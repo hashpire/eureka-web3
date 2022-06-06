@@ -5,10 +5,10 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/term
 
 # Token
-- *โทเคน (Token)* คือสกุลเงินดิจิทัลที่สร้างขึ้นมาบนเครือข่ายบล็อกเชนอื่นๆ ที่มีอยู่เเล้ว *ไม่มีเครือข่ายเป็นของตนเอง* และโดยส่วนใหญ่จะถูกสร้างจากการเขียนสัญญาอัจฉริยะ [[Smart Contract]]  
+- *โทเคน (Token)* คือ สกุลเงินดิจิทัล ที่สร้างขึ้นมาบนเครือข่ายบล็อกเชนอื่นๆ ที่มีอยู่เเล้วหรือก็คือ *ไม่มีเครือข่ายเป็นของตนเอง* และโดยส่วนใหญ่จะถูกสร้างจากการเขียนสัญญาอัจฉริยะ [[Smart Contract]]  
 - โทเคน เเบ่งออกเป็น 2 ประเภท คือ [[Utility Token]] และ [[Security Token]]
 - *ตัวอย่าง* เช่น Tether (USDT), Yearn Finance (YFI), Uniswap (UNI)
 
@@ -20,6 +20,3 @@ tags:: #lang/th #type/concept
 ## See also
 - [[ความเเตกต่างของ Cryptocurrency(Coin) VS Token]]
 - [[Cryptocurrency(Coin)]]
-
-
-
