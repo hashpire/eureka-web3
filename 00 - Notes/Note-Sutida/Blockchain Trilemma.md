@@ -16,6 +16,4 @@ tags:: #lang/th #type/concept
 - ["Cryptonian EP27: Ethereum Layer 2 ภาคต่อของ Blockchain Scalability,"2564.](https://themomentum.co/cryptonian-ethereum-layer-2/)
 - ["รู้จัก Blockchain Trilemma กำแพง 3 ชั้นสู่ Mass Adoption,"2564.](https://www.finnomena.com/bitkub/blockchain-trilemma/)
 
-## See also
-
-
+## See als
