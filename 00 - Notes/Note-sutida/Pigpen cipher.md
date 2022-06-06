@@ -13,6 +13,5 @@ tags:: #lang/th #type/term
 - เป็นการเข้ารหัสที่ถูกใช้เล่นในกลุ่มเด็ก ๆ เพราะมันไม่มีความปลอดภัยใด ๆ เนื่องจากใช้สัญลักษณ์ที่ง่ายทุกคนสามารถเขียนออกมาได้ 
 ---
 ## See also
-
 ## References
 - [Wikipedia,"Pigpen cipher,"2022.](https://en.wikipedia.org/wiki/Pigpen_cipher)
