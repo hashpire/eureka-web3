@@ -5,14 +5,14 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/term
 
 # Brave Browser
 - *Brave Browser* เป็นเบราว์เซอร์สําหรับใช้งานอินเทอร์เน็ตเหมือนกับเบราว์เซอร์อื่นๆ เช่น [[Google Chrome]], [[Mozilla Firefox]] 
-- Brave Browser เปิดให้ใช้งานฟรีและเป็นโอเพนซอร์ส 
+- ใช้งานฟรีและเป็นโอเพนซอร์ส 
 - พัฒนาโดย Brave Software, Inc.
--  พื้นฐานมาจากเว็บเบราว์เซอร์ Chromium
-- *จุดเด่น* คือตัวเบราว์เซอร์มีการ*ปิดกั้นโฆษณา*  (Anti-Ad สามารถป้องกันได้ดีกว่า Extension ทั่วไป) รวมถึงปิดกั้นพวก Script หรือ Cookie ต่างๆ และมีช่องทางให้ผู้ใช้งานสนับสนุนโดยการส่ง[[Cryptocurrency(Coin)]] ในรูปแบบ Basic Attention Tokens ไปยังเว็บไซต์และผู้สร้างเนื้อหาได้
+- พื้นฐานมาจากเว็บเบราว์เซอร์ Chromium
+- *จุดเด่น* คือตัวเบราว์เซอร์มีการปิดกั้นโฆษณา(Anti-Ad สามารถป้องกันได้ดีกว่า Extension ทั่วไป) รวมถึงปิดกั้นพวก Script หรือ Cookie ต่างๆ และมีช่องทางให้ผู้ใช้งานสนับสนุนโดยการส่ง[[Cryptocurrency(Coin)]]ในรูปแบบ Basic Attention Tokens ไปยังเว็บไซต์และผู้สร้างเนื้อหาได้
 
 ---
 ## References
