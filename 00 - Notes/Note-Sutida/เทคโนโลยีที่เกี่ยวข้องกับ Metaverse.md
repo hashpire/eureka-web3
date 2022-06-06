@@ -20,9 +20,9 @@ tags:: #lang/th #type/concept
 	การสร้าง Metaverse ต้องอาศัย Plaftorm ที่มีหน่วยประมวลผลกราฟิกส์ออกมาได้แบบเรียลไทม์ เช่น  **NVIDIA Omniverse™** ที่มีเครื่องมือ toolkits ในการสร้าง Metaverse 
 
 ---
+## See also
+- [[The Metaverse Value-Chain]]
 ## References
 - [Jittipong Loespradit,"Metaverse ในอดีต-ปัจจุบัน และอนาคตของ เมตะเวิร์ส คืออะไร,"2565.](https://www.martechthai.com/technology/what-is-metaverse/)
 - [Kultida Techsauce,"Metaverse คืออะไร ประกอบด้วยเทคโนโลยีอะไรบ้าง เกี่ยวข้องอย่างไรกับ Cryptocurrency ภายใน 5 นาที,"2564.](https://techsauce.co/tech-and-biz/what-is-metaverse)
 - [Marisa,"Metaverse คืออะไร? ส่งผลกระทบอย่างไรกับโลกการตลาด?,"2565](https://contentshifu.com/blog/what-is-metaverse)
-## See also
-- [[The Metaverse Value-Chain]]
