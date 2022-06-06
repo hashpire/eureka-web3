@@ -17,10 +17,10 @@ tags:: #lang/th #type/statement
 - *Creator Economy* คือ กระบวนการสร้างธุรกิจต่างๆ ระบบเกม, การซื้อขายแลกเปลี่ยน Discovery การดึงผู้ใช้งานใหม่ๆ ให้เข้ามาใช้งาน ผ่าน Community-driven เช่นการบอกต่อกันปากต่อปาก, การถูกพูดถึงผ่าน Search Engine หรือ Earned Media อื่นๆ
 - *Experience* คือ Layer นอกสุดก็คือเนื้อหา, รูปแบบการผจญภัย, ความท้าทายต่างๆ ที่จะสร้าง Lock-in Effect ทำให้ผู้ใช้งานรู้สึกโดนดึงดูดติดอยู่กับโลกเสมือน
 ---
+## See also
+- [[เทคโนโลยีที่เกี่ยวข้องกับ Metaverse]]
 ## References
 - [Jittipong Loespradit,"Metaverse ในอดีต-ปัจจุบัน และอนาคตของ เมตะเวิร์ส คืออะไร,"2565.](https://www.martechthai.com/technology/what-is-metaverse/)
 - [Kultida Techsauce,"Metaverse คืออะไร ประกอบด้วยเทคโนโลยีอะไรบ้าง เกี่ยวข้องอย่างไรกับ Cryptocurrency ภายใน 5 นาที,"2564.](https://techsauce.co/tech-and-biz/what-is-metaverse)
 - [Marisa,"Metaverse คืออะไร? ส่งผลกระทบอย่างไรกับโลกการตลาด?,"2565](https://contentshifu.com/blog/what-is-metaverse)
 - [Jon Radoff,"the-metaverse-value-chain,"2021.](https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7)
-## See also
-- [[เทคโนโลยีที่เกี่ยวข้องกับ Metaverse]]
