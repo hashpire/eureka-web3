@@ -8,7 +8,7 @@ uplinks:: [[Web 3]]
 tags:: #lang/th #type/term 
 
 # Ethereum ICO
-- *Ethereum ICO*  การระดมทุนเเบบ [[Initial Coin Offering (ICO)]] ของ [[Ethereum]] มีการเปิดตัวเมื่อวันที่ 2 พฤศจิกายน 2014 โดยวิธีการเดียวที่จะเข้าร่วมลงทุนได้คือการจ่ายด้วย [[Bitcoin]] 
+- *Ethereum ICO* คือ การระดมทุนเเบบ [[Initial Coin Offering (ICO)]] ของ [[Ethereum]] มีการเปิดตัวเมื่อวันที่ 2 พฤศจิกายน 2014 โดยวิธีการเดียวที่จะเข้าร่วมลงทุนได้ คือการจ่ายค่าเข้าร่วมด้วย [[Bitcoin]] 
 
 ---
 ## References
