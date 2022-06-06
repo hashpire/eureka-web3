@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/statement
+tags:: #lang/th #type/term
 
 # Optimistic Rollup
 - *Optimistic Rollup* คือ Layer 2 ประเภทหนึ่งที่ [[Blockchain]] ทำงานร่วมกับ Ethereum Chain หลัก ([[On-Chain Scaling]]) และสามารถใช้ [[Ethereum Vitual Machine (EVM)]] ได้ 
@@ -17,14 +17,6 @@ tags:: #lang/th #type/statement
 ---
 ## References
 - ["ETHEREUM LAYER 2,"2564.](https://academy.bitcoinaddict.org/what-is-ethereum-layer-2/)
-
 ## See also
 - [[Plasma]]
-- [[Validium]]
-
-
-
-
-  
-  
-  
+- [[Validium]] 
