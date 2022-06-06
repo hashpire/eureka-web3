@@ -3,6 +3,7 @@ version: "0.0.1"
 cover_image:
 published: true
 contributors: ["Sutida"]
+
 ---
 uplinks:: [[Web 3]]
 tags:: #lang/th #type/concept
@@ -17,9 +18,9 @@ Cypherpunk คือกลุ่มคนที่สนับสนุนเร
 หลังจากนั้นในปี 2008 Satoshi Nakamoto ได้เปิดตัว Bitcoin โดยอ้างถึงแนวคิดของ HashCash และ B-money ด้วยเหตุนี้ชี้ให้เห็นว่า Satoshi อาจจะอยู่ใกล้กับกลุ่ม Cypherpunk ก็เป็นไปได้
 
 ---
-## References
-- [Wikipedia,"Cypherpunk,"2022.](https://en.wikipedia.org/wiki/Cypherpunk)
-- ["THE CYPHERPUNK MOVEMENT"](https://academy.horizen.io/history/the-cypherpunk-movement/)
 ## See also
 - [[The Open Source Movement]]
 - [[The P2P Movement]]
+## References
+- [Wikipedia,"Cypherpunk,"2022.](https://en.wikipedia.org/wiki/Cypherpunk)
+- ["THE CYPHERPUNK MOVEMENT"](https://academy.horizen.io/history/the-cypherpunk-movement/)
