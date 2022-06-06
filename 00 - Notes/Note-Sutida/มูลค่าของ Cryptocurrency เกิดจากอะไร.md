@@ -13,7 +13,7 @@ tags:: #lang/th #type/statement
 - ตัวอย่าง เช่น Bitcoin เป็นเหรียญที่มีอุปทานจำกัดอยู่ที่ 21 ล้านเหรียญ เนื่องจากจำนวนเหรียญมีจำกัดจึงทำให้ราคาของเหรียญสูงขึ้นตามไปด้วย
 
 ---
+## See also
 ## References
 - [planet 46,"คริปโตเคอร์เรนซี (Cryptocurrency) คืออะไร? พามือใหม่เข้าใจครบจบในที่เดียว!,"2565.](https://www.finnomena.com/planet46/what-is-cryptocurrency/#h-9)
 - [Zipmex,"คริปโตเคอร์เรนซี (Cryptocurrency) คืออะไร เหรียญคริปโตมีอะไรบ้าง,"2565](https://zipmex.com/th/learn/what-is-cryptocurrency/)
-## See also
