@@ -17,7 +17,6 @@ tags:: #lang/th #type/term
 - โดย X มาจากตำแหน่งของตัวอักษรและ  n มาจากตำแหน่งของการเลื่อน เช่น เป็นการเลื่อนซ้าย 3 ตำแหน่ง คือ n=3 เป็นต้น ในการคำนวณหากผลบวกหรือลบออกมาเกิน mod26 เราจะต้องนำเอาเลขที่ได้มาลบกับ 26 ก่อนจึงจะได้คำตอบออกมา
 ---
 ## See also
-
 ## References
 - [Wikipedia,"Caesar Cipher,"2022.](https://en.wikipedia.org/wiki/Caesar_cipher)
 - ["Shift (Caesar) Ciphers,"](https://math.asu.edu/sites/default/files/shift.pdf)
