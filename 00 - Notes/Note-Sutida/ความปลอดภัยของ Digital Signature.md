@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/statement
+tags:: #lang/th #type/concept
 
 # ความปลอดภัยของ Digital Signature
 ประกอบด้วย
