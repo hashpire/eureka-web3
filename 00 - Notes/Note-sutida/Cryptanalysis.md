@@ -13,7 +13,6 @@ tags:: #lang/th #type/term
 - วิธีการทำลายระบบเข้ารหัสที่ทันสมัยมักจะเกี่ยวข้องกับการเเก้ปัญหาที่เกิดขึ้นในคณิตศาสตร์อย่าง [[Integer factorization]] ที่รู้จักกันดีที่สุด
 ---
 ## See also
-
 ## References
 - [Wikipedia,"Cryptanalysis,"2022.](https://en.wikipedia.org/wiki/Cryptanalysis)
 - [Thomas W. Edgar, David O. Manz,"Science and Cyber Security,"2017.](https://www.sciencedirect.com/topics/computer-science/cryptanalysis)
