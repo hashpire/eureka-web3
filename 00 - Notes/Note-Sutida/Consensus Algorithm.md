@@ -13,8 +13,8 @@ tags:: #lang/th #type/term
 - Consensus Algorithm ส่วนใหญ่จะใช้คู่กับ Crypto Economics คือการสร้างแรงจูงใจ โดยการให้รางวัลแก่ผู้ร่วมออกเสียง Blockchain รุ่นแรกๆ ส่วนใหญ่จะใช้ PoW เช่น Bitcoin, Ethereum
 - ตัวยอย่าง เช่น [[Proof of Work (PoW)]],  [[Proof of Stake (PoS)]] เป็นต้น 
 ---
+## See also
 ## References
 - ["ทำความรู้จัก Blockchain Consensus Protocol แบบต่าง ๆ,"2560.](https://nuuneoi.com/blog/blog.php?read_id=933)
 - ["ฉันทามติใน Blockchain , Consensus คืออะไร,"2561.](https://blockchain-review.co.th/blockchain-review/what-is-blockchain-consensus/)
 - [Waranyu Suknantee,"อะไรคือหัวใจแห่ง Blockchain?,"2563.](https://medium.com/bitkub/consensus-algorithms-2d30ae933a02)
-## See also
