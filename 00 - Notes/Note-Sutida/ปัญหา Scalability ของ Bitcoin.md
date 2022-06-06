@@ -12,7 +12,7 @@ tags:: #lang/th #type/statement
 - ตัวอย่าง วิธีการแก้ปัญหาได้ถูกพูดถึงมาอย่างยาวนาน โดยมีการเสนอวิธีต่างๆหลายวิธี เช่น Lightning Network (LN) 
 
 ---
+## See also
 ## References
 - ["รู้จัก Blockchain Trilemma กำแพง 3 ชั้นสู่ Mass Adoption,"2564.](https://www.finnomena.com/bitkub/blockchain-trilemma/)
 - ["Lightning Network อาจเป็นทางออกในการ Scalability ของ Bitcoin,"2564.](https://www.blockdit.com/posts/61964330e8655f0d7e1cbc47)
-## See also
