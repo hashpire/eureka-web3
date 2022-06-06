@@ -5,11 +5,11 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[Web 3]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/term
 
 # Uniswap
-- *Uniswap* คือแพลตฟอร์มด้านการเงินสำหรับเเลกเปลี่ยนเหรียญดิจิทัลมาตรฐาน ERC20 เป็นแบบ Decentralized Exchange (DEX) ทำงานบน Etheruem Blockchain และใช้ [[Smart Contract]]  
--  *ตัวอย่าง* เช่น Ethereum (ETH), Basic Attention Token (BAT), หรือ OmiseGO (OMG) 
+- *Uniswap* คือ แพลตฟอร์มด้านการเงิน สำหรับเเลกเปลี่ยนเหรียญดิจิทัล มาตรฐาน ERC20 เป็นแบบ Decentralized Exchange (DEX) ทำงานบน Etheruem Blockchain และใช้ [[Smart Contract]]  
+- *ตัวอย่าง* เช่น Ethereum (ETH), Basic Attention Token (BAT), หรือ OmiseGO (OMG) 
 
 ---
 ## References
@@ -17,5 +17,3 @@ tags:: #lang/th #type/concept
 - [Waranyu Suknantee,"รู้จักกับ UNI เหรียญ DeFi ยอดนิยมอันดับ 1,"2564.](https://medium.com/bitkub/uni-8d580a07449d)
 - ["UNISWAP PROTOCOL"](https://uniswap.org/)
 ## See also
-
-
