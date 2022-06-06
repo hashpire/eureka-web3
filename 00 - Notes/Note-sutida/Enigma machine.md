@@ -15,7 +15,6 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
-
 ## References
 - [Wikipedia,"Enigma machine"](https://en.wikipedia.org/wiki/Enigma_machine)
 - [Abdul Rashid,"Enigma - Hardware Encryption Monster - How its decrypted and saved many lives,"2020.](https://www.linkedin.com/pulse/enigma-hardware-encryption-monster-how-its-decrypted-abdul-rashid)
