@@ -14,10 +14,10 @@ tags:: #lang/th #type/term
 - Vitalik Buterin กล่าวไว้ว่า ZK-Rollup ถือว่าเป็น Layer 2 ที่มีประสิทธิภาพมากที่สุดและจะได้ไปต่อหาก [[Ethereum 2.0]] เสร็จสิ้น
 
 ---
-## References
-- ["ETHEREUM LAYER 2,"2564.](https://academy.bitcoinaddict.org/what-is-ethereum-layer-2/)
-- [Finematics,"Ethereum LAYER 2 SCALING Explained (Rollups, Plasma, Channels, Sidechains),"2563.](https://www.youtube.com/watch?v=BgCgauWVTs0&t=455s)
 ## See also
 - [[Plasma]]
 - [[Validium]]
 - [[Optimistic Rollup]]
+## References
+- ["ETHEREUM LAYER 2,"2564.](https://academy.bitcoinaddict.org/what-is-ethereum-layer-2/)
+- [Finematics,"Ethereum LAYER 2 SCALING Explained (Rollups, Plasma, Channels, Sidechains),"2563.](https://www.youtube.com/watch?v=BgCgauWVTs0&t=455s)
