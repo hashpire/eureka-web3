@@ -13,7 +13,6 @@ tags:: #lang/th #type/term
 - ในช่วงแรกๆ Nomenclator ถูกจำกัดใช้เเค่กับชื่อของบุคคลสำคัญ เเต่ต่อมาก็ถูกนำมาใช้ในคำทั่วไปรวมถึงชื่อสถานที่มากมาย
 ---
 ## See also
-
 ## References
 - [Cryptography for Everybody,"Nomenclator Ciphers Explained and Created,"2021.](https://youtu.be/E8UWbo8axsE)
 - [Tom Olzak,"Chapter 7: The role of cryptography in information security,"2012.](https://resources.infosecinstitute.com/topic/role-of-cryptography/)
