@@ -12,7 +12,6 @@ tags:: #lang/th #type/concept
 
 ---
 ## See also
-
 ## References
 - [Wikipedia,"Vigenère cipher,"2022.](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
 - [Thanin Muangpool,"Chapter7 Cryptography"](http://pws.npru.ac.th/signal/data/files/Chapter7_Cryptography.pdf)
