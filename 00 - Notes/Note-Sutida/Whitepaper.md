@@ -12,7 +12,7 @@ tags:: #lang/th #type/term #type/boat
 - องค์ประกอบของ Whitepaper เเต่ละฉบับจะมีหัวข้อเเตกต่างกันไปเเต่ส่วนใหญ่จะครอบคลุมหัวข้อดังนี้ บทนำ, ปัญหาและรายละเอียดของปัญหา, โซลูชันทางเทคโนโลยี,ศักยภาพการใช้งาน, แผนงาน, การขายโทเคน เป็นต้น
 
 ---
+## See also
 ## References
 - ["Whitepaper คืออะไร ทำไมนักลงทุนต้องอ่านก่อนลงทุนใน Cryptocurrency(Coin),"2564.](https://www.moneybuffalo.in.th/vocabulary/what-is-whitepaper)
 - [Zipmex,"Whitepaper ?,"2564.](https://zipmex.com/th/glossary/whitepaper/)
-## See also
