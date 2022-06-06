@@ -18,6 +18,3 @@ tags:: #lang/th #type/statement
 ## See also
 - [[Ethereum 2.0]]
 - [[Ethereum]]
-
-
-
