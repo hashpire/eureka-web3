@@ -8,7 +8,7 @@ uplinks:: [[Web 3]]
 tags:: #lang/th #type/term
 
 # Ethereum 2.0
-*Ethereum 2.0* เป็นการอัพเกรดในส่วนสุดท้ายหลังจาก Frontier, Homestead และ Metropolis โดยในเวอร์ชันนี้มีจุดมุ่งหมายเพื่อ เพิ่มความเร็ว ประสิทธิภาพและความสามารถในการปรับขนาดของเครือข่าย Ethereum โดย Ethereum 2.0 จะเปลี่ยน [[Consensus Algorithm]] จาก [[Proof of Work (PoW)]] มาใช้ระบบ [[Proof of Stake (PoS)]]
+*Ethereum 2.0* เป็นการอัพเกรดในส่วนสุดท้ายหลังจาก Frontier, Homestead และ Metropolis โดยในเวอร์ชันนี้มีจุดมุ่งหมายเพื่อเพิ่มความเร็ว ประสิทธิภาพ และความสามารถในการปรับขนาดของเครือข่าย Ethereum โดย Ethereum 2.0 จะเปลี่ยน [[Consensus Algorithm]] จาก [[Proof of Work (PoW)]] มาใช้ระบบ [[Proof of Stake (PoS)]]
 
 ---
 ## See also
