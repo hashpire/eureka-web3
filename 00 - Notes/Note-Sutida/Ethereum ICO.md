@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks::  [[Initial Coin Offering (ICO)-MOC]]
+uplinks:: [[Initial Coin Offering (ICO)-MOC]]
 tags:: #lang/th #type/term 
 
 # Ethereum ICO
