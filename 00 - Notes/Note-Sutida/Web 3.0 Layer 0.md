@@ -8,7 +8,7 @@ uplinks:: [[Web 3]]
 tags:: #lang/th #type/term
 
 # Web 3.0 Layer 0
-**Layer 0** เป็นส่วนพื้นฐานของ Stack  Web 3.0 ที่ประกอบไปด้วย วิธีการสื่อสารของหน่วยสื่อสาร (Node) ต่างๆ และวิธีการติดตั้งโปรแกรมในระดับล่างที่สุด (Lowest Level)
+**Layer 0** เป็นส่วนพื้นฐานของ Stack  Web 3.0 ที่ประกอบไปด้วย วิธีการสื่อสารของหน่วยสื่อสาร (Node) ต่าง ๆ และวิธีการติดตั้งโปรแกรมในระดับล่างที่สุด (Lowest Level)
 - *(1) Peer-to-peer (p2p) internet overlay protocols*  หมายถึง โพรโทคอล ที่อธิบายวิธีการสื่อสารของ Node ในระบบ P2P เช่น Devp2p, Libp2p
 - *(2) Platform-neutral computation description language* หมายถึง ภาษาที่ใช้อธิบายการทำงานของ Node ในระดับต่ำที่สุด เช่น EVM, WASM, UTXO
 ---
