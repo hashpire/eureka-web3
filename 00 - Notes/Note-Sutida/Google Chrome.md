@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks::  [[Computer Network-MOC]]
+uplinks:: [[Computer Network-MOC]]
 tags:: #lang/th #type/term
 
 # Google Chrome
