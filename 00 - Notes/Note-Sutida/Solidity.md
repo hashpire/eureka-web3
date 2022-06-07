@@ -8,10 +8,10 @@ uplinks:: [[Web 3]]
 tags:: #lang/th #type/term
 
 # Solidity
-- *Solidity* เป็นภาษาโปรแกรมคอมพิวเตอร์ระดับสูง ที่นำมาใช้ในการสร้าง [[Smart Contract]] บนหลายเเพลตฟอร์มบน Blockchain โดยส่วนใหญ่เป็น Ethereum ออกแบบมาเพื่อกำหนดเป้าหมาย Ethereum Virtual Machine (EVM)
+- *Solidity* เป็นภาษาคอมพิวเตอร์ระดับสูง ที่นำมาใช้ในการสร้าง [[Smart Contract]] บนหลายเเพลตฟอร์มบน Blockchain โดยส่วนใหญ่เป็น Ethereum 
 - รูปแบบภาษาวงเล็บ-ปีกกาที่ได้รับอิทธิพลจาก C++, Python และ JavaScript 
 - รองรับ inheritance, libraries และ  complex user-defined types among รวมถึงฟีเจอร์อื่น ๆ
-- สามารถสร้างสัญญาสำหรับการใช้งานต่างๆ เช่น การลงคะแนน, การระดมทุน blind auctions, multi-signature wallets. 
+- สามารถสร้างสัญญาสำหรับการใช้งานต่าง ๆ เช่น การลงคะแนน, การระดมทุน blind auctions, multi-signature wallets. 
 ---
 ## See also
 ## References
