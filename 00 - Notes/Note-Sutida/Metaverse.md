@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Metaverse-MOC]]
 tags:: #lang/th #type/term
 
 # Metaverse

@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Bitcoin-MOC]]
 tags:: #lang/th #type/concept
 
 # The Cypherpunk Movement
@@ -16,8 +16,8 @@ tags:: #lang/th #type/concept
 
 ---
 ## See also
-- [[The Open Source Movement]]
-- [[The P2P Movement]]
+- [[Bitcoin]]
+- [[การเคลื่อนไหวที่ทำให้ Bitcoin เกิดขึ้น]]
 ## References
 - [Wikipedia,"Cypherpunk,"2022.](https://en.wikipedia.org/wiki/Cypherpunk)
 - ["THE CYPHERPUNK MOVEMENT"](https://academy.horizen.io/history/the-cypherpunk-movement/)

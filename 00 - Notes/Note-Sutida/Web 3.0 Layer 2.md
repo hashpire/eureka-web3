@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Web 3.0 Technology Stack-MOC]]
 tags:: #lang/th #type/term 
 
 # Web 3.0 Layer 2

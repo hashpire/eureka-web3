@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Computer Network-MOC]]
 tags:: #lang/th #type/term 
 
 # Computer Network
@@ -13,5 +13,6 @@ tags:: #lang/th #type/term
 ---
 ## See also
 - [[Internet]]
+- [[Web Browser]]
 ## References
 - ["Computer Network คืออะไร,"2560](https://www.mindphp.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/73-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/2221-computer-network-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.html) 

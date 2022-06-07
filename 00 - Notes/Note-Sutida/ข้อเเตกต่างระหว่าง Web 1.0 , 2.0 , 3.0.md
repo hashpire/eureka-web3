@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[จุดเริ่มต้นของเวิลด์ไวด์เว็บ-MOC]]
 tags:: #lang/th #type/concept
 
 # ข้อเเตกต่างระหว่าง Web 1.0 , 2.0 , 3.0

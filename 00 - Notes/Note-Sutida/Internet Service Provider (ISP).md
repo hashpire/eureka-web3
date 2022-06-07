@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks::  [[Computer Network-MOC]]
 tags:: #lang/th #type/term
 
 # Internet Service Provider (ISP)
@@ -12,6 +12,7 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
+- [[Internet]]
 ## References
 - ["ผู้ให้บริการอินเทอร์เน็ต Internet Service Provider (ISP),"2562.](https://www.anet.net.th/a/46065)
 - ["Internet service provider (ISP),"2563](https://www.etda.or.th/th/Useful-Resource/terminology/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1-I/329.aspx)

@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Cryptography-MOC]]
 tags:: #lang/th #type/term
 
 # Secret Key Cryptography
@@ -14,6 +14,7 @@ tags:: #lang/th #type/term
 - *ตัวอย่าง* เช่น AES, Blowfish, DES, Triple DES เป็นต้น
 ---
 ## See also
+- [[Cryptography]]
 - [[Encryption]]
 - [[Decryption]]
 ## References

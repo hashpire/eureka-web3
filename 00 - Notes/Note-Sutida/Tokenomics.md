@@ -4,12 +4,12 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Token-MOC]]
 tags:: #lang/th #type/term
 
 # Tokenomics
 - Tokenomics เกิดจากการรวมกันของสองคำ  
-  Token + Economics = Tokenomics
+  [[Token]] + Economics = Tokenomics
 	- Token หมายถึง คำที่ไว้เรียกสินทรัพย์ดิจิทัล หรือ เหรียญต่าง ๆ เช่น Tether (USDT) เป็นต้น  
 	- Economic หมายถึง วิชาเศรษฐศาสตร์ ซึ่งศึกษาถึงเรื่องการจัดสรรทรัพยากรและการกำหนดมูลค่าของสินค้าและบริการ โดยอาศัยจุดสมดุลของตลาด ระหว่างความต้องการซื้อ (Demand) และความต้องการขาย (Supply)
 -  ดังนั้นคำว่า Tokenomic จึงหมายความว่า การแสวงหาคำตอบของมูลค่าหรือราคาของ Token ต่าง ๆ ว่าควรจะมีราคาหรือมูลค่าเท่าไหร่ตามหลักวิชาเศรษฐศาสตร์

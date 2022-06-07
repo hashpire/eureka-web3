@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Metaverse-MOC]]
 tags:: #lang/th #type/concept
 
 # เทคโนโลยีที่เกี่ยวข้องกับ Metaverse
@@ -21,6 +21,7 @@ tags:: #lang/th #type/concept
 
 ---
 ## See also
+- [[Metaverse]]
 - [[The Metaverse Value-Chain]]
 ## References
 - [Jittipong Loespradit,"Metaverse ในอดีต-ปัจจุบัน และอนาคตของ เมตะเวิร์ส คืออะไร,"2565.](https://www.martechthai.com/technology/what-is-metaverse/)

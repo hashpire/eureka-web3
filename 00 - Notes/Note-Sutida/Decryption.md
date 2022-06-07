@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Cryptography-MOC]]
 tags:: #lang/th #type/term
 
 # Decryption
@@ -12,6 +12,7 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
+- [[Cryptography]]
 - [[Public Key Cryptography]]
 - [[Secret Key Cryptography]]
 ## References

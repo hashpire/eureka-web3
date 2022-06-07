@@ -4,8 +4,8 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
-tags:: #lang/th #type/term
+uplinks:: [[Web 3 - HIGHER MOC]]
+tags:: #lang/th #type/term  #type/boat 
 
 # Security Token Offering (STO)
 - *Security Token Offering (STO)* คือการระดมทุนโดยการเสนอขายโทเคนดิจิทัล ([[Token]]) ผ่านระบบ [[Blockchain]] ที่อยู่ภายใต้กฎข้อบังคับของรัฐบาล 

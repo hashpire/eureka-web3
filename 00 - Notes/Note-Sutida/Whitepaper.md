@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Web 3 - HIGHER MOC]]
 tags:: #lang/th #type/term #type/boat 
 
 # Whitepaper

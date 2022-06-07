@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks::  [[Computer Network-MOC]]
 tags:: #lang/th #type/term
 
 # IP Address
@@ -14,5 +14,6 @@ tags:: #lang/th #type/term
 ## See also
 - [[Computer Network]]
 - [[Internet]]
+- [[Internet Service Provider (ISP)]]
 ## References
 - ["IP Address คืออะไร,"2560](https://www.mindphp.com/คู่มือ/73-คืออะไร/2071-ip-address-คืออะไร.html)

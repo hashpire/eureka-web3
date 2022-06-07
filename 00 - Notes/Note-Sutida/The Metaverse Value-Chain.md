@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Metaverse-MOC]]
 tags:: #lang/th #type/statement
 
 # The Metaverse Value-Chain 
@@ -18,6 +18,7 @@ tags:: #lang/th #type/statement
 - *Experience* คือ Layer นอกสุดก็คือเนื้อหา, รูปแบบการผจญภัย, ความท้าทายต่างๆ ที่จะสร้าง Lock-in Effect ทำให้ผู้ใช้งานรู้สึกโดนดึงดูดติดอยู่กับโลกเสมือน
 ---
 ## See also
+- [[Metaverse]]
 - [[เทคโนโลยีที่เกี่ยวข้องกับ Metaverse]]
 ## References
 - [Jittipong Loespradit,"Metaverse ในอดีต-ปัจจุบัน และอนาคตของ เมตะเวิร์ส คืออะไร,"2565.](https://www.martechthai.com/technology/what-is-metaverse/)

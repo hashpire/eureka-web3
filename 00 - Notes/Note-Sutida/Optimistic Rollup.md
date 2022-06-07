@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Ethereum Layer 2 แบ่งเป็นกี่ประเภท-MOC]]
 tags:: #lang/th #type/term
 
 # Optimistic Rollup

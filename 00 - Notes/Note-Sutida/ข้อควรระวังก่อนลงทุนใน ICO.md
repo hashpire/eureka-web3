@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks::  [[Initial Coin Offering (ICO)-MOC]]
 tags:: #lang/th #type/statement
 
 # ข้อควรระวังก่อนลงทุนใน ICO
@@ -15,6 +15,7 @@ tags:: #lang/th #type/statement
 5. ระวังสัญญาณอันตรายหรือก็คือคำโฆษณาชวนเชื่อต่าง ๆ
 ---
 ## See also
+- [[Initial Coin Offering (ICO)]]
 - [[การเเบ่งประเภทของ Initial Coin Offering]]
 ## References
 - [ปริย เตชะมวลไววิทย์,"รู้จัก ICO ก่อนคิดลงทุน,"2560.](https://www.sec.or.th/TH/Template3/Articles/2560/ac-post-25601106-ICO.pdf)

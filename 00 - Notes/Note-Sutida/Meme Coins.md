@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Token-MOC]] , [[Cryptocurrency(Coin)-MOC]]
 tags:: #lang/th #type/term
 
 # Meme Coins
@@ -14,8 +14,10 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
+- [[Token]]
 - [[Stablecoin]]
 - [[GameFi]]
+- [[Cryptocurrency(Coin)]]
 ## References
 - [planet 46,"คริปโตเคอร์เรนซี (Cryptocurrency) คืออะไร? พามือใหม่เข้าใจครบจบในที่เดียว!,"2565.](https://www.finnomena.com/planet46/what-is-cryptocurrency/#h-9)
 - [Zipmex,"คริปโตเคอร์เรนซี (Cryptocurrency) คืออะไร เหรียญคริปโตมีอะไรบ้าง,"2565](https://zipmex.com/th/learn/what-is-cryptocurrency/)

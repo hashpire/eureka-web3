@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Initial Coin Offering (ICO)-MOC]]
 tags:: #lang/th #type/concept
 
 # การเเบ่งประเภทของ Initial Coin Offering
@@ -16,6 +16,7 @@ tags:: #lang/th #type/concept
 
 ---
 ## See also
+- [[Initial Coin Offering (ICO)]]
 - [[ข้อควรระวังก่อนลงทุนใน ICO]]
 ## References
 - [ปริย เตชะมวลไววิทย์,"รู้จัก ICO ก่อนคิดลงทุน,"2560.](https://www.sec.or.th/TH/Template3/Articles/2560/ac-post-25601106-ICO.pdf)

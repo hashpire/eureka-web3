@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Cryptography-MOC]]
 tags:: #lang/th #type/term
 
 # Cryptography

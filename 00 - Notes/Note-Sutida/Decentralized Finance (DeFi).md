@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Decentralized Finance (DeFi)-MOC]]
 tags:: #lang/th #type/term
 
 # Decentralized Finance (DeFi)

@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Decentralized Finance (DeFi)-MOC]]
 tags:: #lang/th #type/concept
 
 # ประโยชน์ของ DeFi
@@ -13,6 +13,7 @@ tags:: #lang/th #type/concept
 - *เริ่มธุรกิจได้ง่าย* ทุกคนสามารถแปลงสินทรัพย์ที่ตัวเองมีให้เป็นสินทรัพย์ดิจิทัลเเละสามารถขายได้ทันที รวมถึงการขยายธุรกิจไปต่างประเทศทำได้ง่าย ไม่ต้องมีระบบที่ยุ่งยากเเละเสียค่าธรรมเนียมสูง
 ---
 ## See also
+- [[Decentralized Finance (DeFi)]]
 - [[ความเสี่ยงของ DeFi]]
 - [[DeFi กับการกำกับดูแลและข้อกฎหมายในประเทศไทย]]
 ## References

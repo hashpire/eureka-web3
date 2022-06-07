@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Blockchain-MOC]]
 tags:: #lang/th #type/term
 
 # Scalability of Blockchain
@@ -12,6 +12,7 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
+- [[Blockchain Trilemma]]
 - [[ปัญหา Scalability ของ Bitcoin]]
 ## References
 - ["รู้จัก Blockchain Trilemma กำแพง 3 ชั้นสู่ Mass Adoption,"2564.](https://www.finnomena.com/bitkub/blockchain-trilemma/)

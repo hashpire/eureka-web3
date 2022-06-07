@@ -5,8 +5,8 @@ published: true
 contributors: ["Sutida"]
 
 ---
-uplinks:: [[Web 3]]
-tags:: #lang/th #type/term
+uplinks:: [[Web 3 - HIGHER MOC]]
+tags:: #lang/th #type/term  #type/boat 
 
 # Non-fungible tokens (NFTs)
 *Non-fungible tokens (NFTs)* คือสินทรัพย์ดิจิทัลประเภทหนึ่ง เช่น งานศิลปะ ดนตรี ไอเท็มในเกม และวิดีโอ เป็นต้น มีเอกลักษณ์เฉพาะตัวสูงมาก ไม่ซ้ำกัน ไม่สามารถทดแทนได้ และมูลค่าไม่เท่ากัน ถูกซื้อขายบนแพลตฟอร์ม **NFT** โดยการซื้อ-ขาย แต่ละครั้งจะถูกบันทึกเข้า [[Blockchain]] ตัวอย่างเเพลตฟอร์ม เช่น OpenSea, Decentraland  เป็นต้น

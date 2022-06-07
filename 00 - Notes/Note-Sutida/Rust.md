@@ -4,8 +4,8 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
-tags:: #lang/th #type/term
+uplinks:: [[Web 3 - HIGHER MOC]]
+tags:: #lang/th #type/term #type/boat 
 
 # Rust
 - *Rust* เป็นภาษาคอมพิวเตอร์ ที่สร้างโดยวิศวกรของ Mozilla ผู้ดูแลโครงการเบราว์เซอร์ [[Mozilla Firefox]] โดยเป็นภาษาสำหรับประมวลผลการทำงานพร้อม ๆ กัน สามารถทำงานระบบขนาดใหญ่ได้ เพราะออกแบบมาไม่ให้มีปัญหาด้านหน่วยความจำอย่าง Buffer Overflow

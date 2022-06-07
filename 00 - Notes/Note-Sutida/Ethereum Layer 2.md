@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Ethereum-MOC]]
 tags:: #lang/th #type/term
 
 # Ethereum Layer 2
@@ -13,7 +13,7 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
-- [[Ethereum Layer 2 แบ่งเป็นกี่ประเภท]]
+- [[Ethereum Layer 2 แบ่งเป็นกี่ประเภท-MOC]]
 ## References
 - ["ETHEREUM LAYER 2,"2564.](https://academy.bitcoinaddict.org/what-is-ethereum-layer-2/)
 - [Finematics,"Ethereum LAYER 2 SCALING Explained (Rollups, Plasma, Channels, Sidechains),"2563.](https://www.youtube.com/watch?v=BgCgauWVTs0&t=455s)

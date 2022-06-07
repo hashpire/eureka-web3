@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Hash Function-MOC]]
 tags:: #lang/th #type/term
 
 # Hash Function

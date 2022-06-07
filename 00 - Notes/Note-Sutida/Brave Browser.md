@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks::  [[Computer Network-MOC]]
 tags:: #lang/th #type/term
 
 # Brave Browser
@@ -16,6 +16,10 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
+- [[Web Browser]]
+- [[Safari]]
+- [[Internet Explorer]]
+- [[Microsoft Edge]]
 ## References
 - ["Brave Browser คืออะไร,"2563.](https://thiti.dev/blog/38/)
 - [Wikipedia,"Brave,"2564. ](https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%9F_(%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C))

@@ -4,11 +4,11 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Token-MOC]]
 tags:: #lang/th #type/term
 
 # GameFi
-- *GameFi* คือเหรียญโทเคนดิจิทัลที่ถูกสร้างขึ้นเพื่อใช้ในเกมหรือโลกเสมือนจริง[[Metaverse]]โดยเฉพาะ เราสามารถใช้เหรียญ GameFi ที่ได้มาในการซื้อไอเทมต่าง ๆ ในเกมหรือจะขายบนกระดาน Exchange ก็ได้เช่นกัน
+- *GameFi* คือ [[Token]] ที่ถูกสร้างขึ้นเพื่อใช้ในเกมหรือโลกเสมือนจริง[[Metaverse]]โดยเฉพาะ เราสามารถใช้เหรียญ GameFi ที่ได้มาในการซื้อไอเทมต่าง ๆ ในเกมหรือจะขายบนกระดาน Exchange ก็ได้เช่นกัน
 - *ตัวอย่าง* เช่น Decentraland (MANA), The Sandbox (SAND), Axie Infinity (AXS) และ My Neighbor Alice (ALICE) เป็นต้น
 
 ---

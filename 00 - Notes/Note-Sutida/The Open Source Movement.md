@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Bitcoin-MOC]]
 tags:: #lang/th #type/concept
 
 # The Open Source Movement
@@ -18,8 +18,8 @@ tags:: #lang/th #type/concept
 
 ---
 ## See also
-- [[The Cypherpunk Movement]]
-- [[The P2P Movement]]
+- [[Bitcoin]]
+- [[การเคลื่อนไหวที่ทำให้ Bitcoin เกิดขึ้น]]
 ## References
 - [Dave Neary,"pivotal moments history open source,"2018.](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
 - [Wikipedia,"Open-source-software movement,"2022.](https://en.wikipedia.org/wiki/Open-source-software_movement)

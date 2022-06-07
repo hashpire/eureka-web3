@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Bitcoin-MOC]]
 tags:: #lang/th #type/concept
 
 # The P2P Movement
@@ -17,7 +17,7 @@ tags:: #lang/th #type/concept
 - **ข้อเสียของ P2P** คือ การกำกับดูแลทำได้ยาก เนื่องจากเป็นระบบแบบไม่มีตัวกลาง
 ---
 ## See also
-- [[The Cypherpunk Movement]]
-- [[The Open Source Movement]]
+- [[Bitcoin]]
+- [[การเคลื่อนไหวที่ทำให้ Bitcoin เกิดขึ้น]]
 ## References
 -  [ADAM HAYES,"peer to peer-p2p-service,"2021](https://www.investopedia.com/terms/p/peertopeer-p2p-service.asp)

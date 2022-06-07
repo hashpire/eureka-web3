@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Cryptocurrency(Coin)-MOC]]
 tags:: #lang/th #type/term
 
 # Cryptocurrency(Coin)
@@ -14,8 +14,6 @@ tags:: #lang/th #type/term
 ---
 ## See also
 - [[Meme Coins]]
-- [[GameFi]]
-- [[Stablecoin]]
 - [[ความเเตกต่างของ Cryptocurrency(Coin) VS Token]]
 - [[มูลค่าของ Cryptocurrency เกิดจากอะไร]]
 ## References

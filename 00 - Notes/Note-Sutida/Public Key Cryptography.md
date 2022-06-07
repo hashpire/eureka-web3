@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Cryptography-MOC]]
 tags:: #lang/th #type/term
 
 # Public Key Cryptography
@@ -21,6 +21,7 @@ tags:: #lang/th #type/term
 - *ตัวอย่าง* เช่น RSA ซึ่งเป็นระบบเเรกของ Public Key Cryptography คิดค้นโดย Rivest, Shamir และ Adleman ซึ่งเผยแพร่ในปี 1978 เป็นต้น 
 ---
 ## See also
+- [[Cryptography]]
 - [[Encryption]]
 - [[Decryption]]
 ## References

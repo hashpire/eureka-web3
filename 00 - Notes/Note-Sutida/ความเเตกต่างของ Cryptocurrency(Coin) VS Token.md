@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Cryptocurrency(Coin)-MOC]], [[Token-MOC]]
 tags:: #lang/th #type/statement
 
 # ความเเตกต่างของ Cryptocurrency(Coin) VS Token

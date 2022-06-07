@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Decentralized App (DApps)-MOC]]
 tags:: #lang/th #type/term
 
 # Uniswap
@@ -13,6 +13,7 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
+- [[Decentralized App (DApps)]]
 ## References
 - ["UNISWAP คืออะไร?,"2564.](https://academy.bitcoinaddict.org/what-is-uniswap/)
 - [Waranyu Suknantee,"รู้จักกับ UNI เหรียญ DeFi ยอดนิยมอันดับ 1,"2564.](https://medium.com/bitkub/uni-8d580a07449d)

@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Decentralized App (DApps)-MOC]]
 tags:: #lang/th #type/term
 
 # CryptoKitties
@@ -12,6 +12,7 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
+- [[Decentralized App (DApps)]]
 ## References
 - ["CryptoKitties"](https://www.cryptokitties.co/)
 - ["มาเลี้ยงแมวบนบล็อกเชนด้วย CryptoKitties กัน ทาสแมวห้ามพลาด,"2564](https://sputnikth.com/index.php/2021/07/20/what-is-cryptokitties/)

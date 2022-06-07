@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Consensus Algorithm-MOC]]
 tags:: #lang/th #type/term
 
 # Proof of Work (PoW)

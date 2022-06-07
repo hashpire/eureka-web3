@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[จุดเริ่มต้นของเวิลด์ไวด์เว็บ-MOC]]
 tags:: #lang/th #type/concept
 
 # Web 3.0
@@ -22,7 +22,7 @@ tags:: #lang/th #type/concept
 ## See also
 - [[ Web 1.0 ]]
 - [[ Web 2.0 ]]
-- [[Web 3.0 Technology Stack]]
+- [[Web 3.0 Technology Stack-MOC]]
 ## References
 - ["WEB 3.0,"2554.](https://webtthree.wordpress.com/2011/09/13/web-3-0/)
 - [Jittipong Loespradit,"Web 3.0 คืออะไร มีโอกาสทางธุรกิจอย่างไรบ้าง,"2564.](https://www.martechthai.com/technology/what-is-web-3-and-marketing/)

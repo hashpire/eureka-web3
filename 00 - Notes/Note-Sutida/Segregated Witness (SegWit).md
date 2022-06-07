@@ -4,7 +4,7 @@ cover_image:
 published:
 contributors: ["Sutida"]
 ---
-uplinks:: [[Web 3]]
+uplinks:: [[Scaling Solution-MOC]]
 tags:: #lang/th #type/term
 
 # Segregated Witness (SegWit)
@@ -12,6 +12,7 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
+- [[On-Chain Scaling]]
 ## References
 - [Barton Johnston,"Blockchain scaling: on-chain vs off-chain,"2019.](https://bdtechtalks.com/2019/09/16/blockchain-scaling-on-chain-vs-off-chain/)
 - ["Scaling Solution คือ?,"2564.](https://academy.bitcoinaddict.org/blockchain-scaling-solution/)
