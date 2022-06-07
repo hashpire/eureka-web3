@@ -8,7 +8,7 @@ uplinks:: [[Web 3]]
 tags:: #lang/th #type/term
 
 # Uniswap
-- *Uniswap* คือ แพลตฟอร์มด้านการเงิน สำหรับเเลกเปลี่ยนเหรียญดิจิทัล มาตรฐาน ERC20 เป็นแบบ Decentralized Exchange (DEX) ทำงานบน Etheruem Blockchain และใช้ [[Smart Contract]]  
+- *Uniswap* คือแพลตฟอร์มด้านการเงิน สำหรับเเลกเปลี่ยนเหรียญดิจิทัล มาตรฐาน ERC20 เป็นแบบ Decentralized Exchange (DEX) ทำงานบน Etheruem Blockchain และใช้ [[Smart Contract]]  
 - *ตัวอย่าง* เช่น Ethereum (ETH), Basic Attention Token (BAT), หรือ OmiseGO (OMG) 
 
 ---
