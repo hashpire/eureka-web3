@@ -9,7 +9,7 @@ tags:: #lang/th #type/term
 
 # Plasma
 - *Plasma*  คือ Layer 2 ประเภทหนึ่งที่ [[Blockchain]] แยกออกมาจาก Ethereum Chain หลัก([[Off-Chain Scaling]]) และสามารถใช้ [[Ethereum Vitual Machine (EVM)]] ได้
-- *จุดเด่น* คือ มันสามารถสร้างบล็อกเชนแยกเป็น chain ย่อยๆ ได้ไม่จำกัดจำนวนเป็นสำเนาของ Ethereum ฺBlockchain โดยใช้ประโยชน์จากการใช้ [[Smart Contract]] และ Merkle tree
+- *จุดเด่น* คือ มันสามารถสร้างบล็อกเชนแยกเป็น chain ย่อย ๆ ได้ไม่จำกัดจำนวนเป็นสำเนาของ Ethereum ฺBlockchain โดยใช้ประโยชน์จากการใช้ [[Smart Contract]] และ Merkle tree
 - *ข้อดี* คือ การโอนย้ายธุรกรรมจาก Chain หลักไปยัง Chain ย่อยช่วยให้การทำธุรกรรมทำได้รวดเร็วและมีราคาถูก สามารถรองรับธุรกรรมได้มากขึ้น 
 - *ข้อเสีย* คือ การจะถอนเงินออกจาก Plasma นั้นใช้เวลาหลายวันกว่าเงินจะเข้า wallets
 ---
