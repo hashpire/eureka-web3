@@ -8,7 +8,7 @@ uplinks:: [[Web 3.0 Technology Stack-MOC]]
 tags:: #lang/th #type/term 
 
 # Web 3.0 Layer 1
-**Layer 1** เป็นส่วนที่ทำหน้าที่ในส่วนของการจัดเก็บ แจกจ่าย และการโต้ตอบข้อมูลระหว่าง Node ด้วยกัน ที่อาจจะยังไม่มีความปลอดภัยมากพอ
+**Layer 1** เป็นส่วนที่ทำหน้าที่ในการจัดเก็บ แจกจ่าย และการโต้ตอบข้อมูลระหว่าง Node ด้วยกัน ที่อาจจะยังไม่มีความปลอดภัยมากพอ
 - *(3)Data distribution protocols* เป็นโพรโทคอล ที่อธิบายวิธีการเเจกจ่าย จัดเก็บและสื่อสารข้อมูลระหว่าง Node ต่าง ๆ ในระบบ เช่น IPFS, Bluzelle, Fluence
 - *(4) Zero/low-trust interaction platforms (shared security)* เป็น platforms ที่ใช้ Zero/low-trust interaction protocols เพื่อให้ผู้มีส่วนร่วมซึ่งอาจจะไม่รู้จักกันสามารถแชร์ความปลอดภัยซึ่งกันเเละกันได้ เช่น Polkadot
 - *(5) Zero/low-trust interaction protocols* เป็นโพรโทคอล ที่อธิบายวิธีการที่ทำให้ Node ที่ไม่รู้จักกัน สามารถมีปฏิสัมพันธ์กัน เชื่อถือผลการคำนวณ และข้อมูลของกันเเละกัน เช่น  Ethereum, Bitcoin, Zcash
