@@ -1,0 +1,18 @@
+---
+version: "0.0.1"
+cover_image:
+published: true
+contributors: ["Sutida"]
+---
+uplinks:: [[Substitution ciphers-MOC]]
+tags:: #lang/th #type/term 
+
+# Simple substitution cipher
+*Simple substitution cipher* คือ การเข้ารหัส โดยการเเทนที่ตัวอักษรเดี่ยวอย่างง่าย เป็นการนำเอาคีย์ที่กำหนดไว้ไปใส่เเทนที่ในลำดับตัวอักษร จากนั้นก็นำเอาตัวอักษรนั้นมาใช้ในการเข้ารหัสข้อความธรรมดา
+
+---
+## See also
+- [[ขั้นตอนการเข้ารหัสแบบ Simple substitution cipher]]
+- [[ขั้นตอนการถอดรหัสแบบ Simple substitution cipher]]
+## References
+- [Wikipedia,"Simple substitution cipher,"2022.](https://en.wikipedia.org/wiki/Substitution_cipher#Simple_substitution)
