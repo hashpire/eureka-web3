@@ -13,6 +13,7 @@ tags:: #lang/th #type/term
 ---
 ## See also
 - [[ขั้นตอนการเข้ารหัสแบบ Playfair cipher ]]
+- [[ขั้นตอนการถอดรหัสแบบ Playfair cipher]]
 ## References
 - [เก่ง จันทร์นวล,"เพลย์แฟร์ไซเฟอร,"](http://blog.bru.ac.th/wp-content/uploads/2020/09/flayfair.pdf)
 - ["Substitution cipher,"](https://cryptography.fandom.com/wiki/Substitution_cipher#Polygraphic_substitution)

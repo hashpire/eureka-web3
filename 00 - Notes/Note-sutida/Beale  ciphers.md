@@ -15,6 +15,8 @@ tags:: #lang/th #type/term
 
 ---
 ## See also
+- [[ขั้นตอนการเข้ารหัสแบบ Beale ciphers]]
+- [[ขั้นตอนการถอดรหัสแบบ Beale ciphers]]
 ## References
 - [Wikipedia,"Beale ciphers,"2022.](https://en.wikipedia.org/wiki/Beale_ciphers)
 - [Simon Singh,"the beale treasure ciphers,"](https://simonsingh.net/media/articles/maths-and-science/the-beale-treasure-ciphers/)
