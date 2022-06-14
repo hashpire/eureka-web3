@@ -4,10 +4,10 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Hierarchical Deterministic Wallets - MOC]]
+uplinks:: [[MOC Hierarchical Deterministic Wallets]]
 tags:: #lang/th #type/moc
 
-# Blockchain Wallets - MOC
+# MOC Blockchain Wallets 
 ### คำอธิบาย
 - [[Blockchain Wallets]]
 
