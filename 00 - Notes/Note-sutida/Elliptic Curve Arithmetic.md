@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[MOC Cryptographic Primitives & Math]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/thing
 
 # Elliptic Curve Arithmetic
 การออกแบบที่มี Concept คือการนำจุดที่อยู่บน กราฟเส้นโค้งมาบวกกัน แบ่งเป็น
