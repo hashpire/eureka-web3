@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[MOC Blockchain Keys and Addresses]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/thing
 
 # Address
 - *Address: H(dG)* คือ เปรียบเทียบได้กับเลขสมุดบัญชี ที่เราส่งให้กับบุคคลอื่น เวลาที่มีการทำธุรกรรมร่วมกัน
