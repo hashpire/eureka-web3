@@ -4,8 +4,8 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[Blockchain Wallets - MOC]]
-tags:: #lang/th #type/term 
+uplinks:: [[ MOC Blockchain Wallets]]
+tags:: #lang/th #type/thing
 
 # Blockchain Wallets
 - *Blockchain Wallets* คือกระเป๋าตังค์ สำหรับใช้ในการเก็บ Private Keys แตกต่างกับกระเป๋าตังค์ทั่ว ๆ ไป ที่จะเก็บธนบัตรหรือเหรียญไว้  เนื่องจากในโลกของ [[Cryptocurrency(coin)]] สินทรัพย์ดิจิทัล จะถูกรักษาความปลอดภัยโดย Private Keys 
