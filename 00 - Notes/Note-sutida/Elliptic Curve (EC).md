@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[MOC Cryptographic Primitives & Math]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/thing
 
 # Elliptic Curve (EC)
 - *Elliptic Curve (EC)*  เป็นศาสตร์ ๆ หนึ่ง ซึ่งใน Cryptographic  จะมีสิ่งที่เรียกว่า Cryptographic ECC ซึ่งใช้ Elliptic Curve ในการสร้าง [[Public Key]] และ [[Private Key]] 
