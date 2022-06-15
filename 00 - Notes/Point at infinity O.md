@@ -2,7 +2,8 @@
 version: "0.0.1"
 cover_image:
 published: true
-contributors: ["name"]
+contributors: ["Sutida"]
+
 ---
 uplinks:: [[MOC Cryptographic Primitives & Math]]
 tags:: #lang/th #type/thing
