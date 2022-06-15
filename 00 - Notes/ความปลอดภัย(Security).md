@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[MOC The need for multiple  keys]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/thing
 
 # ความปลอดภัย(Security)
 ความปลอดภัย(Security) เป็นอีกหนึ่งเหตุผล ที่ทำให้เราจำเป็นต้องมี Key และ Addresses จำนวนมากใน [[Blockchain]]  ประกอบด้วย 
