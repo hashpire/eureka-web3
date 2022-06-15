@@ -8,10 +8,8 @@ uplinks:: [[MOC Hierarchical Deterministic Wallets]]
 tags:: #lang/th #type/moc
 
 # MOC Cryptographic Primitives & Math 
-องค์ประกอบพื้นฐานในการสร้าง [[Blockchain]] ประกอบด้วย 
-- [[Modular Arithmetic]]
+องค์ประกอบพื้นฐานในการสร้าง [[Blockchain]] ประก[[00 - Notes/Note-sutida/Modular Arithmetic]]rithmetic]]
 - [[Hash Function-MOC]]
-- [[Elliptic Curve (EC)]]
 - [[Elliptic Curve Arithmetic]]
 
 ---

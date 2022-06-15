@@ -8,7 +8,7 @@ uplinks:: [[MOC Hierarchical Deterministic Wallets]]
 tags:: #lang/th #type/moc
 
 #  MOC Blockchain Keys and Addresses 
-![[Blockchain Keys and Addresses 1.png]]
+![[Attachments/B-01-test.png]]
 - [[Private Key]]
 - [[Public Key]]
 - [[Address]]
