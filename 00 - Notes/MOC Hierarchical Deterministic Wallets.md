@@ -16,7 +16,7 @@ tags:: #lang/th #type/moc
 - [[Key Generation Algorithm]]
 
 ### MOC The need for mulitiple keys
-- [[The need for mulitiple keys]]
+- [[The need for multiple  keys]]
 - [[ความเป็นส่วนตัว(Privacy)]]
 - [[ความปลอดภัย(Security)]]
 ### MOC Cryptographic Primitives & Math
