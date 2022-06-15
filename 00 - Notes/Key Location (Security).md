@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[MOC Blockchain Wallets]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/thing
 
 # Key Location (Security)
 การแบ่งรูปแบบของ [[Blockchain Wallets]] โดยการแบ่งตามที่จัดเก็บ [[Private Key]] จะแบ่งออกเป็น 
