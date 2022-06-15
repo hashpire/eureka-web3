@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[MOC The need for multiple  keys]]
-tags:: #lang/th #type/statement
+tags:: #lang/th #type/thing
 
 # The need for mulitiple keys
 - การเปิดบัญชีธนาคารทั่วไปที่เราใช้อยู่ในปัจจุบัน บุคคลหนึ่งอาจจะมีบัญชีธนาคาร 1-2 บัญชีก็เพียงพอต่อการใช้งานแล้ว แตกต่างกับในโลกของ [[Blockchain]] บุคคลหนึ่งสามารถที่จะมี Key และ Addresses จำนวนเท่าไรก็ได้ไม่จำกัด  เนื่องจากเหตุผล 2 ประการ คือ  1.[[ความเป็นส่วนตัว(Privacy)]] และ 2. [[ความปลอดภัย(Security)]]
