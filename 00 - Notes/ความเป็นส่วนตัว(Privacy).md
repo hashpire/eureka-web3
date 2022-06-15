@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[MOC The need for multiple  keys]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/thing
 
 # ความเป็นส่วนตัว(Privacy)
 ความเป็นส่วนตัว(Privacy) เป็นเหตุผลแรกของการที่เราจำเป็นต้องมี Key และ Addresses จำนวนมากใน [[Blockchain]] ประกอบด้วย
