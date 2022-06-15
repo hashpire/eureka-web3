@@ -20,10 +20,12 @@ tags:: #lang/th #type/moc
 - [[ความเป็นส่วนตัว(Privacy)]]
 - [[ความปลอดภัย(Security)]]
 ### MOC Cryptographic Primitives & Math
-- [[Modular Arithmetic]]
-- [[ Hash Function-MOC]] (note จากเดือน 04)
+- [[Modular Arithmetic (TH)]]
+- [[Hash Function-MOC]]
 - [[Elliptic Curve (EC)]]
-- [[Elliptic Curve Arithmetic]]
+- [[Point at infinity O]]
+- [[Elliptic Curve Arithmetic(TH)]]
+- [[Elliptic Curve Cryptography(TH)]]
 ### MOC Blockchain Keys and Addresses
 - [[Private Key]]
 - [[Public Key]]
