@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[MOC Blockchain Wallets]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/thing
 
 # Key Generation Algorithm
 การแบ่งรูปแบบของ [[Blockchain Wallets]] โดยการแบ่งตาม Algorithm ที่ใช้ในการสร้าง [[Private Key]] จะแบ่งออกเป็น 
