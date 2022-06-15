@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 ---
 uplinks:: [[MOC Blockchain Wallets]]
-tags:: #lang/th #type/concept
+tags:: #lang/th #type/thing
 
 # Key Management
  *Key Management* คือ หน้าที่ของ [[Blockchain Wallets]] ในการบริหารจัดการ Private Key ซึ่งจะแบ่งออกเป็น 
