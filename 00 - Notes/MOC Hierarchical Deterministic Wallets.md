@@ -15,7 +15,7 @@ tags:: #lang/th #type/moc
 - [[Key Location (Security)]]
 - [[Key Generation Algorithm]]
 
-### MOC The need for mulitiple keys
+### MOC The need for multiple keys
 - [[The need for multiple  keys]]
 - [[ความเป็นส่วนตัว(Privacy)]]
 - [[ความปลอดภัย(Security)]]
@@ -29,18 +29,18 @@ tags:: #lang/th #type/moc
 - [[Public Key]]
 - [[Address]]
 - [[ECC Composite Property]]
-### MOC deterministic Wallet
+### MOC HD Wallet
 - [[Non-deterministic Wallet]]
      - [[Problems and Shortcomings]]
      - [[Early workarounds]]
 - [[Deterministic Wallet]]
      - [[Type-1 Deterministic Wallet]]
-         - [[Problems and Shortcomings]]
+        - [[Problems and Shortcomings]]
    - [[Type-2: BIP32 Hierarchical Deterministic Walle]]
         - [[BIP32 Normal Key Derivation]]
         - [[BIP32 Hardened Key Derivation]]
-         - [[BIP32 Public Key Generation]]
-         - [[BIP32 Problems and Shortcomings]]
+        - [[BIP32 Public Key Generation]]
+        - [[BIP32 Problems and Shortcomings]]
 - [[CPK-based Wallets]]
      - [[CPK Algorithm]]
      - [[Hierarchical CPK]]
