@@ -14,8 +14,8 @@ tags:: #lang/th #type/thing
 - การจัดการจำนวน Private key ที่อยู่ใน Blockchain Wallets ต้องจัดเป็นสัดส่วนตามจำนวนของการทำธุรกรรม
 
 ## See also
- - [Problems and Shortcomings of HD Wallet](./Problems%20and%20Shortcomings%20of%20HD%20Wallet)
- - [Early workarounds of HD Wallet](./Early%20workarounds%20of%20HD%20Wallet)
+ - [Problems and Shortcomings of Non-deterministic Wallet](Problems%20and%20Shortcomings%20of%20Non-deterministic%20Wallet.md)
+ - [Early workarounds of Non-deterministic Wallet](Early%20workarounds%20of%20Non-deterministic%20Wallet.md)
 ## References
 
  
