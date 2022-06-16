@@ -16,6 +16,3 @@ tags:: #lang/th #type/thing
 ## See also
 - [Private Key](./Private%20Key)
 ## References
-
-
- ![Alberti cipher](./Attachments/Alberti%20cipher-2.png)
