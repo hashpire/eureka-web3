@@ -13,4 +13,9 @@ tags:: #lang/th #type/thing
 - Blockchain Wallets เป็นได้ทั้ง Software เช่น [[MetaMask]] และยังสามารถเป็น Hardware ได้อีกด้วย
 ---
 ## See also
+- [[Key Management]]
+- [[Interact with the blockchain network]]
+- [[Key Location (Security)]]
+- [[Key Generation Algorithm]]
 ## References
+- [[A deeper look into Hierarchical Deterministic Wallets|Anakorn Kyavatanakij,"A deeper look into Hierarchical Deterministic Wallets,"2022.]]

@@ -17,4 +17,4 @@ tags:: #lang/th #type/thing
 - [[Type-2 BIP32 Hierarchical Deterministic Wallet]]
 
 ## References
-
+- [[A deeper look into Hierarchical Deterministic Wallets|Anakorn Kyavatanakij,"A deeper look into Hierarchical Deterministic Wallets,"2022.]]

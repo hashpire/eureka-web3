@@ -22,4 +22,4 @@ tags:: #lang/th #type/thing
 ## See also
 
 ## References
-
+- [[A deeper look into Hierarchical Deterministic Wallets|Anakorn Kyavatanakij,"A deeper look into Hierarchical Deterministic Wallets,"2022.]]

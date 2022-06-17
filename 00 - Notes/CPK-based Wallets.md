@@ -18,4 +18,4 @@ tags:: #lang/th #type/thing
 - [[CPK Algorithm]]
 - [[CPK Security]]
 ## References
-
+- [[A deeper look into Hierarchical Deterministic Wallets|Anakorn Kyavatanakij,"A deeper look into Hierarchical Deterministic Wallets,"2022.]]
