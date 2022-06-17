@@ -18,4 +18,4 @@ tags:: #lang/th #type/thing
 ## See also
 - [Problems and Shortcomings of Type-1 deterministic Wallet](Problems%20and%20Shortcomings%20of%20Type-1%20deterministic%20Wallet.md)
 ## References
-- [[A deeper look into Hierarchical Deterministic Wallets|Anakorn Kyavatanakij,"A deeper look into Hierarchical Deterministic Wallets,"2022.]]
+- Anakorn Kyavatanakij,"[[A deeper look into Hierarchical Deterministic Wallets]],"2022.

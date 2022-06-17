@@ -17,4 +17,4 @@ tags:: #lang/th #type/thing
 - [[Blockchain Wallets]]
 - [[Interact with the blockchain network]]
 ## References
-- [[A deeper look into Hierarchical Deterministic Wallets|Anakorn Kyavatanakij,"A deeper look into Hierarchical Deterministic Wallets,"2022.]]
+- Anakorn Kyavatanakij,"[[A deeper look into Hierarchical Deterministic Wallets]],"2022.

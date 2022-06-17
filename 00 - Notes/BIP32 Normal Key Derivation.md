@@ -24,4 +24,4 @@ tags:: #lang/th #type/thing
 ## See also
 - [[BIP32 Hardened Key Derivation]]
 ## References
-- [[A deeper look into Hierarchical Deterministic Wallets|Anakorn Kyavatanakij,"A deeper look into Hierarchical Deterministic Wallets,"2022.]]
+- Anakorn Kyavatanakij,"[[A deeper look into Hierarchical Deterministic Wallets]],"2022.

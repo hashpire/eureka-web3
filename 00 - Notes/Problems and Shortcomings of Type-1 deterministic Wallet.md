@@ -16,4 +16,4 @@ tags:: #lang/th #type/thing
 - [[Type-1 Deterministic Wallet]]
 - [[Deterministic Wallet]]
 ## References
-- [[A deeper look into Hierarchical Deterministic Wallets|Anakorn Kyavatanakij,"A deeper look into Hierarchical Deterministic Wallets,"2022.]]
+- Anakorn Kyavatanakij,"[[A deeper look into Hierarchical Deterministic Wallets]],"2022.

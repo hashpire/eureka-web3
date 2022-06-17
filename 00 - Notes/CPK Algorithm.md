@@ -31,4 +31,4 @@ $$
 - [[CPK-based Wallets]]
 - [[CPK Security]]
 ## References
-- [[A deeper look into Hierarchical Deterministic Wallets|Anakorn Kyavatanakij,"A deeper look into Hierarchical Deterministic Wallets,"2022.]]
+- Anakorn Kyavatanakij,"[[A deeper look into Hierarchical Deterministic Wallets]],"2022.
