@@ -3,8 +3,9 @@ version: "0.0.1"
 cover_image:
 published: true
 contributors: ["Sutida"]
+
 ---
-uplinks::  [MOC HD Wallet](./MOC%20HD%20Wallet)
+uplinks:: [[MOC HD Wallet]]
 tags:: #lang/th #type/thing
 
 # Problems and Shortcomings of Type-1 deterministic Wallet
