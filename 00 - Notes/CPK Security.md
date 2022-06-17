@@ -8,7 +8,7 @@ uplinks:: [[MOC HD Wallet]]
 tags:: #lang/th #type/thing
 
 # CPK Security
-ความปลอดภัยของ CPK อยู่ที่ ความยาวของ Private Key Sequence  เนื่องจาก Private Key Squence คือการนำ Private key มาเรียงต่อกันเรื่อยๆ ทำให้ยิ่งมี Private key ที่ยาวมากเท่าไร ความปลอดภัยก็จะมากขึ้นตามไปด้วย
+ความปลอดภัยของ CPK ขึ้นอยู่กับความยาวของ Private Key Sequence  เนื่องจาก Private Key Squence คือการนำ Private key มาเรียงต่อกันเรื่อยๆ ทำให้ยิ่งมี Private key ที่ยาวมากเท่าไร ความปลอดภัยก็จะมากขึ้นตามไปด้วย
 
 ---
 ## See also
