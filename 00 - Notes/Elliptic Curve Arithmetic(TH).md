@@ -23,3 +23,4 @@ tags:: #lang/th #type/thing
 
 
 
+![Enigma machine-1.png](Attachments/Enigma%20machine-1.png)
