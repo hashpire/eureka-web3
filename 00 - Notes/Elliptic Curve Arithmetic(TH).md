@@ -21,5 +21,5 @@ tags:: #lang/th #type/thing
 - Anakorn Kyavatanakij,"[[A deeper look into Hierarchical Deterministic Wallets]],"2022.
 
 
-
+![Alberti cipher-2.png](Attachments/Alberti%20cipher-2.png)
 
