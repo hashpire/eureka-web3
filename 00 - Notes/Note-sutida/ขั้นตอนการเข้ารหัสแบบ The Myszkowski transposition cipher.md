@@ -7,7 +7,7 @@ contributors: ["Sutida"]
 uplinks:: [[Transposition cipher-MOC]]
 tags:: #lang/th #type/concept
 
-# ขั้นตอนการเข้ารหัสแบบ The Myszkowski transposition
+# ขั้นตอนการเข้ารหัสแบบ The Myszkowski transposition cipher
 1. กำหนดข้อความที่ต้องการเข้ารหัส  เช่น *A COLLABORATIVE SPACE FOR PEOPLE TO LEARN WEB THREE*
 2. กำหนดคีย์ เช่น *HASHPIRE*
 3. คำนวณตาราง โดยเอาจำนวนตัวอักษรในข้อความหารด้วยจำตัวอักษรในคีย์ เช่น จำนวนตัวอักษรในข้อความคือ 39 ตัว และตัวอักษรในคีย์คือ 8 ตัว จะได้ 39/8 เท่ากับ 5 ตารางจะเป็นเเบบ 8 คอลัมน์ 5 เเถว และสร้างตารางตามที่คำนวณไว้
@@ -19,8 +19,8 @@ tags:: #lang/th #type/concept
 7. เข้ารหัสตามลำดับตัวอักษรของคีย์ทั้งหมดได้เป็น *CACPR EOPEE HXALR IAFOE AWRXA EROBX LVOTE XBSPL TXOTE LNE* ซึ่งเราสามารถเขียนรหัสเรียงติดกันทั้งหมดหรือเขียนเป็นกลุ่มละ 5 ตัวอักษรก็ได้
 ---
 ## See also
-- [[The Myszkowski transposition]]
-- [[ขั้นตอนการถอดรหัสแบบ The Myszkowski transposition]]
+- [[The Myszkowski transposition cipher]]
+- [[ขั้นตอนการถอดรหัสแบบ The Myszkowski transposition cipher]]
 ## References
  - ["Myszkowski Transposition Cipher"](https://crypto.interactive-maths.com/myszkowski-transposition-cipher.html)
 - [Wikipedia,"Myszkowski transposition,"2022.](https://en.wikipedia.org/wiki/Transposition_cipher#Myszkowski_transposition)
