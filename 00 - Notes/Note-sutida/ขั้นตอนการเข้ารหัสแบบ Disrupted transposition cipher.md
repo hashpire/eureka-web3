@@ -23,7 +23,7 @@ tags:: #lang/th #type/concept
 5. จากรูปที่ 1 เราจะเข้ารหัสโดยนำเอาแถวใต้คอลัมน์คีย์เรียงตามลำดับตัวอักษรออกมาเขียน จะได้เป็น *WCEEO ERETR IVFCE ODNSE LEADA* 
 ---
 ## See also
-- [[Disrupted transposition cipher]]
+- [[Disrupted transposition cipher cipher]]
 - [[ขั้นตอนการถอดรหัสแบบ Disrupted transposition cipher]]
 ## References
 
