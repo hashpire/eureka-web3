@@ -7,7 +7,7 @@ contributors: ["Sutida"]
 uplinks:: [[Transposition cipher-MOC]]
 tags:: #lang/th #type/concept
 
-# ขั้นตอนการถอดรหัสแบบ The Myszkowski transposition
+# ขั้นตอนการถอดรหัสแบบ The Myszkowski transposition cipher
 1. การถอดรหัสเราจะต้องทราบคีย์ในการถอดรหัสเเละรหัสที่ต้องการถอด
 2. คำนวณตาราง โดยการเอาจำนวนตัวอักษรในรหัสที่ได้รับหารกับตัวอักษรในคีย์ 
 3. สร้างตารางเเล้วนำเอาคีย์ไปใส่ที่หัวตารางโดยเรียงตามลำดับตัวอักษรและใส่รหัสลงในแถวจากบนลงล่าง ตรงส่วนนี้อย่าลืมว่าตอนที่นำรหัสมาใส่ในตาราง คอลัมน์ที่คีย์เหมือนกันจะต้องใส่มันเป็นคู่พร้อมกันเรียงจนครบตาราง ห้ามใส่ที่ละเเถวเด็ดขาด ดังรูปที่ 2
@@ -16,8 +16,8 @@ tags:: #lang/th #type/concept
 5. จากในรูปที่ 2 จะได้ตารางก่อนในรูปแบบก่อนที่จะทำการเข้ารหัสออกมา และถอดรหัสได้เป็น  *A COLLABORATIVE SPACE FOR PEOPLE TO LEARN WEB THREE*
 ---
 ## See also
-- [[The Myszkowski transposition]]
-- [[ขั้นตอนการเข้ารหัสแบบ The Myszkowski transposition]]
+- [[The Myszkowski transposition cipher]]
+- [[ขั้นตอนการเข้ารหัสแบบ The Myszkowski transposition cipher]]
 ## References
 - ["Myszkowski Transposition Cipher"](https://crypto.interactive-maths.com/myszkowski-transposition-cipher.html)
 - [Wikipedia,"Myszkowski transposition,"2022.](https://en.wikipedia.org/wiki/Transposition_cipher#Myszkowski_transposition)
