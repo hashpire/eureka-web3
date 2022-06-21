@@ -7,7 +7,7 @@ contributors: ["Sutida"]
 uplinks:: [[Transposition cipher-MOC]]
 tags:: #lang/th #type/concept
 
-# ขั้นตอนการเข้ารหัสแบบ Disrupted transposition
+# ขั้นตอนการเข้ารหัสแบบ Disrupted transposition cipher
 1. กำหนดข้อความที่ต้องการเข้ารหัส เช่น *WE ARE DISCOVERED, FLEE AT ONCE*
 2. กำหนดคีย์ปกติ เช่น *CRYPTO*
 3.  กำหนด Disrupted Key  เช่น  *SECRET*  เรียงตามลำดับตัวอักษร จะได้ S=5 , E=2, C=1, R=4, E=3, T=6 
@@ -23,8 +23,8 @@ tags:: #lang/th #type/concept
 5. จากรูปที่ 1 เราจะเข้ารหัสโดยนำเอาแถวใต้คอลัมน์คีย์เรียงตามลำดับตัวอักษรออกมาเขียน จะได้เป็น *WCEEO ERETR IVFCE ODNSE LEADA* 
 ---
 ## See also
-- [[Disrupted transposition]]
-- [[ขั้นตอนการถอดรหัสแบบ Disrupted transposition]]
+- [[Disrupted transposition cipher]]
+- [[ขั้นตอนการถอดรหัสแบบ Disrupted transposition cipher]]
 ## References
 
 
