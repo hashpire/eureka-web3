@@ -7,7 +7,7 @@ contributors: ["Sutida"]
 uplinks:: [[Transposition cipher-MOC]]
 tags:: #lang/th #type/concept
 
-# ขั้นตอนการเข้ารหัสเเบบ Grille transposition
+# ขั้นตอนการเข้ารหัสเเบบ Grille transposition cipher
 1. ออกแบบกระดาษเจาะรูที่จะใช้ในการเข้ารหัส ทำเป็นตารางสี่เหลี่ยมจตุรัส คำนวณจากจำนวนตัวอักษร เช่นข้อความ มี 36 ตัวอักษร หารด้วย 6 ก็จะได้เป็นตารางเเบบ 6 คอลัมน์ 6 เเถว 
 2. ออกแบบการเจาะรูบนกระดาษได้ตามต้องการ เเต่ในการวางกระดาษเจาะรูลงไปในหนึ่งครั้งควรที่จะเห็นตัวอักษรครบทุกแถว เช่นดังรูปที่ 1 เจาะรูบนกระดาษจำนวน 9 รู 
 3. กำหนดข้อความที่ต้องการเข้ารหัส
@@ -16,8 +16,8 @@ tags:: #lang/th #type/concept
 5. จะได้แผ่นกระดาษที่มีรหัสเขียนไว้ ดังรูปที่ 1 
 ---
 ## See also
-- [[Grille transposition]]
-- [[ขั้นตอนการถอดรหัสแบบ Grille transposition]]
+- [[Grille transposition cipher]]
+- [[ขั้นตอนการถอดรหัสแบบ Grille transposition cipher]]
 ## References
 - [artmediagrouppl,"Grille Cipher,"2017.](https://youtu.be/IbmOJEGFlK4)
 - [The Chief,"Grille Transposition,"2022.](https://theblackchamber552383191.wordpress.com/2020/11/18/grille-transposition/)
