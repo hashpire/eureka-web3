@@ -7,15 +7,15 @@ contributors: ["Sutida"]
 uplinks:: [[Transposition cipher-MOC]]
 tags:: #lang/th #type/concept
 
-# ขั้นตอนการถอดรหัสแบบ Grille transposition
+# ขั้นตอนการถอดรหัสแบบ Grille transposition cipher
 1. ในการถอดรหัสเราจะต้องทราบรูปแบบของกระดาษที่เจาะรู และทิศทางการหมุนกระดาษว่าเริ่มหมุนจากทางด้านซ้ายหรือขวาก่อน
 2. นำกระดาษที่เจาะรูมาวางซ้อนลงบนกระดาษที่มีรหัสลับ
 3. อ่านข้อความที่ปรากฏผ่านรูบนกระดาษในแต่ละรอบและหมุนไปเรื่อย ๆ จนครบ
  
 ---
 ## See also
-- [[Grille transposition]]
-- [[ขั้นตอนการเข้ารหัสเเบบ Grille transposition]]
+- [[Grille transposition cipher]]
+- [[ขั้นตอนการเข้ารหัสเเบบ Grille transposition cipher]]
 ## References
 - [artmediagrouppl,"Grille Cipher,"2017.](https://youtu.be/IbmOJEGFlK4)
 - [The Chief,"Grille Transposition,"2022.](https://theblackchamber552383191.wordpress.com/2020/11/18/grille-transposition/)
