@@ -5,7 +5,7 @@ published: true
 contributors: ["Sutida"]
 
 ---
-uplinks:: [[MOC HD Wallet]]
+uplinks:: [[MOC Type of HD Wallet]]
 tags:: #lang/th #type/thing
 
 # Deterministic Wallet

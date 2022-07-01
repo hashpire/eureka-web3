@@ -7,7 +7,7 @@ contributors: ["Sutida"]
 uplinks:: [[MOC Hierarchical Deterministic Wallets]]
 tags:: #lang/th #type/moc
 
-# MOC HD Wallet
+# MOC Type of HD Wallet
 ### Non-deterministic Wallet
 - [[Non-deterministic Wallet]]
      - [[Problems and Shortcomings of Non-deterministic Wallet]]

@@ -34,7 +34,7 @@ tags:: #lang/th #type/moc
 - [[Address]]
 - [[ECC Composite Property]]
 
-### MOC HD Wallet
+### MOC Type of HD Wallet
 - [[Non-deterministic Wallet]]
      - [[Problems and Shortcomings of Non-deterministic Wallet]]
      - [[Early workarounds of Non-deterministic Wallet]]

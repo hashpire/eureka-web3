@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [MOC HD Wallet](MOC%20HD%20Wallet.md)
+uplinks:: [MOC Type of HD Wallet](MOC%20Type%20of%20HD%20Wallet.md)
 tags:: #lang/th #type/thing
 
 # Problems and Shortcomings of  Non-deterministic Wallet
