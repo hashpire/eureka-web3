@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "8a6c1b7074172ce0",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa644acd0f1f77ef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 - Notes/EN/Wide Area Network (WAN).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b67fc95c057f8b6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1695cb7ddf60d757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0592f6da18f8bd01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed3a8905be2d2c1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 519
+  },
+  "right": {
+    "id": "12d46c3f1d36476f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e8671211004c67a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef4849e6c9764297",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Notes/EN/Wide Area Network (WAN).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aa644acd0f1f77ef",
+  "lastOpenFiles": [
+    "00 - Notes/EN/Wide Area Network (WAN).md",
+    "00 - Notes/EN/Web3 Storage.md",
+    "00 - Notes/EN/Web3.md",
+    "00 - Notes/TH/Use Case of a Hierarchical Tree of Keys.md",
+    "00 - Notes/EN/Uncompressed EC Public Key.md",
+    "00 - Notes/TH/Type-2 BIP32 Hierarchical Deterministic Wallet.md",
+    "00 - Notes/EN/Trapdoor One-way Function.md",
+    "00 - Notes/TH/Type-1 Deterministic Wallet.md",
+    "00 - Notes/EN/Tong Hua Labs.md",
+    "00 - Notes/TH/The need for multiple  keys.md"
+  ]
+}
