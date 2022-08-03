@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Knowledge]]
+uplinks::[Knowledge](./Knowledge.md)
 tags:: #type/source/article #lang/en  #note/empty 
 # Knowledge is power: why the future is not just about the tech
 

@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Ed25519]]
+uplinks::[Ed25519](./Ed25519.md)
 tags:: #lang/en #todo/read
 # Ed25519 Clamping
 ## References

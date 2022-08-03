@@ -4,17 +4,17 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[MOC Blockchain Wallets]]
+uplinks::[MOC Blockchain Wallets](./MOC Blockchain Wallets.md)
 tags:: #lang/th #type/thing
 
 # Key Management
- *Key Management* คือ หน้าที่ของ [[Blockchain Wallets]] ในการบริหารจัดการ Private Key ซึ่งจะแบ่งออกเป็น 
+ *Key Management* คือ หน้าที่ของ[Blockchain Wallets](./Blockchain Wallets.md)ในการบริหารจัดการ Private Key ซึ่งจะแบ่งออกเป็น 
 - Generation คือ การสร้าง Private Key
 - Storage คือ การเก็บรักษา Private Key
-- Use คือ การใช้งาน Private Key เช่น [[Digital Signature]]	
+- Use คือ การใช้งาน Private Key เช่น[Digital Signature](./Digital Signature.md)
 ---
 ## See also
-- [[Blockchain Wallets]]
-- [[Interact with the blockchain network]]
+-[Blockchain Wallets](./Blockchain Wallets.md)
+-[Interact with the blockchain network](./Interact with the blockchain network.md)
 ## References
-- Anakorn Kyavatanakij,"[[A deeper look into Hierarchical Deterministic Wallets]],"2022.
+- Anakorn Kyavatanakij,[A deeper look into Hierarchical Deterministic Wallets](./A deeper look into Hierarchical Deterministic Wallets.md)"2022.

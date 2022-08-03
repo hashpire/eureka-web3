@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[NFT]]
+uplinks::[NFT](./NFT.md)
 tags:: #lang/en 
 # OpenSea NFT Marketplace
 

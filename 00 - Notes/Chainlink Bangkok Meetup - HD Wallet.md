@@ -1,7 +1,7 @@
 ---
 version: "0.0.0"
 ---
-uplinks:: [[Genesis]]
+uplinks::[Genesis](./Genesis.md)
 tags:: #type/note #lang/th #wallet #people/parinyar
 # Chainlink Bangkok Meetup - HD Wallet
 - Blockchain Wallets

@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Probability]]
+uplinks::[Probability](./Probability.md)
 tags:: #lang/en #type/example
 # Coin Flip Probability
 

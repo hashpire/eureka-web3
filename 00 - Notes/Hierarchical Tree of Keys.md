@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[MOC Type of HD Wallet]]
+uplinks::[MOC Type of HD Wallet](./MOC Type of HD Wallet.md)
 tags:: #lang/th #type/thing
 
 # Hierarchical Tree of Keys
@@ -13,6 +13,6 @@ tags:: #lang/th #type/thing
 - มาตราฐานที่ใช้คือ BIP44 / SLIP44
 ---
 ## See also
-- [[Use Case of a Hierarchical Tree of Keys]]
+-[Use Case of a Hierarchical Tree of Keys](./Use Case of a Hierarchical Tree of Keys.md)
 ## References
-- Anakorn Kyavatanakij,"[[A deeper look into Hierarchical Deterministic Wallets]],"2022.
+- Anakorn Kyavatanakij,[A deeper look into Hierarchical Deterministic Wallets](./A deeper look into Hierarchical Deterministic Wallets.md)"2022.

@@ -4,11 +4,11 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[MOC Type of HD Wallet]]
+uplinks::[MOC Type of HD Wallet](./MOC Type of HD Wallet.md)
 tags:: #lang/th #type/thing
 
 # BIP32 Public Key Generation
-*BIP32 Public Key Generation* ใน [[BIP32 Normal Key Derivation]] มีคุณสมบัติอีกอย่างหนึ่งก็คือ สามารถใช้ Parent Public Key ในการสร้าง  Child Public Key ได้เลยโดย 
+*BIP32 Public Key Generation* ใน[BIP32 Normal Key Derivation](./BIP32 Normal Key Derivation.md)มีคุณสมบัติอีกอย่างหนึ่งก็คือ สามารถใช้ Parent Public Key ในการสร้าง  Child Public Key ได้เลยโดย 
 
 - การสร้าง Child Public Key วิธีการเหมือนกับการทำ Child Private Key แต่จะแตกต่างกันตรงที่ ในขั้นแรกไม่ได้ใช้  Parent Private Key ไปคูณกับค่า G มาก่อน แต่ใช้ Parent Public Key โดยตรง และในขั้นตอนสุดท้าย ด้านซ้ายจะนำ Parent Public Key และ 256 Bit (IL)  ไปเข้าฟังก์ชัน Point Addition จะได้เป็น Child Public Key  ซึ่งในกรณีนี้กระเป๋าตังค์ที่เราสร้างขึ้นมาจะสามารถรับเงินได้อย่างเดียว แต่ไม่สามารถโอนเงินออกได้ 
 - Child Public Key + Child Chain Code รวมกันเป็น Extended Public Key
@@ -19,8 +19,8 @@ tags:: #lang/th #type/thing
 
 ---
 ## See also
-- [[Type-2 BIP32 Hierarchical Deterministic Wallet]]
-- [[Deterministic Wallet]]
-- [[BIP32 Hardened Key Derivation]]
+-[Type-2 BIP32 Hierarchical Deterministic Wallet](./Type-2 BIP32 Hierarchical Deterministic Wallet.md)
+-[Deterministic Wallet](./Deterministic Wallet.md)
+-[BIP32 Hardened Key Derivation](./BIP32 Hardened Key Derivation.md)
 ## References
-- Anakorn Kyavatanakij,"[[A deeper look into Hierarchical Deterministic Wallets]],"2022.
+- Anakorn Kyavatanakij,[A deeper look into Hierarchical Deterministic Wallets](./A deeper look into Hierarchical Deterministic Wallets.md)"2022.

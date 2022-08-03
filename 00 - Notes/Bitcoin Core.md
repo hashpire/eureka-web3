@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Bitcoin]]
+uplinks::[Bitcoin](./Bitcoin.md)
 tags:: #lang/en #type/term 
 # Bitcoin Core
 - The reference implementation of the bitcoin system, which implements all core features of bitcoin

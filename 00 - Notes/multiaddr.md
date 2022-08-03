@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[multiformats]]
+uplinks::[multiformats](./multiformats.md)
 tags:: #lang/en #type/term #note/develop 
 # multiaddr
 A standard which aims to make network addreses future-proof, composable, and efficient

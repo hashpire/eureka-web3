@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[IPFS]]
+uplinks::[IPFS](./IPFS.md)
 tags:: #lang/en #type/cli
 # IPFS CLI
 ## Start

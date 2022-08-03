@@ -1,7 +1,7 @@
 ---
 version: "0.0.0"
 ---
-uplinks:: [[IPFS]]
+uplinks::[IPFS](./IPFS.md)
 tags:: #lang/en #note/empty 
 # IPFS Privacy
 

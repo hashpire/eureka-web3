@@ -11,5 +11,5 @@ published: true
 	- Interact with the blockchain network
 
 ## See Also
-- [[Types of Blockchain Wallets]]
-- [[Popular Blockchain Wallets]]
+-[Types of Blockchain Wallets](./Types of Blockchain Wallets.md)
+-[Popular Blockchain Wallets](./Popular Blockchain Wallets.md)

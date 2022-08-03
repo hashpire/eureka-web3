@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[MOC Cryptographic Primitives & Math]]
+uplinks::[MOC Cryptographic Primitives & Math](./MOC Cryptographic Primitives & Math.md)
 tags:: #lang/th #type/thing 
 
 # Modular Arithmetic
@@ -14,4 +14,4 @@ tags:: #lang/th #type/thing
 ---
 ## See also
 ## References
-- Anakorn Kyavatanakij,"[[A deeper look into Hierarchical Deterministic Wallets]],"2022.
+- Anakorn Kyavatanakij,[A deeper look into Hierarchical Deterministic Wallets](./A deeper look into Hierarchical Deterministic Wallets.md)"2022.

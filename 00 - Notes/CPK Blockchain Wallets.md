@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Blockchain Wallet]] [[Combined Public Key Algorithm]]
+uplinks::[Blockchain Wallet](./Blockchain Wallet.md)[[Combined Public Key Algorithm]]
 tags:: #type/empty 
 # CPK Blockchain Wallets
  

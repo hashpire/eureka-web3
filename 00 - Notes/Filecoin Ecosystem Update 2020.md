@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Filecoin]]
+uplinks::[Filecoin](./Filecoin.md)
 tags:: #lang/en #type/source 
 # Filecoin Ecosystem Update 2020
 ## Filecoin's Mission
@@ -59,8 +59,8 @@ To be a storage provider
 ---
 
 Filecoin Ecosystem
-![[Attachments/Pasted image 20220221191020.png]]
+[Attachments/Pasted image 20220221191020.png](./Attachments/Pasted image 20220221191020.png.md)
 IPFS Ecosystem
-![[Attachments/Pasted image 20220221191053.png]]
+[Attachments/Pasted image 20220221191053.png](./Attachments/Pasted image 20220221191053.png.md)
 ## References
 1. https://www.youtube.com/watch?v=FHqtIX4FPP4

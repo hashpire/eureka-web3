@@ -16,4 +16,4 @@ tags:: #lang/th #type/thing
 ## See also
 - [Early workarounds of Non-deterministic Wallet](Early%20workarounds%20of%20Non-deterministic%20Wallet.md)
 ## References
-- Anakorn Kyavatanakij,"[[A deeper look into Hierarchical Deterministic Wallets]],"2022.
+- Anakorn Kyavatanakij,[A deeper look into Hierarchical Deterministic Wallets](./A deeper look into Hierarchical Deterministic Wallets.md)"2022.

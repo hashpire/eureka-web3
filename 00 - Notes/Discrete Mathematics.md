@@ -2,14 +2,14 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Mathematics]]
+uplinks::[Mathematics](./Mathematics.md)
 tags:: #lang/en #type/term
 # Discrete Mathematics
 - The study of mathematical structures that are discrete — countable, distinct and separable
-	- [[Integer]]
-	- [[Graph Theory]]
-	- [[Logical Statement]]
-	- [[Combination]]
+	-[Integer](./Integer.md)
+	-[Graph Theory](./Graph Theory.md)
+	-[Logical Statement](./Logical Statement.md)
+	-[Combination](./Combination.md)
 
 ## References
 

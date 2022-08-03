@@ -4,11 +4,11 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[MOC The need for multiple  keys]]
+uplinks::[MOC The need for multiple  keys](./MOC The need for multiple  keys.md)
 tags:: #lang/th #type/thing
 
 # ความปลอดภัย(Security)
-ความปลอดภัย(Security) เป็นอีกหนึ่งเหตุผล ที่ทำให้เราจำเป็นต้องมี Key และ Addresses จำนวนมากใน [[Blockchain]]  ประกอบด้วย 
+ความปลอดภัย(Security) เป็นอีกหนึ่งเหตุผล ที่ทำให้เราจำเป็นต้องมี Key และ Addresses จำนวนมากใน[Blockchain](./Blockchain.md) ประกอบด้วย 
 - *Key Rotation (การหมุนเปลี่ยน Key)*
    แม้ว่าตามหลักความเป็นจริงแล้ว Blockchain จะมีความปลอดภัยสูงมาก แต่อาจจะมีในกรณีที่บางคนรู้สึกไม่ปลอดภัยหากเราใช้ Key เดิมในระยะยาว แล้วจะมีคนมาพบ Key ที่เราใช้งานอยู่ การหมุนเปลี่ยน Key จะช่วยรักษาความปลอดภัยได้อีกขั้น แม้ว่าจะมีคนมาพบ Key ของเราเข้า ก็จะเป็นอันเก่าที่เราไม่ได้ใช้งานแล้ว
 - *Risk Diversification (การกระจายความเสี่ยง)*
@@ -18,6 +18,6 @@ tags:: #lang/th #type/thing
    
 ---
 ## See also
-- [[ความเป็นส่วนตัว(Privacy)]]
+-[ความเป็นส่วนตัว(Privacy)](./ความเป็นส่วนตัว(Privacy).md)
 ## References
-- Anakorn Kyavatanakij,"[[A deeper look into Hierarchical Deterministic Wallets]],"2022.
+- Anakorn Kyavatanakij,[A deeper look into Hierarchical Deterministic Wallets](./A deeper look into Hierarchical Deterministic Wallets.md)"2022.

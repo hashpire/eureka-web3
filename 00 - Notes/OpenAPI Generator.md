@@ -2,10 +2,10 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[OpenAPI]]
+uplinks::[OpenAPI](./OpenAPI.md)
 tags:: #lang/en #type/tool
 # OpenAPI Generator
-A tool to generate clients, servers, and documentation from [[OpenAPI]] 2.0/3.x documents
+A tool to generate clients, servers, and documentation from[OpenAPI](./OpenAPI.md)2.0/3.x documents
 
 ## Main Features
 - More than 50+ client generators
@@ -42,7 +42,7 @@ brew install openapi-generator
 openapi-generator-cli generate -i petstore.yaml -g ruby -o /tmp/test/
 ```
 ## See Also
-1. [[OpenAPI Generator vs Swagger Codegen]]
+1.[OpenAPI Generator vs Swagger Codegen](./OpenAPI Generator vs Swagger Codegen.md)
 
 ## References
 1. https://openapi-generator.tech/

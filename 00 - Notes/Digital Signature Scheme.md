@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Digital Signature]]
+uplinks::[Digital Signature](./Digital Signature.md)
 tags:: #lang/en #type/term 
 # Digital Signature Scheme
 
@@ -17,11 +17,11 @@ A digital signature scheme typically consists of three algorithms:
 - ECDSA
 - EdDSA
 - Schnorr
-- [[BLS Signatures]]
+-[BLS Signatures](./BLS Signatures.md)
 - ElGamal signature scheme
 
 ## See Also
-1. [[Signature Aggregation]]
+1.[Signature Aggregation](./Signature Aggregation.md)
 
 ## References
 1. https://en.wikipedia.org/wiki/Digital_signature

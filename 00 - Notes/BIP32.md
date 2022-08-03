@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Bitcoin Improvement Proposals (BIP)]]
+uplinks::[Bitcoin Improvement Proposals (BIP)](./Bitcoin Improvement Proposals (BIP).md)
 # BIP32
 - The most commonly used large-scale key management technology is the layered deterministic wallet technology proposed in the BIP32 standard.
 -  In addition to solving the issue of backing up a large number of private keys, the reason why this technology is widely used is because of its audit functionality and its hierarchical tree structure that can be used to express organizational structures.
@@ -11,4 +11,4 @@ uplinks:: [[Bitcoin Improvement Proposals (BIP)]]
 ## References
 
 ## See Also
-1. [[BIP32 and Ed25519]]
+1.[BIP32 and Ed25519](./BIP32 and Ed25519.md)

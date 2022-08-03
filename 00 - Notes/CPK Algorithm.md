@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [[MOC Type of HD Wallet]]
+uplinks::[MOC Type of HD Wallet](./MOC Type of HD Wallet.md)
 tags:: #lang/th #type/thing
 
 # CPK Algorithm
@@ -28,7 +28,7 @@ $$
  ---
 
 ## See also
-- [[CPK-based Wallets]]
-- [[CPK Security]]
+-[CPK-based Wallets](./CPK-based Wallets.md)
+-[CPK Security](./CPK Security.md)
 ## References
-- Anakorn Kyavatanakij,"[[A deeper look into Hierarchical Deterministic Wallets]],"2022.
+- Anakorn Kyavatanakij,[A deeper look into Hierarchical Deterministic Wallets](./A deeper look into Hierarchical Deterministic Wallets.md)"2022.
