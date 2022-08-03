@@ -1,7 +1,7 @@
 ---
 version: "0.0.0"
 ---
-uplinks:: [[IPFS]]
+uplinks::[IPFS](./IPFS.md)
 tags:: #lang/en 
 
 # Create IPFS Pinning Service
@@ -12,4 +12,4 @@ tags:: #lang/en
 
 
 ## See Also
-1. [[OpenAPI Generator]]
+1.[OpenAPI Generator](./OpenAPI Generator.md)

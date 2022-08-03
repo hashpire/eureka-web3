@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Blockchain]] [[Community]]
+uplinks::[Blockchain](./Blockchain.md)[[Community]]
 tags:: #lang/en 
 # Blockchain Developer Community
 ## China

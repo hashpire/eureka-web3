@@ -1,7 +1,7 @@
 ---
 version: "0.0.0"
 ---
-uplinks:: [[Genesis]]
+uplinks::[Genesis](./Genesis.md)
 tags:: #type/note #lang/th #people/parinyar 
 # Centralized Network คืออะไร
 **Centralized Network** คือระบบที่ข้อมูลถูกจัดเก็บไว้เพียงที่เดียว และมีเพียงเจ้าของระบบที่จะสามารถบริหารจัดการแก้ไขข้อมูลเหล่านั้นได้

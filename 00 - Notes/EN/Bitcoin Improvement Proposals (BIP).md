@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Bitcoin]]
+uplinks::[Bitcoin](./Bitcoin.md)
 tags:: #lang/en #type/term
 # Bitcoin Improvement Proposals (BIP)
 - A Bitcoin Improvement Proposal is a document designed for introducing features and improvements to Bitcoin
@@ -10,5 +10,5 @@ tags:: #lang/en #type/term
 - https://github.com/bitcoin/bips
 
 ## See Also
-1. [[SatoshiLabs Improvement Proposals (SLIP)]]
-2. [[Ethereum Improvement Proposals (EIP)]]
+1.[SatoshiLabs Improvement Proposals (SLIP)](./SatoshiLabs Improvement Proposals (SLIP).md)
+2.[Ethereum Improvement Proposals (EIP)](./Ethereum Improvement Proposals (EIP).md)

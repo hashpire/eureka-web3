@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Number Theory]]
+uplinks::[Number Theory](./Number Theory.md)
 tags:: #lang/en #type/term
 # Natural Number
 - Natural numbers are numbers used for counting and ordering

@@ -1,7 +1,7 @@
 ---
 version: "0.0.0"
 ---
-uplinks:: [[Genesis]]
+uplinks::[Genesis](./Genesis.md)
 tags:: #type/note #lang/th #people/parinyar
 # Local Area Network (LAN) คืออะไร
 **Local Area Network** คือระบบเครือข่ายคอมพิวเตอร์ขนาดเล็ก เช่น บ้านเรือน อาคารสำนักงาน

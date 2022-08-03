@@ -4,7 +4,7 @@ aliases: ["Key Size", "Key Length"]
 published: true
 ---
 # Key Space
-The number of [[Bit|bits]] in a key used by a cryptographic algorithm
+The number of[Bit|bits](./Bit|bits.md)in a key used by a cryptographic algorithm
 
 ## References
 1. https://en.wikipedia.org/wiki/Key_size

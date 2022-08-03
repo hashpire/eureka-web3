@@ -4,7 +4,7 @@ published: true
 featured: true
 contributors: ["Tong Hua Labs", "Anakorn Kyavatanakij"]
 ---
-uplinks::  [[Genesis]]
+uplinks:: [Genesis](./Genesis.md)
 tags:: #lang/th #type/source/video
 
 # Web 3.0 คืออะไร ? Decentralized Web คืออะไร ?

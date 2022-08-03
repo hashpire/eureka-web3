@@ -6,5 +6,5 @@ featured: true
 # Tong Hua Labs
 An Innovation and Creativity Lab under Tong Hua Holding Public Company Limited.
 
-![[Attachments/thl-logo-300x300.png]]
+[Attachments/thl-logo-300x300.png](./Attachments/thl-logo-300x300.png.md)
 ## See Also

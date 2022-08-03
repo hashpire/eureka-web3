@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Discrete Mathematics]]
+uplinks::[Discrete Mathematics](./Discrete Mathematics.md)
 tags:: #lang/en #type/term 
 # Integer
  - A number that can be written without a fractional component
@@ -18,5 +18,5 @@ tags:: #lang/en #type/term
 ## References
 
 ## See Also
-1. [[Natural Number]]
-2. [[Real Number]]
+1.[Natural Number](./Natural Number.md)
+2.[Real Number](./Real Number.md)

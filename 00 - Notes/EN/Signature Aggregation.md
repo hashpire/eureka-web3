@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Digital Signature Scheme]]
+uplinks::[Digital Signature Scheme](./Digital Signature Scheme.md)
 tags:: #type/term #lang/en 
 # Signature Aggregation
 - A cryptographic technique that is used to join two or more digital signatures

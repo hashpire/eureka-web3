@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Algebra]]
+uplinks::[Algebra](./Algebra.md)
 tags:: #type/term #lang/en 
 # Abstract Algebra
 - The study of algebraic structures
@@ -11,4 +11,4 @@ tags:: #type/term #lang/en
 ## References
 1. https://en.wikipedia.org/wiki/Abstract_algebra
 ## See Also
-1. [[Discrete Mathematics]]
+1.[Discrete Mathematics](./Discrete Mathematics.md)

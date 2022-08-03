@@ -2,11 +2,11 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[API]]
+uplinks::[API](./API.md)
 tags:: #lang/en #type/term 
 # OpenAPI
 - An [API specification](https://github.com/OAI/OpenAPI-Specification) (description format) for REST APIs
-- Forrmerly known as [[Swagger]] Specification
+- Forrmerly known as[Swagger](./Swagger.md)Specification
 - Used to describe
 	- Available endpoints and its operations — `POST /users`
 	- Operation parameters — Input and Output
@@ -14,13 +14,13 @@ tags:: #lang/en #type/term
 	- Contact information, license, ToS, etc.
 
 ## Structure
-- Written in [[YAML]] or [[JSON]]
+- Written in[YAML](./YAML.md)or[JSON](./JSON.md)
 - All keyword names are case-sensitive.
 - [Basic Structure](https://swagger.io/docs/specification/basic-structure/)
 	- Metadata
 		- Title
 		- Description
-		- Version — [[Semantic Versioning]]
+		- Version —[Semantic Versioning](./Semantic Versioning.md)
 	- Servers — API Server Base Url
 	- Paths — API endpoints
 		- Parameters

@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[People behind Web3]]
+uplinks::[People behind Web3](./People behind Web3.md)
 tags:: #lang/en #type/people
 # Gregory Maxwell
 github:: https://github.com/gmaxwell

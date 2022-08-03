@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Knowledge Graph]]
+uplinks::[Knowledge Graph](./Knowledge Graph.md)
  tags:: #on/knowledge/graph #lang/en #note/empty #type/protocol 
 # Golden Protocol - Decentralized Canonical Knowledge Graph
 

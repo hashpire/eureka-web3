@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks:: [[Numeral System]]
+uplinks::[Numeral System](./Numeral System.md)
 tags:: #lang/en #type/term 
 # Decimal
 - A base-10 numeral system
@@ -11,5 +11,5 @@ tags:: #lang/en #type/term
 ## References
 
 ## See Also
-1. [[Binary]]
-2. [[Hexadecimal]]
+1.[Binary](./Binary.md)
+2.[Hexadecimal](./Hexadecimal.md)
