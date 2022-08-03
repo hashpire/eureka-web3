@@ -14,4 +14,4 @@ tags:: #lang/en #type/term
 
 ## See Also
 1.[Modulo](./Modulo.md)
-2.[Abstract Algebra](./Abstract Algebra.md)
+2.[Abstract Algebra](./Abstract%20Algebra.md)

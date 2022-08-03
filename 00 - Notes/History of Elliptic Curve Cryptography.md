@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks::[Elliptic Curve Cryptography](./Elliptic Curve Cryptography.md)
+uplinks::[Elliptic Curve Cryptography](./Elliptic%20Curv%20Cryptography.md)
 tags:: #lang/en 
 # History of Elliptic Curve Cryptography
 - In 1984, Hendrik Lenstra Jr. circulated a manuscript describing a new factorization method using elliptic curves.
@@ -13,4 +13,4 @@ tags:: #lang/en
 - In the early 2000’s, the NSA made Elliptic curve its standard suite B algorithm for both encryption and signature and its use on low power devices has been shown to be much more scalable
 ## See Also
 ## References
-1.[Peking University Introduction to Information Security Class](./Peking University Introduction to Information Security Class.md)
+1.[Peking University Introduction to Information Security Class](./Peking%20University%20Introduction%20to%20Information%20Security%20Class.md)

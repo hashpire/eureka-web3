@@ -2,7 +2,7 @@
 version: "0.0.0"
 ---
 
-uplinks::[สมองที่สอง (A Second Brain)](./สมองที่สอง (A Second Brain).md)
+uplinks::[สมองที่สอง (A%20Second%20Brain)](./สมองที่สอง%20(A%20Secon%20Brain).md)
 tags:: #lang/th #type/note #note/develop
 # ภาวะข้อมูลท่วมท้น (Infobesity)
 ภาวะข้อมูลท่วมท้น (Infobesity) หรือ Information Overload คือภาวะของการรับข้อมูลที่เยอะเกินไปจนทำให้ไม่สามารถจัดระเบียบและควบคุมข้อมูลความรู้ต่าง ๆ ได้ทันการณ์

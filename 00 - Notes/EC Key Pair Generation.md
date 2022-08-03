@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks::[EC Key Pair](./EC Key Pair.md)
+uplinks::[EC Key Pair](./EC%20Ke%20Pair.md)
 tags:: #lang/en 
 # EC Key Pair Generation
 Let $G$ be the base point of an elliptic curve $E$ and $n$ be the order of $G$
@@ -13,4 +13,4 @@ Let $G$ be the base point of an elliptic curve $E$ and $n$ be the order of $G$
 ## References
 
 ## See Also
--[RSA Key Pair Generation](./RSA Key Pair Generation.md)
+-[RSA Key Pair Generation](./RSA%20Key%20Pair%20Generation.md)

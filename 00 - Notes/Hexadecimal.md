@@ -1,7 +1,7 @@
 ---
 version: "0.0.0"
 ---
-uplinks::[Numeral System](./Numeral System.md)
+uplinks::[Numeral System](./Numeral%20System.md)
 # Hexadecimal
 - A base-16 numeral system
 - A method to write numbers using 16 symbols: 0-9 and A-F

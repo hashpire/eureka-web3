@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks::[Numeral System](./Numeral System.md)
+uplinks::[Numeral System](./Numeral%20System.md)
 tags:: #lang/en #type/term 
 # Decimal
 - A base-10 numeral system

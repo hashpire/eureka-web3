@@ -15,7 +15,7 @@ tags:: #lang/th #type/thing
 	- ถ้าเราวาดเส้นตัดบนกราฟจะตัดกับกราฟเส้นโค้งมากที่สุดสามจุด
 ---
 ## See also
--[Elliptic Curve Cryptography(TH)](./Elliptic Curve Cryptography(TH).md)
--[Elliptic Curve Arithmetic(TH)](./Elliptic Curve Arithmetic(TH).md)
+-[Elliptic Curve Cryptography(TH)](./Elliptic%20Curv%20Cryptography(TH).md)
+-[Elliptic Curve Arithmetic(TH)](./Elliptic%20Curv%20Arithmetic(TH).md)
 ## References
-- Anakorn Kyavatanakij,[A deeper look into Hierarchical Deterministic Wallets](./A deeper look into Hierarchical Deterministic Wallets.md)"2022.
+- Anakorn Kyavatanakij,[A deeper look into Hierarchical Deterministic Wallets](./A%20deeper%20look%20into%20Hierarchical%20Deterministic%20Wallets.md)"2022.

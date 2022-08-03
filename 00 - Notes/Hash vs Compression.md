@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks::[Hash Function](./Hash Function.md)
+uplinks::[Hash Function](./Hash%20Function.md)
 tags:: #lang/en #type/comparision
 # Hash vs Compression
 - Hash function is not compression algorithm

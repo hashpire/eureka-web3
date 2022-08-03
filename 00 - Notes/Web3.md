@@ -8,4 +8,4 @@ tags:: #lang/en #note/empty
 The future web
 
 ---
--[People behind Web3](./People behind Web3.md)
+-[People behind Web3](./People%20behin%20Web3.md)

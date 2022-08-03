@@ -20,7 +20,7 @@ tags:: #lang/en #type/term
 	- Metadata
 		- Title
 		- Description
-		- Version —[Semantic Versioning](./Semantic Versioning.md)
+		- Version —[Semantic Versioning](./Semantic%20Versioning.md)
 	- Servers — API Server Base Url
 	- Paths — API endpoints
 		- Parameters

@@ -4,7 +4,7 @@ cover_image:
 published: true
 contributors: ["Sutida"]
 ---
-uplinks:: [MOC Blockchain Keys and Addresses](./MOC Blockchain Keys and Addresses.md)
+uplinks:: [MOC Blockchain Keys and Addresses](./MOC%20Blockchain%20Keys%20and%20Addresses.md)
 tags:: #lang/th #type/thing 
 
 # Private Key
@@ -15,7 +15,7 @@ tags:: #lang/th #type/thing
 
 ---
 ## See also
--[Public Key](./Public Key.md)
+-[Public Key](./Public%20Key.md)
 -[Address](./Address.md)
 ## References
-- Anakorn Kyavatanakij,[A deeper look into Hierarchical Deterministic Wallets](./A deeper look into Hierarchical Deterministic Wallets.md)"2022.
+- Anakorn Kyavatanakij,[A deeper look into Hierarchical Deterministic Wallets](./A%20deeper%20look%20into%20Hierarchical%20Deterministic%20Wallets.md)"2022.

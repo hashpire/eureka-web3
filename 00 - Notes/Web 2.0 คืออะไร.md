@@ -14,5 +14,5 @@ tags:: #type/note #lang/th #people/parinyar
 ## References
 
 ## See Also
--[Web 1.0 คืออะไร](./Web 1.0 คืออะไร.md)
--[Web 3.0 คืออะไร](./Web 3.0 คืออะไร.md)
+-[Web 1.0 คืออะไร](./Web%201.%20คืออะไร.md)
+-[Web 3.0 คืออะไร](./Web%203.%20คืออะไร.md)

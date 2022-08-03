@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks::[Set Theory](./Set Theory.md)
+uplinks::[Set Theory](./Set%20Theory.md)
 tags:: #lang/en #type/term 
 # Set (mathematics)
 - A set is a collection of elements

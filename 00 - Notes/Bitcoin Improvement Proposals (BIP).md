@@ -10,5 +10,5 @@ tags:: #lang/en #type/term
 - https://github.com/bitcoin/bips
 
 ## See Also
-1.[SatoshiLabs Improvement Proposals (SLIP)](./SatoshiLabs Improvement Proposals (SLIP).md)
-2.[Ethereum Improvement Proposals (EIP)](./Ethereum Improvement Proposals (EIP).md)
+1.[SatoshiLabs Improvement Proposals (SLIP)](./SatoshiLabs%20Improvement%20Proposals%20(SLIP).md)
+2.[Ethereum Improvement Proposals (EIP)](./Ethereum%20Improvement%20Proposals%20(EIP).md)

@@ -10,7 +10,7 @@ tags:: #lang/en #type/term
 > https://moderncrypto.org/mail-archive/curves/2017/000866.html
 
 ## See Also
-1.[Ed25519 Clamping](./Ed25519 Clamping.md)
+1.[Ed25519 Clamping](./Ed25519%20Clamping.md)
 
 ## References
 1. https://github.com/solana-labs/solana/issues/6301#issuecomment-551184457

@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks::[Numeral System](./Numeral System.md)
+uplinks::[Numeral System](./Numeral%20System.md)
 # Binary
 - A base-2 numeral system
 - A method to write numbers using two symbols: 0 and 1

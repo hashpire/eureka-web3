@@ -12,5 +12,5 @@ tags:: #lang/en #type/term
 -[Namecoin](./Namecoin.md)is an early and successful application of blockchain. It is not just a[Cryptocurrency|cryptocurrency](./Cryptocurrency|cryptocurrency.md) but a decentralised domain name management system.
 
 ## See Also
-1.[Block Lattice](./Block Lattice.md)
+1.[Block Lattice](./Block%20Lattice.md)
 2.[DAG](./DAG.md)

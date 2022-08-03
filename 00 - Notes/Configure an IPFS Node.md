@@ -48,7 +48,7 @@ cat save2 | ipfs bootstrap add # reload
 ```
 
 ### Addresses.Announce / Addresses.NoAnnounce
-- Filter[#Addresses Swarm](./#Addresses Swarm.md)
+- Filter[#Addresses Swarm](./#Addresses%20Swarm.md)
 - Peers will not see the unannounced swarm addresses, unless it is explicity added in the peer's bootstrap list
 	- `ipfs swarm addrs`
 
@@ -66,8 +66,8 @@ Available profiles
 - `default-datastore`
 	- flatfs
 - `server`
-	- Disables local host [Local Area Network (LAN)|LAN](./Local Area Network (LAN)|LAN.md) discovery — set `Swarm.AddrFilters`
-	- Disable automatic[Network Address Translation (NAT)|NAT](./Network Address Translation (NAT)|NAT.md)port forwarding
+	- Disables local host [Local Area Network (LAN)|LAN](./Local%20Area%20Network%20(LAN)|LAN.md) discovery — set `Swarm.AddrFilters`
+	- Disable automatic[Network Address Translation (NAT)|NAT](./Network%20Address%20Translation%20(NAT)|NAT.md)port forwarding
 	- Disable[MDNS](./MDNS.md)
 	- Add LAN addresses to `Addresses.NoAnnounce`
 - `local-discovery`

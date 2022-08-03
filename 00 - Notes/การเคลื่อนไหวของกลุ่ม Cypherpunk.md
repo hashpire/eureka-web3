@@ -1,7 +1,7 @@
 ---
 version: "0.0.0"
 ---
-uplinks::[การเคลื่อนไหวที่ทำให้ Bitcoin เกิดขึ้น](./การเคลื่อนไหวที่ทำให้ Bitcoin เกิดขึ้น.md)
+uplinks::[การเคลื่อนไหวที่ทำให้ Bitcoin เกิดขึ้น](./การเคลื่อนไหวที่ทำให้%20Bitcoi%20เกิดขึ้น.md)
 tags:: #type/note #lang/th #people/parinyar 
 # การเคลื่อนไหวของกลุ่ม Cypherpunk
 - **ปี 1985** David Chaum ผู้คิดค้นและก่อตั้งเงินดิจิทัล ได้ปล่อยบทความชื่อว่า ความปลอดภัยโดยไม่ระบุตัวตน หรือ Security without identification: Transaction Systems to Make Big Brother Obsolete เป็นบทความที่แนะนำเทคนิคต่างๆ ในการสร้างระบบเงินดิจิทัล หรือ Digital Currency แบบไม่ต้องระบุตัวตนของผู้ใช้ ตัวอย่างของ Digital Currency ในปัจจุบัน เช่น Bitcoin, Ethereum

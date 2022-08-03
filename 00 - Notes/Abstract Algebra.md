@@ -11,4 +11,4 @@ tags:: #type/term #lang/en
 ## References
 1. https://en.wikipedia.org/wiki/Abstract_algebra
 ## See Also
-1.[Discrete Mathematics](./Discrete Mathematics.md)
+1.[Discrete Mathematics](./Discrete%20Mathematics.md)

@@ -9,7 +9,7 @@ tags:: #lang/en
 - e.g. 2x + 7, $3^y-6$
 
 ## See Also
-1.[Algebraic Equation](./Algebraic Equation.md)
+1.[Algebraic Equation](./Algebraic%20Equation.md)
 
 ## References
 

@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks::[Elliptic Curve](./Elliptic Curve.md)
+uplinks::[Elliptic Curve](./Elliptic%20Curve.md)
 tags:: #lang/en
 # Elliptic Curve Arithmetic
 
@@ -12,8 +12,8 @@ tags:: #lang/en
 
 ---
 Let 
-- $E: Y^2 = X^3 + AX + B$ be an[Elliptic Curve](./Elliptic Curve.md)
-- $O$ as[Point at Infinity (EC)|point at infinity](./Point at Infinity (EC)|point at infinity.md)
+- $E: Y^2 = X^3 + AX + B$ be an[Elliptic Curve](./Elliptic%20Curve.md)
+- $O$ as[Point at Infinity (EC)|point at infinity](./Point%20at%20Infinity%20(EC)|point%20a%20infinity.md)
 -  $P_1 = (x_1,y_1)$ and $P_2 = (x_2,y_2)$ be points on $E$
 
 If $P_1 = O$, then $P_1 + P_2 = P_2$ 
@@ -39,7 +39,7 @@ Then $P_1 + P_2 = (x_3,y_3)$
 A point scalar multiplication is the operation of adding a point along an elliptic curve to itself repeatedly.
 
 ---
-Let $E: Y^2 = X^3 + AX + B$ be an[Elliptic Curve](./Elliptic Curve.md)
+Let $E: Y^2 = X^3 + AX + B$ be an[Elliptic Curve](./Elliptic%20Curve.md)
 Let $P$ be a point on $E$
 
 $$
@@ -59,7 +59,7 @@ k \text{ times modular multiplication}
 $$
 
 ## See Also
-1.[Modular Arithmetic](./Modular Arithmetic.md)
+1.[Modular Arithmetic](./Modular%20Arithmetic.md)
 
 ## References
-1.[Peking University Introduction to Information Security Class](./Peking University Introduction to Information Security Class.md)
+1.[Peking University Introduction to Information Security Class](./Peking%20University%20Introduction%20to%20Information%20Security%20Class.md)

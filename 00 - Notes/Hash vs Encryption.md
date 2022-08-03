@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks::[Hash Function](./Hash Function.md)
+uplinks::[Hash Function](./Hash%20Function.md)
 tags:: #lang/en #type/comparision 
 # Hash vs Encryption
 - Encryption is two way, and requires a key to encrypt / decrypt

@@ -2,10 +2,10 @@
 version: "0.0.0"
 published: true
 ---
-uplinks::[Cryptographic Primitives](./Cryptographic Primitives.md)
+uplinks::[Cryptographic Primitives](./Cryptographic%20Primitives.md)
 tags:: #lang/en #type/term 
 # Cryptographic Hash Function
-A[Hash Function](./Hash Function.md)that is:
+A[Hash Function](./Hash%20Function.md)that is:
 1. Pre-image resistant (One-way property)
 	- Given h = H(M), it is computationally infeasible to find M
 2. Second pre-image resistant (Weak collision resistant)
@@ -15,4 +15,4 @@ A[Hash Function](./Hash Function.md)that is:
 
 
 ## References
-1.[Peking University Introduction to Information Security Class](./Peking University Introduction to Information Security Class.md)
+1.[Peking University Introduction to Information Security Class](./Peking%20University%20Introduction%20to%20Information%20Security%20Class.md)

@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks::[Public-key Cryptography](./Public-key Cryptography.md)
+uplinks::[Public-key Cryptography](./Public-key%20Cryptography.md)
 tags:: #lang/en #type/timeline
 # History of Public Key Cryptography
 - James Ellis, from British Government Communications Headquarters (GCHQ). Concept of public key encryption, 1969.

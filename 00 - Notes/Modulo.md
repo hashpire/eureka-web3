@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks::[Modular Arithmetic](./Modular Arithmetic.md)
+uplinks::[Modular Arithmetic](./Modular%20Arithmetic.md)
 tags:: #lang/en #type/term 
 # Modulo
 A term used to assert that two distinct mathematical objects can be regarded as equivalent — if their difference is accounted for by an additional factor.

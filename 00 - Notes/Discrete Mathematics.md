@@ -7,8 +7,8 @@ tags:: #lang/en #type/term
 # Discrete Mathematics
 - The study of mathematical structures that are discrete — countable, distinct and separable
 	-[Integer](./Integer.md)
-	-[Graph Theory](./Graph Theory.md)
-	-[Logical Statement](./Logical Statement.md)
+	-[Graph Theory](./Graph%20Theory.md)
+	-[Logical Statement](./Logical%20Statement.md)
 	-[Combination](./Combination.md)
 
 ## References

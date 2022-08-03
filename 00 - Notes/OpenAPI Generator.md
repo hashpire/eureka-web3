@@ -42,7 +42,7 @@ brew install openapi-generator
 openapi-generator-cli generate -i petstore.yaml -g ruby -o /tmp/test/
 ```
 ## See Also
-1.[OpenAPI Generator vs Swagger Codegen](./OpenAPI Generator vs Swagger Codegen.md)
+1.[OpenAPI Generator vs Swagger Codegen](./OpenAPI%20Generator%20vs%20Swagger%20Codegen.md)
 
 ## References
 1. https://openapi-generator.tech/

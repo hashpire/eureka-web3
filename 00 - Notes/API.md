@@ -8,6 +8,6 @@ tags:: #lang/en #type/term
 - Short for Application Programming Interface
 - A set of definitions that explain how applications communicate with each other
 ## See Also
--[REST API](./REST API.md)
+-[REST API](./REST%20API.md)
 -[OpenAPI](./OpenAPI.md)
 -[GraphQL](./GraphQL.md)

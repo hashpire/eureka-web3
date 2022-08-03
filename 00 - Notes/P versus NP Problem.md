@@ -2,7 +2,7 @@
 version: "0.0.0"
 published: true
 ---
-uplinks::[Computer Science](./Computer Science.md)
+uplinks::[Computer Science](./Computer%20Science.md)
 tags:: #lang/en #note/develop 
 # P versus NP Problem
 - A major unsolved problem in computer science

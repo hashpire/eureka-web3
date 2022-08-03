@@ -21,9 +21,9 @@ tags:: #lang/th #type/moc
 
 ## MOC Hash Function Properties 
 -  [Arbitrary-length message to fixed-length digest](Arbitrary-length%20message%20to%20fixed-length%20digest.md)
--  [Pre-image resistant (One-way property)](Pre-image%20resistant%20(One-way%20property).md)
--  [Second pre-image resistant (Weak collision resistant)](Second%20pre-image%20resistant%20(Weak%20collision%20resistant).md)
--  [Collision resistant (Strong collision resistance)](Collision%20resistant%20(Strong%20collision%20resistance).md)
+-  [Pre-image resistant (One-way%20property)](Pre-image%20resistant%20(One-way%20property).md)
+-  [Second pre-image resistant (Weak%20collisio%20resistant)](Second%20pre-image%20resistant%20(Weak%20collision%20resistant).md)
+-  [Collision resistant (Strong%20collisio%20resistance)](Collision%20resistant%20(Strong%20collision%20resistance).md)
 -  [Hash Function Computation](Hash%20Function%20Computation.md)
 
 ## MOC Popular Hash Functions
@@ -32,7 +32,7 @@ tags:: #lang/th #type/moc
 -  [SHA-2 Family](SHA-2%20Family.md)
 -  [SHA-3](SHA-3.md)
 -  [RIPEMD160](RIPEMD160.md)
--  [SM3 (Shang Mi)](SM3%20(Shang%20Mi).md)
+-  [SM3 (Shang%20Mi)](SM3%20(Shang%20Mi).md)
 -  [Whirlpool](Whirlpool.md)
 
 ##  MOC Applications of Hash

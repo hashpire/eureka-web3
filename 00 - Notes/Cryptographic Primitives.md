@@ -8,8 +8,8 @@ tags:: #lang/en #type/term
 Cryptographic primimtives are **low-level cryptographic algorithms** that are frequently **used to build cryptosystems**.
 
 ## Common Primitives
--[Hash Function](./Hash Function.md)
--[Public-key Cryptography](./Public-key Cryptography.md)
--[Digital Signature](./Digital Signature.md)
+-[Hash Function](./Hash%20Function.md)
+-[Public-key Cryptography](./Public-key%20Cryptography.md)
+-[Digital Signature](./Digital%20Signature.md)
 
 ## See Also
