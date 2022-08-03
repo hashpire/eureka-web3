@@ -1,0 +1,19 @@
+---
+version: "0.0.1"
+cover_image:
+published: true
+contributors: ["Sutida"]
+---
+uplinks:: [[Digital Signature-MOC]]
+tags:: #lang/th #type/term
+
+# Digital Signature
+*Digital Signature* คือลายมือชื่อ หรือที่เราเรียกกันทั่วไปว่า *ลายเซ็น* ได้มาจากกระบวนการเข้ารหัส [[Encryption]] โดยการใช้ [[Public Key Cryptography]] ช่วยให้สามารถยืนยันตัวตนเจ้าของลายมือชื่อและตรวจสอบการเปลี่ยนแปลงของข้อความและลายมือชื่อ รวมถึงทำให้เจ้าของลายมือชื่อไม่สามารถปฏิเสธความรับผิดชอบจากข้อความที่ตนเองได้แสดงเจตนาในการลงลายมือชื่อได้ เนื่องจากเป็นลายมือชื่อที่อยู่ในรูปแบบอิเล็กทรอนิกส์ มีการเพิ่มคุณสมบัติด้านความปลอดภัยเข้าไป เพื่อให้มีความน่าเชื่อถือของมากยิ่งขึ้น 
+
+---
+## See also
+- [[ความปลอดภัยของ Digital Signature]]
+- [[คุณสมบัติเด่นของ Digital Signature]]
+## References
+- [Siwanad,"Advanced e-signature/Digital Signature"](https://codium.co/blogs/30-What-the-difference-between-e-signature-and-digital-signature?utm_source=google&utm_medium=cpc&utm_campaign=eMemo-article&utm_content=Article-230821-esigvsdigital&utm_term=digital%20signature%20%E0%B8%84%E0%B8%B7%E0%B8%AD&gclid=CjwKCAjw9e6SBhB2EiwA5myr9tUT98mFOEcTg_LE8kmYmzY0Q7_5XniIeg5Nb4mwD8ziNTuTi6qENBoCRO8QAvD_BwE)
+- ["บทนำเกี่ยวกับเทคโนโลยีความปลอดภัยของข้อมูล,"2560](https://www.nrca.go.th/content/02-1.html)
