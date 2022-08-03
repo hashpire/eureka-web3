@@ -8,7 +8,7 @@ uplinks::[MOC Blockchain Wallets](./MOC%20Blockchai%20Wallets.md)
 tags:: #lang/th #type/thing
 
 # Blockchain Wallets
-- *Blockchain Wallets* คือ กระเป๋าตังค์ สำหรับใช้ในการเก็บ[Private Key](./Private%20Key.md)แตกต่างกับกระเป๋าตังค์ทั่ว%20ๆ%20ไป%20ที่จะเก็บธนบัตรหรือเหรียญไว้%20เนื่องจากในโลกของ[Cryptocurrency(coin)](./Cryptocurrency(coin).md)สินทรัพย์ดิจิทัล จะถูกรักษาความปลอดภัยโดย Private Keys 
+- *Blockchain Wallets* คือ กระเป๋าตังค์ สำหรับใช้ในการเก็บ[Private Key](./Private%20Key.md)แตกต่างกับกระเป๋าตังค์ทั่ว ๆ ไป ที่จะเก็บธนบัตรหรือเหรียญไว้ เนื่องจากในโลกของ[Cryptocurrency(coin)](./Cryptocurrency(coin).md)สินทรัพย์ดิจิทัล จะถูกรักษาความปลอดภัยโดย Private Keys 
 - Private Key ที่เป็นเจ้าของสินทรัพย์ดิจิทัล ก็จะเป็นเจ้าของเงินดิจิทัลใน[Blockchain](./Blockchain.md)ที่เป็นฐานข้อมูล กระจายอยู่บนโลกออนไลน์
 - Blockchain Wallets เป็นได้ทั้ง Software เช่น[MetaMask](./MetaMask.md)และยังสามารถเป็น Hardware ได้อีกด้วย
 ---

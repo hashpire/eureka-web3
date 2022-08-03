@@ -8,7 +8,7 @@ uplinks::[MOC Blockchain Wallets](./MOC%20Blockchai%20Wallets.md)
 tags:: #lang/th #type/thing
 
 # Interact with the blockchain network
-หน้าที่ของ[Blockchain Wallets](./Blockchain%20Wallets.md)นอกจาก[Key Management](./Key%20Management.md)แล้ว%20ยังมีอีกหนึ่งหน้าที่%20คือ%20การสร้างปฏิสัมพันธ์กันระหว่าง%20transaction%20กับ[Blockchain](./Blockchain.md) เช่น หลังจากที่เราทำธุรกรรมเรียบร้อยแล้ว จะต้องส่งไปที่เครือ Blockchain เพื่อทำการตรวจสอบ และยืนยันความถูกต้อง
+หน้าที่ของ[Blockchain Wallets](./Blockchain%20Wallets.md)นอกจาก[Key Management](./Key%20Management.md)แล้ว ยังมีอีกหนึ่งหน้าที่ คือ การสร้างปฏิสัมพันธ์กันระหว่าง transaction กับ[Blockchain](./Blockchain.md) เช่น หลังจากที่เราทำธุรกรรมเรียบร้อยแล้ว จะต้องส่งไปที่เครือ Blockchain เพื่อทำการตรวจสอบ และยืนยันความถูกต้อง
 
 ---
 ## See also

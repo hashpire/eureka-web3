@@ -8,7 +8,7 @@ uplinks::[MOC Cryptographic Primitives & Math](./MOC Cryptographic Primitives & 
 tags:: #lang/th #type/thing
 
 # Elliptic Curve Cryptography
-- *Elliptic Curve Cryptography (ECC)*%20เป็นแนวทางในการเข้ารหัสแบบ[Publi%20Key](./Public%20Key.md)โดยอิงจากโครงสร้างพีชคณิตของ[Elliptic Curve (EC)](./Elliptic%20Curv%20(EC).md)
+- *Elliptic Curve Cryptography (ECC)*%20เป็นแนวทางในการเข้ารหัสแบบ[Public Key](./Public%20Key.md)โดยอิงจากโครงสร้างพีชคณิตของ[Elliptic Curve (EC)](./Elliptic%20Curv%20(EC).md)
 - เป็นการเข้ารหัสแบบ Public Key ที่ปลอดภัยกว่า ระบบการเข้ารหัสแบบ[RSA](./RSA.md)อย่างมาก
 ---
 ## See also

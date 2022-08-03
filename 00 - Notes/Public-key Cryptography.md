@@ -16,7 +16,7 @@ tags:: #lang/en #type/term
 -[Digital Signature](./Digital%20Signature.md)
 
 ## Examples
--[Elliptic Curve Cryptography](./Elliptic%20Curv%20Cryptography.md)
+-[Elliptic Curve Cryptography](./Elliptic%20Curve%20Cryptography.md)
 
 ## See Also
 1.[History of Public Key Cryptography](./History%20of%20Public%20Key%20Cryptography.md)

@@ -8,7 +8,7 @@ uplinks::[MOC Type of HD Wallet](./MOC%20Type%20of%20HD%20Wallet.md)
 tags:: #lang/th #type/thing
 
 # Type-2 BIP32 Hierarchical Deterministic Wallet
-*Type-2 BIP32 Hierarchical Deterministic Wallet* หรือ *HD Wallet* คือ[Deterministic Wallet](./Deterministic%20Wallet.md)รุ่นที่%202%20ที่ออกมาเพื่อแก้ปัญหาของกระเป๋าตังค์รุ่นแรกอย่าง[Type-1%20Deterministic%20Wallet](./Type-1%20Deterministi%20Wallet.md)และเป็นกระเป๋าที่มีการใช้งานอยู่ในปัจจุบัน คิคค้นโดย Gregory Maxwell
+*Type-2 BIP32 Hierarchical Deterministic Wallet* หรือ *HD Wallet* คือ[Deterministic Wallet](./Deterministic%20Wallet.md)รุ่นที่ 2 ที่ออกมาเพื่อแก้ปัญหาของกระเป๋าตังค์รุ่นแรกอย่าง[Type-1 Deterministic Wallet](./Type-1%20Deterministi%20Wallet.md)และเป็นกระเป๋าที่มีการใช้งานอยู่ในปัจจุบัน คิคค้นโดย Gregory Maxwell
 - สามารถสร้าง[Private Key](./Private%20Key.md)ได้ 2 วิธี คือ
 	1.[BIP32 Normal Key Derivation|Normal / Soft / Non-hardened ](./BIP32 Normal Key Derivation|Normal / Soft / Non-hardened .md)
 	2.[BIP32 Hardened Key Derivation|Hardened / Hard](./BIP32 Hardened Key Derivation|Hardened / Hard.md)
