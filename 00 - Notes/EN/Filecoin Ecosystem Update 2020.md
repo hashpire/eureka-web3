@@ -59,8 +59,8 @@ To be a storage provider
 ---
 
 Filecoin Ecosystem
-[Attachments/Pasted image 20220221191020.png](./Attachments/Pasted%20imag%2020220221191020.png)
+[Attachments/Pasted image 20220221191020.png](../Attachments/Pasted%20imag%2020220221191020.png)
 IPFS Ecosystem
-[Attachments/Pasted image 20220221191053.png](./Attachments/Pasted%20imag%2020220221191053.png)
+[Attachments/Pasted image 20220221191053.png](../Attachments/Pasted%20imag%2020220221191053.png)
 ## References
 1. https://www.youtube.com/watch?v=FHqtIX4FPP4

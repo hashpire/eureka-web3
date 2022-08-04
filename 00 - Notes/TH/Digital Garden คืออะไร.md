@@ -6,7 +6,7 @@ cover_image: stream-campfire-garden.png
 uplinks::[Genesis](./Genesis.md)
 tags:: #lang/th #type/article
 # Digital Garden คืออะไร?
-[Attachments/stream-campfire-garden.png](./Attachments/stream-campfire-garden.png.md)
+![Attachments/stream-campfire-garden.png](../Attachments/stream-campfire-garden.png)
 
 การเขียนเพื่อแบ่งปันข้อมูลในพื้นที่สาธารณะมักถูกสร้างขึ้นในรูปแบบของ โพสต์ หรือ บล็อก ที่เนื้อหามักจะเก่าเร็วเมื่อมีการเผยแพร่ลงสื่อต่าง ๆ เนื่องจากรูปแบบของแพลตฟอร์มในปัจจุบันค่อนข้างเน้นการให้ความสำคัญกับคอนเทนต์ที่มีความสดใหม่
 
